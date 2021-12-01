@@ -58,10 +58,23 @@ if __name__ == "__main__":
 
     fromDate = datetime.date.today() - datetime.timedelta(1)
 
-    file_results = open("output/out.txt", "w")
+    file_tweets = open("output/tweets.txt", "w")
+    file_retweets = open("output/retweets.txt", "w")
+    file_replies = open("output/replies.txt", "w")
+
+    # Defing granularity counters (how many retweets/replies we want to count?)
+    retweets_limit = 0
+    replies_limit = 0
+    
 
     for profile in profiles:
         query = keywords_query + " from: " + profile
-        for status in tw.Cursor(api.search_30_day,label=os.getenv("DEV_ENVIRONMENT") ,fromDate= fromDate.strftime("%Y%m%d%H%M"), query= query).items():
-            file_results.write(json.dumps(status._json, indent=4))
-            file_results.write("\n\n\n ---------------- \n\n\n")
+        for tweet in tw.Cursor(api.search_30_day,label=os.getenv("DEV_ENVIRONMENT") ,fromDate= fromDate.strftime("%Y%m%d%H%M"), query= query).items():
+            file_tweets.write(json.dumps(tweet._json, indent=4))
+            file_tweets.write("\n\n\n ---------------- \n\n\n")
+  
+            retweets = api.get_retweets(id=tweet.id, count=2)
+
+            for retweet in retweets:    
+                file_retweets.write(json.dumps(retweet._json, indent=4))
+                file_retweets.write("\n\n\n ---------------- \n\n\n")

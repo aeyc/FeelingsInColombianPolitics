@@ -21,11 +21,11 @@
         "translator_type": "regular",
         "protected": false,
         "verified": true,
-        "followers_count": 4415992,
+        "followers_count": 4416267,
         "friends_count": 2577,
         "listed_count": 5022,
-        "favourites_count": 18591,
-        "statuses_count": 134078,
+        "favourites_count": 18590,
+        "statuses_count": 134079,
         "created_at": "Tue Jun 23 02:04:11 +0000 2009",
         "utc_offset": null,
         "time_zone": null,
@@ -70,10 +70,10 @@
             "symbols": []
         }
     },
-    "quote_count": 132,
-    "reply_count": 413,
-    "retweet_count": 480,
-    "favorite_count": 1483,
+    "quote_count": 381,
+    "reply_count": 1332,
+    "retweet_count": 1566,
+    "favorite_count": 5663,
     "entities": {
         "hashtags": [],
         "urls": [
