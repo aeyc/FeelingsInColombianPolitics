@@ -4,6 +4,13 @@ from dotenv import load_dotenv
 import os
 from datetime import timezone
 import datetime
+import time
+
+#
+#   Limit parameters for testing (if you are not using a premium account)
+#
+
+REPLIES_LIMIT = 5
 
 
 #
@@ -14,18 +21,9 @@ def connection_to_api():
     api = tw.API(auth, wait_on_rate_limit=True)
     return api
 
-#
-#   Create a twitter member list (if is needed)
-#
-def list_creation(api, profiles):
-    list = api.create_list("profiles")
-    for profile in profiles:
-          api.add_list_member(list_id = list.id, screen_name = profile)
-    return list.id
-
 
 #
-#   Load profiles screen name from profiles.txt and words from words.txt
+#   Load profiles screen name from profiles.txt and keywords from keywords.txt
 #
 def load_filters():
     profiles = []
@@ -38,6 +36,17 @@ def load_filters():
         keywords.append(line.rstrip('\n'))
     return profiles, keywords
 
+def get_replies(profile,tweet_id,api):
+    data = tw.Cursor(api.search_tweets, q='to:{}'.format(profile),since_id=tweet_id, tweet_mode='extended').items(REPLIES_LIMIT)
+    replies = []
+    for reply in data:
+        if not hasattr(reply, 'in_reply_to_status_id_str'):
+            continue
+        if reply.in_reply_to_status_id == tweet_id:
+            #print("reply of tweet:{}".format(reply.full_text))
+            replies.append(reply)
+ 
+    return replies
 
 
 if __name__ == "__main__":
@@ -48,33 +57,42 @@ if __name__ == "__main__":
 
     profiles, keywords = load_filters()
 
+    print("  Tweets collector script  ")
+
+    print("[*] profiles loaded: ", len(profiles))
+    print("[*] keywords loaded: ", len(keywords))
+
     keywords_query = "("
 
     for keyword,i in zip(keywords, range(len(keywords))):
         keywords_query += keyword
         if(i<len(keywords)-1):
             keywords_query += " OR "
+
     keywords_query += ")"
 
     fromDate = datetime.date.today() - datetime.timedelta(1)
 
-    file_tweets = open("output/tweets.txt", "w")
-    file_retweets = open("output/retweets.txt", "w")
-    file_replies = open("output/replies.txt", "w")
+    print("[*] from date: ", fromDate.strftime("%Y%m%d%H%M"))
 
-    # Defing granularity counters (how many retweets/replies we want to count?)
-    retweets_limit = 0
-    replies_limit = 0
-    
+    file_tweets = open("output/tweets.json", "w")
+    file_replies = open("output/replies.json", "w")
+
 
     for profile in profiles:
+        print("[*] collecting tweets of: ", profile)
         query = keywords_query + " from: " + profile
-        for tweet in tw.Cursor(api.search_30_day,label=os.getenv("DEV_ENVIRONMENT") ,fromDate= fromDate.strftime("%Y%m%d%H%M"), query= query).items():
-            file_tweets.write(json.dumps(tweet._json, indent=4))
-            file_tweets.write("\n\n\n ---------------- \n\n\n")
-  
-            retweets = api.get_retweets(id=tweet.id, count=2)
+        for tweet in tw.Cursor(api.search_full_archive,label=os.getenv("DEV_ENVIRONMENT") ,fromDate= fromDate.strftime("%Y%m%d%H%M"), query= query).items():
 
-            for retweet in retweets:    
-                file_retweets.write(json.dumps(retweet._json, indent=4))
-                file_retweets.write("\n\n\n ---------------- \n\n\n")
+            print("[*] loading replies for tweet_id: ", tweet.id, "in ", profile)
+
+            replies = get_replies(profile,tweet.id,api)
+
+            print("> replies colected: ", len(replies))
+
+            for reply in replies:
+                file_replies.write(json.dumps(reply._json, indent=4))
+                file_replies.write("\n\n\n")
+
+            file_tweets.write(json.dumps(tweet._json, indent=4))
+            file_tweets.write("\n\n\n")
