@@ -11,17 +11,14 @@ import time
 #
 
 RESULTS_LIMIT = 10
-RESULT_PER_PAGE = 11
 
 
 #
 #   Method for establish a connection whit Twitter API
 #
 def connection_to_api():
-    auth = tw.OAuthHandler(os.getenv("API_KEY"), os.getenv("API_KEY_SECRET"))
     client = tw.Client(bearer_token=os.getenv("BEARER_TOKEN"))
-    api = tw.API(auth, wait_on_rate_limit=True)
-    return api,client
+    return client
 
 
 #
@@ -39,49 +36,38 @@ def load_filters():
     return profiles, keywords
 
 
-#
-#   Collect the replies to a tweet
-#
-def get_replies(tweet_id):
-    for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["created_at"], max_results=10).flatten(limit=RESULT_PER_PAGE):
-        parsed = {}
-        parsed['id'] = reply.id
-        parsed['created_at'] = str(reply.created_at)
-        parsed['text'] = reply.text
-        file_replies.write(json.dumps(parsed, indent=4))
-
-
 if __name__ == "__main__":
 
     start_time = time.time()
 
+    #
+    #   Settings
+    #
+
     load_dotenv()
 
-    api,client = connection_to_api()
-
-    # Loading of profiles screen names and the keywords
-    
-    profiles, keywords = load_filters()
-
-    print("\n\n  Tweets collector script  \n\n")
-
-    print("[INFO] profiles loaded: ", len(profiles))
-    print("[INFO] keywords loaded: ", len(keywords))
-
-
-    fromDate = datetime.date.today() - datetime.timedelta(1)
-
-
-    print("[INFO] start date: ", fromDate.strftime("%Y%m%d%H%M"))
-
-    print("\n")
-
-    # Create and open the output files: one for the tweets collected and another for the replies
-
+    file_state = open(".appdata/state.json", "w")
+    file_logs = open(".appdata/logs.txt", "w")
     file_tweets = open("output/tweets.json", "w")
     file_replies = open("output/replies.json", "w")
 
     tweets_id = []
+
+    client = connection_to_api() # API authentication
+    
+    profiles, keywords = load_filters() # Loading of profiles screen names and the keywords
+
+    fromDate = datetime.date.today() - datetime.timedelta(1)
+
+    print("\n\n  Tweets collector script  \n\n")
+    print("[INFO] profiles loaded: ", len(profiles))
+    print("[INFO] keywords loaded: ", len(keywords))
+    print("[INFO] start date: ", fromDate.strftime("%Y%m%d%H%M"))
+    print("\n")
+
+    #
+    #   Algorithm
+    #
 
     # For each profile I get all the tweets from a certain date
     for profile in profiles:
@@ -90,11 +76,11 @@ if __name__ == "__main__":
 
         user_id = client.get_user(username=profile)[0].id
 
-        print("Collecting replies of",profile, "...")
+        print("Collecting tweets of",profile, "...")
 
-        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["created_at"], exclude=["retweets", "replies"],start_time=fromDate.strftime("%Y-%m-%dT%H:%M:%SZ"),max_results=RESULTS_LIMIT).flatten(limit=RESULT_PER_PAGE):
+        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["created_at"], exclude=["retweets", "replies"],start_time=fromDate.strftime("%Y-%m-%dT%H:%M:%SZ")).flatten(limit=RESULTS_LIMIT):
             for keyword in keywords:
-                if keyword in tweet.text:
+                if keyword.casefold() in tweet.text.casefold():
                     parsed = {}
                     parsed['id'] = tweet.id
                     parsed['created_at'] = str(tweet.created_at)
@@ -105,21 +91,39 @@ if __name__ == "__main__":
     print("[*] total tweets collected: ", len(tweets_id))
     print("\n")
 
+    total_rpl_count = 0
+
     for tweet_id in tweets_id:
         print("Collecting replies for tweet_id: ",tweet_id, "...")
         
         rpl_count = 0
 
-        for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["created_at"], max_results=10).flatten(limit=RESULT_PER_PAGE):
+        for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["created_at"], max_results=10).flatten(limit=RESULTS_LIMIT):
             parsed = {}
             parsed['id'] = reply.id
+            parsed['tweet_id'] = tweet_id
             parsed['created_at'] = str(reply.created_at)
             parsed['text'] = reply.text
             file_replies.write(json.dumps(parsed, indent=4))
             rpl_count += 1
 
+        total_rpl_count += rpl_count
+
         print("[*] replies collected: ", rpl_count, "\n")
 
-        end_time = time.time()
 
-        print("---- Total execution time:",end_time-start_time," ----")
+    end_time = time.time()
+
+    print("---- Total execution time:",end_time-start_time," ----")
+
+    state = {}
+    state['last_run'] = datetime.date.today().strftime("%Y-%m-%dT%H:%M:%SZ")
+    state['total_tweets_collected'] = len(tweets_id)
+    state['total_replies_collected'] = total_rpl_count
+    state['execution_time'] = end_time - start_time
+    file_state.write(json.dumps(state, indent=4))
+
+    file_state.close()
+    file_logs.close()
+    file_tweets.close()
+    file_replies.close()
