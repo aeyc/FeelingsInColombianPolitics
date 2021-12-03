@@ -5,7 +5,6 @@ import os
 from datetime import timezone
 import datetime
 import time
-from collections import namedtuple
 
 #
 #   Limit parameters for testing (if you are not using a premium account)
@@ -43,15 +42,18 @@ def load_filters():
 #
 #   Collect the replies to a tweet
 #
-def get_replies(conversation_id):
-    for reply in tw.Paginator(client.search_recent_tweets, query="conversation_id:"+str(conversation_id), max_results=10).flatten(limit=RESULT_PER_PAGE):
+def get_replies(tweet_id):
+    for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["created_at"], max_results=10).flatten(limit=RESULT_PER_PAGE):
         parsed = {}
         parsed['id'] = reply.id
+        parsed['created_at'] = str(reply.created_at)
         parsed['text'] = reply.text
         file_replies.write(json.dumps(parsed, indent=4))
 
 
 if __name__ == "__main__":
+
+    start_time = time.time()
 
     load_dotenv()
 
@@ -61,36 +63,63 @@ if __name__ == "__main__":
     
     profiles, keywords = load_filters()
 
-    print("  Tweets collector script  ")
+    print("\n\n  Tweets collector script  \n\n")
 
-    print("[*] profiles loaded: ", len(profiles))
-    print("[*] keywords loaded: ", len(keywords))
+    print("[INFO] profiles loaded: ", len(profiles))
+    print("[INFO] keywords loaded: ", len(keywords))
 
 
     fromDate = datetime.date.today() - datetime.timedelta(1)
 
-    print("[*] from date: ", fromDate.strftime("%Y%m%d%H%M"))
+
+    print("[INFO] start date: ", fromDate.strftime("%Y%m%d%H%M"))
+
+    print("\n")
 
     # Create and open the output files: one for the tweets collected and another for the replies
 
     file_tweets = open("output/tweets.json", "w")
     file_replies = open("output/replies.json", "w")
 
-    conversations = []
+    tweets_id = []
 
     # For each profile I get all the tweets from a certain date
-
     for profile in profiles:
+
+        # Get the user_id of a screen name
+
         user_id = client.get_user(username=profile)[0].id
-        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields="conversation_id", max_results=RESULTS_LIMIT).flatten(limit=RESULT_PER_PAGE):
+
+        print("Collecting replies of",profile, "...")
+
+        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["created_at"], exclude=["retweets", "replies"],start_time=fromDate.strftime("%Y-%m-%dT%H:%M:%SZ"),max_results=RESULTS_LIMIT).flatten(limit=RESULT_PER_PAGE):
             for keyword in keywords:
                 if keyword in tweet.text:
                     parsed = {}
                     parsed['id'] = tweet.id
-                    parsed['conversation_id'] = tweet.conversation_id
+                    parsed['created_at'] = str(tweet.created_at)
                     parsed['text'] = tweet.text
                     file_tweets.write(json.dumps(parsed, indent=4))
-                    conversations.append(tweet.conversation_id)
+                    tweets_id.append(tweet.id)
+    
+    print("[*] total tweets collected: ", len(tweets_id))
+    print("\n")
 
-    for conversation_id in conversations:
-        replies = get_replies(conversation_id)
+    for tweet_id in tweets_id:
+        print("Collecting replies for tweet_id: ",tweet_id, "...")
+        
+        rpl_count = 0
+
+        for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["created_at"], max_results=10).flatten(limit=RESULT_PER_PAGE):
+            parsed = {}
+            parsed['id'] = reply.id
+            parsed['created_at'] = str(reply.created_at)
+            parsed['text'] = reply.text
+            file_replies.write(json.dumps(parsed, indent=4))
+            rpl_count += 1
+
+        print("[*] replies collected: ", rpl_count, "\n")
+
+        end_time = time.time()
+
+        print("---- Total execution time:",end_time-start_time," ----")
