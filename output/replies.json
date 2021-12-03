@@ -1,98 +1,34 @@
 {
-    "created_at": "Wed Dec 01 17:51:12 +0000 2021",
-    "id": 1466102596511412224,
-    "id_str": "1466102596511412224",
-    "full_text": "@petrogustavo Esperanza apoye a Gustavo Petro dele toda la confianza .El cambio es para todas y todos los colombianos ,el pacto Hist\u00f3rico es para unir a la naci\u00f3n .",
-    "truncated": false,
-    "display_text_range": [
-        14,
-        164
-    ],
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-            {
-                "screen_name": "petrogustavo",
-                "name": "Gustavo Petro",
-                "id": 49849732,
-                "id_str": "49849732",
-                "indices": [
-                    0,
-                    13
-                ]
-            }
-        ],
-        "urls": []
-    },
-    "metadata": {
-        "iso_language_code": "es",
-        "result_type": "recent"
-    },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1465814680216211458,
-    "in_reply_to_status_id_str": "1465814680216211458",
-    "in_reply_to_user_id": 49849732,
-    "in_reply_to_user_id_str": "49849732",
-    "in_reply_to_screen_name": "petrogustavo",
-    "user": {
-        "id": 1443283384210440199,
-        "id_str": "1443283384210440199",
-        "name": "RODOLFO CARRE\u00d1O DAZA",
-        "screen_name": "RODOLFOCARREOD3",
-        "location": "",
-        "description": "El ser humano no crea, solo descubre lo que Dios le permite.",
-        "url": null,
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        },
-        "protected": false,
-        "followers_count": 11,
-        "friends_count": 35,
-        "listed_count": 0,
-        "created_at": "Wed Sep 29 18:36:48 +0000 2021",
-        "favourites_count": 0,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 24,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1446939201803522049/zGb5xnf2_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1446939201803522049/zGb5xnf2_normal.jpg",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": null,
-        "follow_request_sent": null,
-        "notifications": null,
-        "translator_type": "none",
-        "withheld_in_countries": []
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "es"
+    "id": 1466868104961708034,
+    "text": "@petrogustavo Se le fue la mano en la edici\u00f3n de la foto"
+}{
+    "id": 1466868033591418880,
+    "text": "@petrogustavo \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23. No se cansan de derrochar dinero.  Quien financiar\u00e1 al se\u00f1or de las bolsas.   ?  Que hp foto tan pecueca de mala."
+}{
+    "id": 1466867892947931151,
+    "text": "@petrogustavo Este  es un.pais de.mamertos https://t.co/OTUxyJGCBY"
+}{
+    "id": 1466867822697590787,
+    "text": "@petrogustavo https://t.co/S2qwhxkH6T"
+}{
+    "id": 1466867801877065731,
+    "text": "@petrogustavo https://t.co/DPhi774k3t"
+}{
+    "id": 1466867786068680710,
+    "text": "@petrogustavo Un ejemplo claro de que solo buscan likes!!!"
+}{
+    "id": 1466867783434711045,
+    "text": "@petrogustavo https://t.co/XSRS8s33pJ"
+}{
+    "id": 1466867761607495690,
+    "text": "@petrogustavo https://t.co/2KqXUMeQ2a"
+}{
+    "id": 1466867736957566977,
+    "text": "@petrogustavo Coman.cuento.marranos.que.ay.van mentiras https://t.co/iXtFx1Uufc"
+}{
+    "id": 1466867645727268864,
+    "text": "@cesaraperdomo @petrogustavo Porque con esas fotos manipuladas sus borregos tienen caballito de batalla para decir que su mes\u00edas es grandioso"
+}{
+    "id": 1466867534251102215,
+    "text": "@petrogustavo Cuatro pelagatos detr\u00e1s de un \u00e1rbol para hacer bulto.\nSea serio Petro, controle esos videos chimbos\n\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e"
 }
-
-
