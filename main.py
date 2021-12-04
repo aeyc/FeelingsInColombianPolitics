@@ -78,13 +78,16 @@ if __name__ == "__main__":
 
         print("Collecting tweets of",profile, "...")
 
-        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["created_at"], exclude=["retweets", "replies"],start_time=fromDate.strftime("%Y-%m-%dT%H:%M:%SZ")).flatten(limit=RESULTS_LIMIT):
+        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["created_at","public_metrics","entities","geo"], exclude=["retweets", "replies"],start_time=fromDate.strftime("%Y-%m-%dT%H:%M:%SZ")).flatten(limit=RESULTS_LIMIT):
             for keyword in keywords:
                 if keyword.casefold() in tweet.text.casefold():
                     parsed = {}
                     parsed['id'] = tweet.id
                     parsed['created_at'] = str(tweet.created_at)
                     parsed['text'] = tweet.text
+                    parsed['public_metrics'] = tweet.public_metrics
+                    parsed['entities'] = tweet.entities
+                    parsed['geo'] = tweet.geo
                     file_tweets.write(json.dumps(parsed, indent=4))
                     tweets_id.append(tweet.id)
     
@@ -98,12 +101,15 @@ if __name__ == "__main__":
         
         rpl_count = 0
 
-        for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["created_at"], max_results=10).flatten(limit=RESULTS_LIMIT):
+        for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["created_at","public_metrics","entities","geo"], max_results=10).flatten(limit=RESULTS_LIMIT):
             parsed = {}
             parsed['id'] = reply.id
-            parsed['tweet_id'] = tweet_id
+            parsed['in_reply_to_tweet_id'] = tweet_id
             parsed['created_at'] = str(reply.created_at)
             parsed['text'] = reply.text
+            parsed['public_metrics'] = reply.public_metrics
+            parsed['entities'] = reply.entities
+            parsed['geo'] = reply.geo
             file_replies.write(json.dumps(parsed, indent=4))
             rpl_count += 1
 
