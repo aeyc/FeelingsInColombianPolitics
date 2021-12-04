@@ -1,88 +1,9 @@
 {
-    "id": 1466941783653425155,
+    "id": 1467080456290058242,
+    "author_id": 1311840383157129216,
     "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:25:50+00:00",
-    "text": "@JairoLi03667472 @petrogustavo Jaajajaja osea solo es el matarife ,y estos con los q esta petro q son? A cierto q ellos salvaron a Colombia de la dictadura y jamas vendieron droga ,mataron ,violaron desaparecieron, quemaron secuestraron, etc,jajaajaja pero solo era matar\u00edfe, son bien rid\u00edculos jaajjaj https://t.co/rxQEK6V3a5",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 131,
-                "end": 138,
-                "probability": 0.9851,
-                "type": "Place",
-                "normalized_text": "Colombia"
-            }
-        ],
-        "urls": [
-            {
-                "start": 303,
-                "end": 326,
-                "url": "https://t.co/rxQEK6V3a5",
-                "expanded_url": "https://twitter.com/Ricardo36598689/status/1466941783653425155/photo/1",
-                "display_url": "pic.twitter.com/rxQEK6V3a5"
-            }
-        ],
-        "mentions": [
-            {
-                "start": 0,
-                "end": 16,
-                "username": "JairoLi03667472",
-                "id": "1453894843940356098"
-            },
-            {
-                "start": 17,
-                "end": 30,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ]
-    },
-    "geo": null
-}{
-    "id": 1466941482766671875,
-    "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:24:38+00:00",
-    "text": "@haberoso @man841210 @petrogustavo menos de 200 parsonas habian ahi, no mas",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 9,
-                "username": "haberoso",
-                "id": "940209666"
-            },
-            {
-                "start": 10,
-                "end": 20,
-                "username": "man841210",
-                "id": "176630243"
-            },
-            {
-                "start": 21,
-                "end": 34,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ]
-    },
-    "geo": null
-}{
-    "id": 1466941194345324546,
-    "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:23:29+00:00",
-    "text": "@JuampaSantos @petrogustavo Pero su patr\u00f3n dijo que era demasiado inteligente.... Entonces eso ser\u00eda si llegara duque. La barriga la tiene ...",
+    "created_at": "2021-12-04 10:36:52+00:00",
+    "text": "@Jadircas1980 @petrogustavo https://t.co/CUF4Zv0CaO",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -94,8 +15,8 @@
             {
                 "start": 0,
                 "end": 13,
-                "username": "JuampaSantos",
-                "id": "893157730529292289"
+                "username": "Jadircas1980",
+                "id": "1275296355183996929"
             },
             {
                 "start": 14,
@@ -103,14 +24,24 @@
                 "username": "petrogustavo",
                 "id": "49849732"
             }
+        ],
+        "urls": [
+            {
+                "start": 28,
+                "end": 51,
+                "url": "https://t.co/CUF4Zv0CaO",
+                "expanded_url": "https://twitter.com/AlarkonMaurizio/status/1467080456290058242/photo/1",
+                "display_url": "pic.twitter.com/CUF4Zv0CaO"
+            }
         ]
     },
     "geo": null
 }{
-    "id": 1466940549697523716,
+    "id": 1467080352783081479,
+    "author_id": 1311840383157129216,
     "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:20:56+00:00",
-    "text": "@petrogustavo Ya es hora de pronunciarse sobre el tema L. P\u00e9rez un politiquero de los de siempre corrupto y uribista. Y sobre el tema d\u00f3nde se pretende imponer a @agmethescaf por sobre @migueldelrioabg. Que est\u00e1 pasando con la coherencia. Se est\u00e1 mellado la confianza en el pacto.",
+    "created_at": "2021-12-04 10:36:27+00:00",
+    "text": "@petrogustavo #OjoConEl2022\n#OjoConEl2022\n#OjoConEl2022\n#OjoConEl2022\n#OjoConEl2022\n#OjoConEl2022 https://t.co/Cokhpfy6TZ",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -118,142 +49,70 @@
         "quote_count": 0
     },
     "entities": {
-        "annotations": [
+        "mentions": [
             {
-                "start": 55,
-                "end": 62,
-                "probability": 0.9871,
-                "type": "Person",
-                "normalized_text": "L. P\u00e9rez"
+                "start": 0,
+                "end": 13,
+                "username": "petrogustavo",
+                "id": "49849732"
             }
         ],
-        "mentions": [
+        "urls": [
             {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
-            },
-            {
-                "start": 162,
-                "end": 174,
-                "username": "agmethescaf",
-                "id": "258093170"
-            },
-            {
-                "start": 185,
-                "end": 201,
-                "username": "migueldelrioabg",
-                "id": "2593740297"
+                "start": 98,
+                "end": 121,
+                "url": "https://t.co/Cokhpfy6TZ",
+                "expanded_url": "https://twitter.com/AlarkonMaurizio/status/1467080352783081479/photo/1",
+                "display_url": "pic.twitter.com/Cokhpfy6TZ"
             }
-        ]
-    },
-    "geo": null
-}{
-    "id": 1466939773642326021,
-    "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:17:51+00:00",
-    "text": "@eliafaher @petrogustavo Obvio es la mera decadencia de la humanidad  tambien ratas, expresidiarios, delincuentes de 1 linea, en fin...",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
+        ],
+        "hashtags": [
             {
-                "start": 0,
-                "end": 10,
-                "username": "eliafaher",
-                "id": "1619173878"
+                "start": 14,
+                "end": 27,
+                "tag": "OjoConEl2022"
             },
             {
-                "start": 11,
-                "end": 24,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ]
-    },
-    "geo": null
-}{
-    "id": 1466939318098878464,
-    "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:16:02+00:00",
-    "text": "@JulioCesarOlay8 @ludifao @petrogustavo Y la Gente????????????",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 16,
-                "username": "JulioCesarOlay8",
-                "id": "1309310020400680960"
+                "start": 28,
+                "end": 41,
+                "tag": "OjoConEl2022"
             },
             {
-                "start": 17,
-                "end": 25,
-                "username": "ludifao",
-                "id": "127567533"
+                "start": 42,
+                "end": 55,
+                "tag": "OjoConEl2022"
             },
-            {
-                "start": 26,
-                "end": 39,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ]
-    },
-    "geo": null
-}{
-    "id": 1466938923834392577,
-    "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:14:28+00:00",
-    "text": "@petrogustavo Lleno de venezolanos pagados, 50 mil pesos a c/u",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ]
-    },
-    "geo": null
-}{
-    "id": 1466938112391712770,
-    "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:11:15+00:00",
-    "text": "@petrogustavo El hijueputa se le llena la Jeta diciendo Bucaramanga. No sea guevon 50 gatos con unas banderas oyendo sus estupideces",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
             {
                 "start": 56,
-                "end": 66,
-                "probability": 0.8669,
-                "type": "Place",
-                "normalized_text": "Bucaramanga"
+                "end": 69,
+                "tag": "OjoConEl2022"
+            },
+            {
+                "start": 70,
+                "end": 83,
+                "tag": "OjoConEl2022"
+            },
+            {
+                "start": 84,
+                "end": 97,
+                "tag": "OjoConEl2022"
             }
-        ],
+        ]
+    },
+    "geo": null
+}{
+    "id": 1467080208511557643,
+    "author_id": 1311840383157129216,
+    "in_reply_to_tweet_id": 1466899877628194823,
+    "created_at": "2021-12-04 10:35:53+00:00",
+    "text": "@petrogustavo https://t.co/hOp304Hf1B",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
         "mentions": [
             {
                 "start": 0,
@@ -261,14 +120,24 @@
                 "username": "petrogustavo",
                 "id": "49849732"
             }
+        ],
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/hOp304Hf1B",
+                "expanded_url": "https://twitter.com/AlarkonMaurizio/status/1467080208511557643/photo/1",
+                "display_url": "pic.twitter.com/hOp304Hf1B"
+            }
         ]
     },
     "geo": null
 }{
-    "id": 1466937817402118153,
+    "id": 1467080170418937860,
+    "author_id": 1311840383157129216,
     "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:10:04+00:00",
-    "text": "@jkike_contreras @petrogustavo Tiene un 20% de los votos, el otro 80% votar\u00e1 en contra de el.\nPetro nunca ser\u00e1 presidente.",
+    "created_at": "2021-12-04 10:35:44+00:00",
+    "text": "@adriparamorista @joseabelardo833 @petrogustavo Y entonces la soluci\u00f3n es volvernos como Venezuela?..\nLa misma t\u00e1ctica que us\u00f3 Hugo Ch\u00e1vez, de desprestigiarlo todo, para \u00e9l aparecer como el Mesias, la repiten los imb\u00e9ciles colombianos. \nYa escogi\u00f3 si irse de prostituta o de mendigo, cuando Petro estatice hasta la comida? https://t.co/0GWeoUgXYI",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -278,9 +147,30 @@
     "entities": {
         "annotations": [
             {
-                "start": 94,
-                "end": 98,
-                "probability": 0.6905,
+                "start": 89,
+                "end": 97,
+                "probability": 0.985,
+                "type": "Place",
+                "normalized_text": "Venezuela"
+            },
+            {
+                "start": 127,
+                "end": 137,
+                "probability": 0.9949,
+                "type": "Person",
+                "normalized_text": "Hugo Ch\u00e1vez"
+            },
+            {
+                "start": 190,
+                "end": 195,
+                "probability": 0.7244,
+                "type": "Person",
+                "normalized_text": "Mesias"
+            },
+            {
+                "start": 291,
+                "end": 295,
+                "probability": 0.8824,
                 "type": "Person",
                 "normalized_text": "Petro"
             }
@@ -289,23 +179,39 @@
             {
                 "start": 0,
                 "end": 16,
-                "username": "jkike_contreras",
-                "id": "481777798"
+                "username": "adriparamorista",
+                "id": "156323694"
             },
             {
                 "start": 17,
-                "end": 30,
+                "end": 33,
+                "username": "joseabelardo833",
+                "id": "1137879542"
+            },
+            {
+                "start": 34,
+                "end": 47,
                 "username": "petrogustavo",
                 "id": "49849732"
+            }
+        ],
+        "urls": [
+            {
+                "start": 323,
+                "end": 346,
+                "url": "https://t.co/0GWeoUgXYI",
+                "expanded_url": "https://twitter.com/AlarkonMaurizio/status/1467080170418937860/photo/1",
+                "display_url": "pic.twitter.com/0GWeoUgXYI"
             }
         ]
     },
     "geo": null
 }{
-    "id": 1466937393450299400,
+    "id": 1467079492644622340,
+    "author_id": 1311840383157129216,
     "in_reply_to_tweet_id": 1466899877628194823,
-    "created_at": "2021-12-04 01:08:23+00:00",
-    "text": "@petrogustavo Es incre\u00edble, en todas sus manifestaciones aparecen extraterrestres de muchas manos. https://t.co/W9ypRzuISo",
+    "created_at": "2021-12-04 10:33:02+00:00",
+    "text": "@adriparamorista @joseabelardo833 @petrogustavo 'Ultraderecha'?....acaso alguno ha reducido el tama\u00f1o del Estado?.. Ha reducido gasto p\u00fablico?.. Ha reformado ese nido de ratas del cartel de la toga ya dem\u00e1s delincuentes de la rama judicial?.. Ha reducido el IVA.. han dejado de crear subsidios?.",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -313,21 +219,208 @@
         "quote_count": 0
     },
     "entities": {
-        "urls": [
+        "mentions": [
             {
-                "start": 99,
-                "end": 122,
-                "url": "https://t.co/W9ypRzuISo",
-                "expanded_url": "https://twitter.com/cjpzorro/status/1466937393450299400/photo/1",
-                "display_url": "pic.twitter.com/W9ypRzuISo"
+                "start": 0,
+                "end": 16,
+                "username": "adriparamorista",
+                "id": "156323694"
+            },
+            {
+                "start": 17,
+                "end": 33,
+                "username": "joseabelardo833",
+                "id": "1137879542"
+            },
+            {
+                "start": 34,
+                "end": 47,
+                "username": "petrogustavo",
+                "id": "49849732"
+            }
+        ]
+    },
+    "geo": null
+}{
+    "id": 1467078672968523781,
+    "author_id": 1311840383157129216,
+    "in_reply_to_tweet_id": 1466899877628194823,
+    "created_at": "2021-12-04 10:29:47+00:00",
+    "text": "@adriparamorista @joseabelardo833 @petrogustavo https://t.co/8rkVJ7hwMo",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "adriparamorista",
+                "id": "156323694"
+            },
+            {
+                "start": 17,
+                "end": 33,
+                "username": "joseabelardo833",
+                "id": "1137879542"
+            },
+            {
+                "start": 34,
+                "end": 47,
+                "username": "petrogustavo",
+                "id": "49849732"
             }
         ],
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/8rkVJ7hwMo",
+                "expanded_url": "https://twitter.com/AlarkonMaurizio/status/1467078672968523781/photo/1",
+                "display_url": "pic.twitter.com/8rkVJ7hwMo"
+            }
+        ]
+    },
+    "geo": null
+}{
+    "id": 1467078563434311680,
+    "author_id": 1311840383157129216,
+    "in_reply_to_tweet_id": 1466899877628194823,
+    "created_at": "2021-12-04 10:29:21+00:00",
+    "text": "@elevathecsas89 @petrogustavo @migueldelrioabg https://t.co/FBgTIhixgq",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "elevathecsas89",
+                "id": "1354485633415344132"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "petrogustavo",
+                "id": "49849732"
+            },
+            {
+                "start": 30,
+                "end": 46,
+                "username": "migueldelrioabg",
+                "id": "2593740297"
+            }
+        ],
+        "urls": [
+            {
+                "start": 47,
+                "end": 70,
+                "url": "https://t.co/FBgTIhixgq",
+                "expanded_url": "https://twitter.com/AlarkonMaurizio/status/1467078563434311680/photo/1",
+                "display_url": "pic.twitter.com/FBgTIhixgq"
+            }
+        ]
+    },
+    "geo": null
+}{
+    "id": 1467076776266539015,
+    "author_id": 1318326303364440064,
+    "in_reply_to_tweet_id": 1466899877628194823,
+    "created_at": "2021-12-04 10:22:15+00:00",
+    "text": "@petrogustavo https://t.co/1pRhPLzbtj",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
         "mentions": [
             {
                 "start": 0,
                 "end": 13,
                 "username": "petrogustavo",
                 "id": "49849732"
+            }
+        ],
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/1pRhPLzbtj",
+                "expanded_url": "https://twitter.com/Alvaro37277521/status/1467076776266539015/photo/1",
+                "display_url": "pic.twitter.com/1pRhPLzbtj"
+            }
+        ]
+    },
+    "geo": null
+}{
+    "id": 1467070070904045569,
+    "author_id": 1220294671001423874,
+    "in_reply_to_tweet_id": 1466899877628194823,
+    "created_at": "2021-12-04 09:55:36+00:00",
+    "text": "@petrogustavo https://t.co/GUscRCahrJ",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "petrogustavo",
+                "id": "49849732"
+            }
+        ],
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/GUscRCahrJ",
+                "expanded_url": "https://twitter.com/Fernand18750868/status/1467070070904045569/photo/1",
+                "display_url": "pic.twitter.com/GUscRCahrJ"
+            }
+        ]
+    },
+    "geo": null
+}{
+    "id": 1467069985717694471,
+    "author_id": 1220294671001423874,
+    "in_reply_to_tweet_id": 1466899877628194823,
+    "created_at": "2021-12-04 09:55:16+00:00",
+    "text": "@petrogustavo https://t.co/KyxnMWtXIA",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "petrogustavo",
+                "id": "49849732"
+            }
+        ],
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/KyxnMWtXIA",
+                "expanded_url": "https://twitter.com/Fernand18750868/status/1467069985717694471/photo/1",
+                "display_url": "pic.twitter.com/KyxnMWtXIA"
             }
         ]
     },
