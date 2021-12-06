@@ -1,33 +1,32 @@
 {
-    "id": 1466899877628194823,
+    "id": 1467940945484300295,
     "author_id": 49849732,
-    "created_at": "2021-12-03 22:39:19+00:00",
-    "text": "Bucaramanga en este momento. https://t.co/Btmp2KwaDw",
+    "created_at": "2021-12-06 19:36:09+00:00",
+    "text": "Es momento de superar lo que nos divide y construir ese futuro que nos merecemos.  #ElPactoEsContigo. https://t.co/0dglUc4MgQ",
     "public_metrics": {
-        "retweet_count": 817,
-        "reply_count": 209,
-        "like_count": 3464,
-        "quote_count": 29
+        "retweet_count": 625,
+        "reply_count": 159,
+        "like_count": 1629,
+        "quote_count": 26
     },
     "entities": {
-        "annotations": [
-            {
-                "start": 0,
-                "end": 10,
-                "probability": 0.7385,
-                "type": "Place",
-                "normalized_text": "Bucaramanga"
-            }
-        ],
         "urls": [
             {
-                "start": 29,
-                "end": 52,
-                "url": "https://t.co/Btmp2KwaDw",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1466899877628194823/photo/1",
-                "display_url": "pic.twitter.com/Btmp2KwaDw"
+                "start": 102,
+                "end": 125,
+                "url": "https://t.co/0dglUc4MgQ",
+                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295/video/1",
+                "display_url": "pic.twitter.com/0dglUc4MgQ"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 83,
+                "end": 100,
+                "tag": "ElPactoEsContigo"
             }
         ]
     },
-    "geo": null
+    "geo": null,
+    "lang": "es"
 }
