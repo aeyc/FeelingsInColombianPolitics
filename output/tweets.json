@@ -1,29 +1,1421 @@
 {
-    "id": 1467940945484300295,
+    "id": 1468407449363361801,
     "author_id": 49849732,
-    "created_at": "2021-12-06 19:36:09+00:00",
-    "text": "Es momento de superar lo que nos divide y construir ese futuro que nos merecemos.  #ElPactoEsContigo. https://t.co/0dglUc4MgQ",
+    "created_at": "2021-12-08 02:29:52+00:00",
+    "text": "Velitas. https://t.co/JTcUkRDLFq",
     "public_metrics": {
-        "retweet_count": 625,
-        "reply_count": 159,
-        "like_count": 1629,
-        "quote_count": 26
+        "retweet_count": 677,
+        "reply_count": 463,
+        "like_count": 4951,
+        "quote_count": 72
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 32,
+                "url": "https://t.co/JTcUkRDLFq",
+                "expanded_url": "https://twitter.com/petrogustavo/status/1468407449363361801/video/1",
+                "display_url": "pic.twitter.com/JTcUkRDLFq"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468326454954192896,
+    "author_id": 25185308,
+    "created_at": "2021-12-07 21:08:01+00:00",
+    "text": "A los ataques respondemos con propuestas porque Colombia va a cambiar. Y las mujeres ser\u00e1n protagonistas de ese cambio. Hoy presentamos el Ministerio de las Mujeres. Bienvenidos sus aportes y comentarios. https://t.co/n8lavC7QJv",
+    "public_metrics": {
+        "retweet_count": 64,
+        "reply_count": 58,
+        "like_count": 164,
+        "quote_count": 15
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 205,
+                "end": 228,
+                "url": "https://t.co/n8lavC7QJv",
+                "expanded_url": "https://twitter.com/sergio_fajardo/status/1468326454954192896/video/1",
+                "display_url": "pic.twitter.com/n8lavC7QJv"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 55,
+                "probability": 0.9793,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            },
+            {
+                "start": 139,
+                "end": 163,
+                "probability": 0.5242,
+                "type": "Organization",
+                "normalized_text": "Ministerio de las Mujeres"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468392850710740992,
+    "author_id": 1400099953,
+    "created_at": "2021-12-08 01:31:51+00:00",
+    "text": "\u00bfA que no adivinan cu\u00e1l es mi deseo esta noche de #velitas? \ud83d\udd6f\ud83d\udd6f\ud83d\udd6f https://t.co/nW9UbJ9EYN",
+    "public_metrics": {
+        "retweet_count": 23,
+        "reply_count": 69,
+        "like_count": 270,
+        "quote_count": 3
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 50,
+                "end": 58,
+                "tag": "velitas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 64,
+                "end": 87,
+                "url": "https://t.co/nW9UbJ9EYN",
+                "expanded_url": "https://twitter.com/ingrodolfohdez/status/1468392850710740992/photo/1",
+                "display_url": "pic.twitter.com/nW9UbJ9EYN"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468396730421022721,
+    "author_id": 262814659,
+    "created_at": "2021-12-08 01:47:16+00:00",
+    "text": "Encedemos hoy una vela por un 2022 de oportunidades para todas las familias colombianas. Que la luz divina bendiga sus hogares \u00a1Feliz noche de velitas! #D\u00edaDeVelitas. https://t.co/45tn2iDHvc",
+    "public_metrics": {
+        "retweet_count": 59,
+        "reply_count": 32,
+        "like_count": 188,
+        "quote_count": 1
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 152,
+                "end": 165,
+                "tag": "D\u00edaDeVelitas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 167,
+                "end": 190,
+                "url": "https://t.co/45tn2iDHvc",
+                "expanded_url": "https://twitter.com/OIZuluaga/status/1468396730421022721/photo/1",
+                "display_url": "pic.twitter.com/45tn2iDHvc"
+            }
+        ]
+    },
+    "geo": {
+        "place_id": "0161be1b3f98d6c3"
+    },
+    "lang": "es"
+}{
+    "id": 1468409413870440456,
+    "author_id": 149281495,
+    "created_at": "2021-12-08 02:37:40+00:00",
+    "text": "Feliz d\u00eda de las velitas. Encomendamos a la Sant\u00edsima Virgen a nuestra Colombia. https://t.co/BHfJD4GMi0",
+    "public_metrics": {
+        "retweet_count": 68,
+        "reply_count": 42,
+        "like_count": 588,
+        "quote_count": 2
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 81,
+                "end": 104,
+                "url": "https://t.co/BHfJD4GMi0",
+                "expanded_url": "https://twitter.com/PalomaValenciaL/status/1468409413870440456/photo/1",
+                "display_url": "pic.twitter.com/BHfJD4GMi0"
+            },
+            {
+                "start": 81,
+                "end": 104,
+                "url": "https://t.co/BHfJD4GMi0",
+                "expanded_url": "https://twitter.com/PalomaValenciaL/status/1468409413870440456/photo/1",
+                "display_url": "pic.twitter.com/BHfJD4GMi0"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 71,
+                "end": 78,
+                "probability": 0.9769,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468422612422316035,
+    "author_id": 148925237,
+    "created_at": "2021-12-08 03:30:07+00:00",
+    "text": "Gracias @julianquintanat por tu apoyo y confianza! Vamos a trabajar duro para construir ese pa\u00eds m\u00e1s justo y acogedor que necesitan todas las familias de Colombia. \ud83c\udde8\ud83c\uddf4  #FelizNocheDeVelitas https://t.co/ABXaTzRVkr",
+    "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 9,
+        "like_count": 46,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 189,
+                "end": 212,
+                "url": "https://t.co/ABXaTzRVkr",
+                "expanded_url": "https://twitter.com/julianquintanat/status/1468420984923377672",
+                "display_url": "twitter.com/julianquintana\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 168,
+                "end": 188,
+                "tag": "FelizNocheDeVelitas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 8,
+                "end": 24,
+                "username": "julianquintanat",
+                "id": "3376187843"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 154,
+                "end": 161,
+                "probability": 0.9945,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468432148466126848,
+    "author_id": 108717093,
+    "created_at": "2021-12-08 04:08:01+00:00",
+    "text": "Todos los colombianos unidos en esta noche de velitas. Que curen las heridas y trabajemos juntos por un mejor pa\u00eds https://t.co/sQmP0L4iey",
+    "public_metrics": {
+        "retweet_count": 36,
+        "reply_count": 18,
+        "like_count": 269,
+        "quote_count": 3
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 115,
+                "end": 138,
+                "url": "https://t.co/sQmP0L4iey",
+                "expanded_url": "https://twitter.com/EnriquePenalosa/status/1468432148466126848/video/1",
+                "display_url": "pic.twitter.com/sQmP0L4iey"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468372357182115840,
+    "author_id": 175806207,
+    "created_at": "2021-12-08 00:10:25+00:00",
+    "text": "Feliz noche de velitas para todos https://t.co/zG4gvTHfFk",
+    "public_metrics": {
+        "retweet_count": 56,
+        "reply_count": 29,
+        "like_count": 662,
+        "quote_count": 13
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 34,
+                "end": 57,
+                "url": "https://t.co/zG4gvTHfFk",
+                "expanded_url": "https://twitter.com/agaviriau/status/1468372357182115840/video/1",
+                "display_url": "pic.twitter.com/zG4gvTHfFk"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468181102800084992,
+    "author_id": 823348278830002177,
+    "created_at": "2021-12-07 11:30:27+00:00",
+    "text": "Y esta medida desmesurada cubre tambi\u00e9n a ex funcionarios y familiares. Una casta. La falsa denuncia ya existe. Entonces el prop\u00f3sito es intimidar y obligar al silencio. Movilizarse contra ese adefesio.",
+    "public_metrics": {
+        "retweet_count": 653,
+        "reply_count": 77,
+        "like_count": 2181,
+        "quote_count": 19
+    },
+    "entities": null,
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468408768090316803,
+    "author_id": 31162623,
+    "created_at": "2021-12-08 02:35:06+00:00",
+    "text": "Siempre hay razones para agradecer. La familia, la bendici\u00f3n de vivir, un pa\u00eds que inspira. Hoy con mi mam\u00e1 doy gracias porque me ha ense\u00f1ado a no dejar de creer.\nFeliz #DiaDeVelitas https://t.co/Uez9sHiS5A",
+    "public_metrics": {
+        "retweet_count": 16,
+        "reply_count": 12,
+        "like_count": 245,
+        "quote_count": 2
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 169,
+                "end": 182,
+                "tag": "DiaDeVelitas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 183,
+                "end": 206,
+                "url": "https://t.co/Uez9sHiS5A",
+                "expanded_url": "https://twitter.com/juanmanuelgalan/status/1468408768090316803/photo/1",
+                "display_url": "pic.twitter.com/Uez9sHiS5A"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468328465795538954,
+    "author_id": 43395943,
+    "created_at": "2021-12-07 21:16:01+00:00",
+    "text": "Vamos creciendo \ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4\n\nNueva encuesta: Petro, Fajardo y Guti\u00e9rrez ganan las consultas - \u2066@ELTIEMPO\u2069  https://t.co/ckXCgzxA1Q",
+    "public_metrics": {
+        "retweet_count": 28,
+        "reply_count": 18,
+        "like_count": 206,
+        "quote_count": 3
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 46,
+                "end": 50,
+                "probability": 0.9532,
+                "type": "Person",
+                "normalized_text": "Petro"
+            },
+            {
+                "start": 53,
+                "end": 59,
+                "probability": 0.82,
+                "type": "Person",
+                "normalized_text": "Fajardo"
+            },
+            {
+                "start": 63,
+                "end": 71,
+                "probability": 0.9867,
+                "type": "Person",
+                "normalized_text": "Guti\u00e9rrez"
+            }
+        ],
+        "urls": [
+            {
+                "start": 102,
+                "end": 125,
+                "url": "https://t.co/ckXCgzxA1Q",
+                "expanded_url": "https://www.eltiempo.com/politica/partidos-politicos/nueva-encuesta-petro-fajardo-y-gutierrez-ganan-las-consultas-637427",
+                "display_url": "eltiempo.com/politica/parti\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468202286426075142/94i2GIlq?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 680
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468202286426075142/94i2GIlq?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Petro, Fajardo y Fico Guti\u00e9rrez, pican en punta",
+                "description": "Nueva encuesta dice que ser\u00edan los ganadores en sus respectivas consultas.",
+                "unwound_url": "https://www.eltiempo.com/politica/partidos-politicos/nueva-encuesta-petro-fajardo-y-gutierrez-ganan-las-consultas-637427"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 90,
+                "end": 99,
+                "username": "ELTIEMPO",
+                "id": "9633802"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468411761804070914,
+    "author_id": 49681553,
+    "created_at": "2021-12-08 02:47:00+00:00",
+    "text": "\u00a1Qu\u00e9 alegr\u00eda compartir en familia el #DiaDeVelitas!\n\nEncendemos nuestras luces con Guada y Sim\u00f3n para darle la bienvenida a esta \u00e9poca que es motivo siempre para encontrarnos y compartir.\n\n\u00a1Feliz comienzo de navidad! https://t.co/sogXoHvSvo",
+    "public_metrics": {
+        "retweet_count": 52,
+        "reply_count": 12,
+        "like_count": 713,
+        "quote_count": 2
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 217,
+                "end": 240,
+                "url": "https://t.co/sogXoHvSvo",
+                "expanded_url": "https://twitter.com/CamiloRomero/status/1468411761804070914/photo/1",
+                "display_url": "pic.twitter.com/sogXoHvSvo"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 83,
+                "end": 87,
+                "probability": 0.8977,
+                "type": "Person",
+                "normalized_text": "Guada"
+            },
+            {
+                "start": 91,
+                "end": 95,
+                "probability": 0.7412,
+                "type": "Person",
+                "normalized_text": "Sim\u00f3n"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 37,
+                "end": 50,
+                "tag": "DiaDeVelitas"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468393914218524674,
+    "author_id": 1387812343162277888,
+    "created_at": "2021-12-08 01:36:05+00:00",
+    "text": "#UnaVelaPor \ud83d\udd6fel futuro de nuestro pa\u00eds \ud83c\udde8\ud83c\uddf4. https://t.co/iIGLPYQMKN",
+    "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 3,
+        "like_count": 39,
+        "quote_count": 1
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 43,
+                "end": 66,
+                "url": "https://t.co/iIGLPYQMKN",
+                "expanded_url": "https://twitter.com/JCecheverryCol/status/1468393914218524674/photo/1",
+                "display_url": "pic.twitter.com/iIGLPYQMKN"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 11,
+                "tag": "UnaVelaPor"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468370568311455749,
+    "author_id": 66711542,
+    "created_at": "2021-12-08 00:03:19+00:00",
+    "text": "Hoy vuelvo a encender #UnaVelaPor\ud83d\udd6f la paz, por el cumplimiento de los Acuerdos \ud83d\udd4a\ufe0f, por las v\u00edctimas y la reconciliaci\u00f3n. Devolv\u00e1mosle la esperanza a nuestro pa\u00eds. \ud83c\udde8\ud83c\uddf4 #SoyCristo https://t.co/WxqMXiTgz2",
+    "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 4,
+        "like_count": 44,
+        "quote_count": 1
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 22,
+                "end": 33,
+                "tag": "UnaVelaPor"
+            },
+            {
+                "start": 166,
+                "end": 176,
+                "tag": "SoyCristo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 177,
+                "end": 200,
+                "url": "https://t.co/WxqMXiTgz2",
+                "expanded_url": "https://twitter.com/CristoBustos/status/1468370568311455749/photo/1",
+                "display_url": "pic.twitter.com/WxqMXiTgz2"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468326585031925761,
+    "author_id": 165748292,
+    "created_at": "2021-12-07 21:08:32+00:00",
+    "text": "El 9 de diciembre ser\u00e0 la cicloruta  nocturna, esa noche la ciudad es prioritariamente para ciclistas y peatones,ser\u00e1 misi\u00f3n imposible llegar al centro de Bogot\u00e1.\nAcordamos vernos el a\u00f1o entrante.\nGracias a muchas personas quienes hab\u00edan confirmado! https://t.co/r2xpBSnCCG",
+    "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 13,
+        "like_count": 39,
+        "quote_count": 1
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 155,
+                "end": 160,
+                "probability": 0.9134,
+                "type": "Place",
+                "normalized_text": "Bogot\u00e1"
+            }
+        ],
+        "urls": [
+            {
+                "start": 250,
+                "end": 273,
+                "url": "https://t.co/r2xpBSnCCG",
+                "expanded_url": "https://twitter.com/angelamrobledo/status/1468326585031925761/photo/1",
+                "display_url": "pic.twitter.com/r2xpBSnCCG"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468324921877090304,
+    "author_id": 268322810,
+    "created_at": "2021-12-07 21:01:56+00:00",
+    "text": "Otras opiniones m\u00edas en defensa del pueblo afro:\n1 Saludo a la Cumbre del Pueblo Negro, Afrodescendiente, Palenquero y Raizal.\nVideo: 7:57 min.\nhttps://t.co/t7ZQ8fLCjN\n2 En defensa del pueblo negro y dem\u00e1s sectores maltratados: Robledo\nVideo: 8:55 min. \nhttps://t.co/li9bCNyzAE",
+    "public_metrics": {
+        "retweet_count": 21,
+        "reply_count": 11,
+        "like_count": 52,
+        "quote_count": 2
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 144,
+                "end": 167,
+                "url": "https://t.co/t7ZQ8fLCjN",
+                "expanded_url": "https://www.youtube.com/watch?v=9kq3IkUaeCg",
+                "display_url": "youtube.com/watch?v=9kq3Ik\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468081170990739458/KX-auQcb?format=jpg&name=orig",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468081170990739458/KX-auQcb?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Saludo a la Cumbre del Pueblo Negro, Afrodescendiente, Palenquero y Raizal",
+                "unwound_url": "https://www.youtube.com/watch?v=9kq3IkUaeCg"
+            },
+            {
+                "start": 254,
+                "end": 277,
+                "url": "https://t.co/li9bCNyzAE",
+                "expanded_url": "https://www.youtube.com/watch?v=NKuyBHjBS1E&t=2s",
+                "display_url": "youtube.com/watch?v=NKuyBH\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468324924209127424/EAOwBlS8?format=jpg&name=orig",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468324924209127424/EAOwBlS8?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "En defensa del pueblo negro y dem\u00e1s maltratados: Robledo",
+                "unwound_url": "https://www.youtube.com/watch?v=NKuyBHjBS1E&t=2s"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 106,
+                "end": 115,
+                "probability": 0.5266,
+                "type": "Place",
+                "normalized_text": "Palenquero"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468402421055504384,
+    "author_id": 154021500,
+    "created_at": "2021-12-08 02:09:53+00:00",
+    "text": "Junto a mi familia deseamos que la luz de la #Esperanza ilumine todos los corazones. \n\n#D\u00edaDeVelitas. https://t.co/iY0ixkLZau",
+    "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 6,
+        "like_count": 220,
+        "quote_count": 0
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 45,
+                "end": 55,
+                "tag": "Esperanza"
+            },
+            {
+                "start": 87,
+                "end": 100,
+                "tag": "D\u00edaDeVelitas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 102,
+                "end": 125,
+                "url": "https://t.co/iY0ixkLZau",
+                "expanded_url": "https://twitter.com/CarlosAmayaR/status/1468402421055504384/photo/1",
+                "display_url": "pic.twitter.com/iY0ixkLZau"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468394439781584900,
+    "author_id": 53187962,
+    "created_at": "2021-12-08 01:38:10+00:00",
+    "text": "Feliz d\u00eda de las velitas! https://t.co/MOHyeVd1Hy",
+    "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 32,
+        "quote_count": 1
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 26,
+                "end": 49,
+                "url": "https://t.co/MOHyeVd1Hy",
+                "expanded_url": "https://twitter.com/Rodrigo_Lara_/status/1468394439781584900/photo/1",
+                "display_url": "pic.twitter.com/MOHyeVd1Hy"
+            },
+            {
+                "start": 26,
+                "end": 49,
+                "url": "https://t.co/MOHyeVd1Hy",
+                "expanded_url": "https://twitter.com/Rodrigo_Lara_/status/1468394439781584900/photo/1",
+                "display_url": "pic.twitter.com/MOHyeVd1Hy"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468354642316828675,
+    "author_id": 1729302205,
+    "created_at": "2021-12-07 23:00:02+00:00",
+    "text": "Llegan las fiestas decembrinas y con ellas el compromiso de todos. Hago un llamado para que en esta navidad y a\u00f1o nuevo digamos NO a la p\u00f3lvora. Seamos responsables con nuestros ni\u00f1os, adultos mayores y animales, quienes son los que sufren los estragos de estos explosivos. https://t.co/iMUNncG2Kd",
+    "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 274,
+                "end": 297,
+                "url": "https://t.co/iMUNncG2Kd",
+                "expanded_url": "https://twitter.com/DilianFrancisca/status/1468354642316828675/photo/1",
+                "display_url": "pic.twitter.com/iMUNncG2Kd"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468393914218524674,
+    "author_id": 1387812343162277888,
+    "created_at": "2021-12-08 01:36:05+00:00",
+    "text": "#UnaVelaPor \ud83d\udd6fel futuro de nuestro pa\u00eds \ud83c\udde8\ud83c\uddf4. https://t.co/iIGLPYQMKN",
+    "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 3,
+        "like_count": 39,
+        "quote_count": 1
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 43,
+                "end": 66,
+                "url": "https://t.co/iIGLPYQMKN",
+                "expanded_url": "https://twitter.com/JCecheverryCol/status/1468393914218524674/photo/1",
+                "display_url": "pic.twitter.com/iIGLPYQMKN"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 11,
+                "tag": "UnaVelaPor"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468390879706730496,
+    "author_id": 1345927232,
+    "created_at": "2021-12-08 01:24:01+00:00",
+    "text": "Bonita noche de las velitas les desea de coraz\u00f3n el @soyconservador https://t.co/sYp7Ih1kat",
+    "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 52,
+                "end": 67,
+                "username": "soyconservador",
+                "id": "285180126"
+            }
+        ],
+        "urls": [
+            {
+                "start": 68,
+                "end": 91,
+                "url": "https://t.co/sYp7Ih1kat",
+                "expanded_url": "https://twitter.com/UbeimarDelgadoB/status/1468390879706730496/photo/1",
+                "display_url": "pic.twitter.com/sYp7Ih1kat"
+            },
+            {
+                "start": 68,
+                "end": 91,
+                "url": "https://t.co/sYp7Ih1kat",
+                "expanded_url": "https://twitter.com/UbeimarDelgadoB/status/1468390879706730496/photo/1",
+                "display_url": "pic.twitter.com/sYp7Ih1kat"
+            }
+        ]
+    },
+    "geo": {
+        "place_id": "0083e91b64f919f4"
+    },
+    "lang": "es"
+}{
+    "id": 1468414603751301120,
+    "author_id": 142849205,
+    "created_at": "2021-12-08 02:58:18+00:00",
+    "text": "Conversando a la luz y el calor de las velitas. https://t.co/NuBtEWT4BE",
+    "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 18,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/NuBtEWT4BE",
+                "expanded_url": "https://twitter.com/MauricioCard/status/1468414603751301120/photo/1",
+                "display_url": "pic.twitter.com/NuBtEWT4BE"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468346806929182728,
+    "author_id": 206486600,
+    "created_at": "2021-12-07 22:28:53+00:00",
+    "text": "#UnaVelaPor todas las familias de Santa Marta, el Magdalena y Colombia, para que estas fiestas de Navidad y Fin de a\u00f1o, sean momentos de uni\u00f3n y bienestar. \n\nCelebremos sin p\u00f3lvora y siempre atentos a nuestros ni\u00f1os. \n\nFeliz #NocheDeLasVelitas https://t.co/eyYl7OX9jN",
+    "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 4,
+        "like_count": 19,
+        "quote_count": 2
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 44,
+                "probability": 0.9562,
+                "type": "Place",
+                "normalized_text": "Santa Marta"
+            },
+            {
+                "start": 50,
+                "end": 58,
+                "probability": 0.6477,
+                "type": "Place",
+                "normalized_text": "Magdalena"
+            },
+            {
+                "start": 62,
+                "end": 69,
+                "probability": 0.9342,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 11,
+                "tag": "UnaVelaPor"
+            },
+            {
+                "start": 225,
+                "end": 243,
+                "tag": "NocheDeLasVelitas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 244,
+                "end": 267,
+                "url": "https://t.co/eyYl7OX9jN",
+                "expanded_url": "https://twitter.com/honohenriquez/status/1468346806929182728/video/1",
+                "display_url": "pic.twitter.com/eyYl7OX9jN"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468383256424890375,
+    "author_id": 38670671,
+    "created_at": "2021-12-08 00:53:44+00:00",
+    "text": "Desde Barranquilla, #UnaVelitaPorElCambio \ud83d\udd6f\nUn Pueblo en Paz es el verdadero Pacto. https://t.co/g4PzivzznL",
+    "public_metrics": {
+        "retweet_count": 136,
+        "reply_count": 39,
+        "like_count": 481,
+        "quote_count": 4
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 6,
+                "end": 17,
+                "probability": 0.9553,
+                "type": "Place",
+                "normalized_text": "Barranquilla"
+            }
+        ],
+        "urls": [
+            {
+                "start": 84,
+                "end": 107,
+                "url": "https://t.co/g4PzivzznL",
+                "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375/video/1",
+                "display_url": "pic.twitter.com/g4PzivzznL"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 20,
+                "end": 41,
+                "tag": "UnaVelitaPorElCambio"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468415983035551758,
+    "author_id": 37341338,
+    "created_at": "2021-12-08 03:03:46+00:00",
+    "text": "\u00bfC\u00f3mo no confiar en el futuro y los jovenes, si hay seres maravillosos como @TrianaVJuli en el mundo? \u2764\ufe0f https://t.co/OtFW6HFTiA",
+    "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 9,
+        "like_count": 45,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 76,
+                "end": 88,
+                "username": "TrianaVJuli",
+                "id": "328836090"
+            }
+        ],
+        "urls": [
+            {
+                "start": 105,
+                "end": 128,
+                "url": "https://t.co/OtFW6HFTiA",
+                "expanded_url": "https://twitter.com/trianavjuli/status/1468409505843191817",
+                "display_url": "twitter.com/trianavjuli/st\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468360267377659906,
+    "author_id": 98781946,
+    "created_at": "2021-12-07 23:22:23+00:00",
+    "text": "Vuelve y juega: ratificaci\u00f3n de Acuerdo de Escaz\u00fa estar\u00eda en riesgo de hundirse https://t.co/0wrh3rif6z",
+    "public_metrics": {
+        "retweet_count": 324,
+        "reply_count": 14,
+        "like_count": 496,
+        "quote_count": 6
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 80,
+                "end": 103,
+                "url": "https://t.co/0wrh3rif6z",
+                "expanded_url": "https://www.google.com.co/amp/s/www.bluradio.com/nacion/vuelve-y-juega-ratificacion-de-acuerdo-de-escazu-estaria-en-riesgo-de-hundirse%3f_amp=true",
+                "display_url": "google.com.co/amp/s/www.blur\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 48,
+                "probability": 0.3832,
+                "type": "Organization",
+                "normalized_text": "Acuerdo de Escaz\u00fa"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468404739494891521,
+    "author_id": 50981729,
+    "created_at": "2021-12-08 02:19:06+00:00",
+    "text": "#UnaVelitaPorElCambio por la Paz, por El Progreso de todos, por el Pacto Hist\u00f3rico https://t.co/1f9jUnHTLF",
+    "public_metrics": {
+        "retweet_count": 440,
+        "reply_count": 137,
+        "like_count": 2075,
+        "quote_count": 18
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 21,
+                "tag": "UnaVelitaPorElCambio"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 106,
+                "url": "https://t.co/1f9jUnHTLF",
+                "expanded_url": "https://twitter.com/GustavoBolivar/status/1468404739494891521/photo/1",
+                "display_url": "pic.twitter.com/1f9jUnHTLF"
+            },
+            {
+                "start": 83,
+                "end": 106,
+                "url": "https://t.co/1f9jUnHTLF",
+                "expanded_url": "https://twitter.com/GustavoBolivar/status/1468404739494891521/photo/1",
+                "display_url": "pic.twitter.com/1f9jUnHTLF"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468403030307614722,
+    "author_id": 1466003185,
+    "created_at": "2021-12-08 02:12:18+00:00",
+    "text": "Bajo el cielo azul capitalino de este 7 de diciembre y con el abrazo de la Madre Tierra como presagio del buen camino para los candidatos por la Circunscripci\u00f3n Especial Ind\u00edgena del @MovimientoMAIS, los acompa\u00f1amos en el registro oficial como candidatos al Congreso. https://t.co/4ja1w8pHPw",
+    "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 1,
+        "like_count": 26,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 183,
+                "end": 198,
+                "username": "MovimientoMAIS",
+                "id": "2328646824"
+            }
+        ],
+        "urls": [
+            {
+                "start": 268,
+                "end": 291,
+                "url": "https://t.co/4ja1w8pHPw",
+                "expanded_url": "https://twitter.com/FelicianoValen/status/1468403030307614722/photo/1",
+                "display_url": "pic.twitter.com/4ja1w8pHPw"
+            },
+            {
+                "start": 268,
+                "end": 291,
+                "url": "https://t.co/4ja1w8pHPw",
+                "expanded_url": "https://twitter.com/FelicianoValen/status/1468403030307614722/photo/1",
+                "display_url": "pic.twitter.com/4ja1w8pHPw"
+            },
+            {
+                "start": 268,
+                "end": 291,
+                "url": "https://t.co/4ja1w8pHPw",
+                "expanded_url": "https://twitter.com/FelicianoValen/status/1468403030307614722/photo/1",
+                "display_url": "pic.twitter.com/4ja1w8pHPw"
+            },
+            {
+                "start": 268,
+                "end": 291,
+                "url": "https://t.co/4ja1w8pHPw",
+                "expanded_url": "https://twitter.com/FelicianoValen/status/1468403030307614722/photo/1",
+                "display_url": "pic.twitter.com/4ja1w8pHPw"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 145,
+                "end": 177,
+                "probability": 0.3435,
+                "type": "Organization",
+                "normalized_text": "Circunscripci\u00f3n Especial Ind\u00edgena"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468365716206362625,
+    "author_id": 213769894,
+    "created_at": "2021-12-07 23:44:02+00:00",
+    "text": "Nos encontramos en la localidad de Kennedy en el sector de Casablanca, festejando el d\u00eda de las velitas y esta \u00e9poca navide\u00f1a que comienza.  \n\nDios bendiga sus hogares y familias \ud83d\ude4f\ud83c\udffc. https://t.co/AZOC8oGWVY",
+    "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 1,
+        "like_count": 76,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 183,
+                "end": 206,
+                "url": "https://t.co/AZOC8oGWVY",
+                "expanded_url": "https://twitter.com/jjUscategui/status/1468365716206362625/photo/1",
+                "display_url": "pic.twitter.com/AZOC8oGWVY"
+            },
+            {
+                "start": 183,
+                "end": 206,
+                "url": "https://t.co/AZOC8oGWVY",
+                "expanded_url": "https://twitter.com/jjUscategui/status/1468365716206362625/photo/1",
+                "display_url": "pic.twitter.com/AZOC8oGWVY"
+            },
+            {
+                "start": 183,
+                "end": 206,
+                "url": "https://t.co/AZOC8oGWVY",
+                "expanded_url": "https://twitter.com/jjUscategui/status/1468365716206362625/photo/1",
+                "display_url": "pic.twitter.com/AZOC8oGWVY"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 41,
+                "probability": 0.8461,
+                "type": "Place",
+                "normalized_text": "Kennedy"
+            },
+            {
+                "start": 59,
+                "end": 68,
+                "probability": 0.6112,
+                "type": "Place",
+                "normalized_text": "Casablanca"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468290804397527040,
+    "author_id": 59705520,
+    "created_at": "2021-12-07 18:46:21+00:00",
+    "text": "Hace 17 a\u00f1os logr\u00e9 que los palmiranos tuvieran tarifa diferencial en las casetas de peaje CIAT y Estambul. Hoy insisto, de la mano del Alcalde @SoyOscarEscobar, en que el tr\u00e1mite para acceder a esta tarifa sea \u00e1gil, simple y eficiente. #SinTramititis https://t.co/4nfIxPCZk0",
+    "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 3,
+        "like_count": 44,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 251,
+                "end": 274,
+                "url": "https://t.co/4nfIxPCZk0",
+                "expanded_url": "https://twitter.com/soyoscarescobar/status/1468041352848023556",
+                "display_url": "twitter.com/soyoscarescoba\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 236,
+                "end": 250,
+                "tag": "SinTramititis"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 143,
+                "end": 159,
+                "username": "SoyOscarEscobar",
+                "id": "131074953"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 97,
+                "end": 104,
+                "probability": 0.9599,
+                "type": "Place",
+                "normalized_text": "Estambul"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468209277047296007,
+    "author_id": 80417990,
+    "created_at": "2021-12-07 13:22:24+00:00",
+    "text": "Deja que la luz sea la gu\u00eda para vivir una Navidad llena de alegr\u00eda, paz y amor.\n\nFeliz #D\u00edaDeVelitas https://t.co/MMO355o672",
+    "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0
     },
     "entities": {
         "urls": [
             {
                 "start": 102,
                 "end": 125,
-                "url": "https://t.co/0dglUc4MgQ",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295/video/1",
-                "display_url": "pic.twitter.com/0dglUc4MgQ"
+                "url": "https://t.co/MMO355o672",
+                "expanded_url": "https://twitter.com/oscardarioperez/status/1468209277047296007/photo/1",
+                "display_url": "pic.twitter.com/MMO355o672"
             }
         ],
         "hashtags": [
             {
-                "start": 83,
-                "end": 100,
-                "tag": "ElPactoEsContigo"
+                "start": 88,
+                "end": 101,
+                "tag": "D\u00edaDeVelitas"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468271202963955732,
+    "author_id": 373138480,
+    "created_at": "2021-12-07 17:28:28+00:00",
+    "text": "#PorSiTeLoPerdiste\ud83d\udcfb | Estuve esta ma\u00f1ana en @WRadioColombia hablando sobre el art\u00edculo en el proyecto anticorrupci\u00f3n que pretende perseguir al periodismo y a la oposici\u00f3n.\n\nVamos a dar la pelea para eliminarlo en la conciliaci\u00f3n. Si no, procederemos ante la Corte Constitucional. https://t.co/88CJXekEYg",
+    "public_metrics": {
+        "retweet_count": 16,
+        "reply_count": 2,
+        "like_count": 54,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 44,
+                "end": 59,
+                "username": "WRadioColombia",
+                "id": "20560294"
+            }
+        ],
+        "urls": [
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/88CJXekEYg",
+                "expanded_url": "https://twitter.com/JuanitaGoe/status/1468271202963955732/video/1",
+                "display_url": "pic.twitter.com/88CJXekEYg"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 18,
+                "tag": "PorSiTeLoPerdiste"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468448851270983683,
+    "author_id": 156695400,
+    "created_at": "2021-12-08 05:14:23+00:00",
+    "text": "En este #D\u00edaDeVelitas, encendemos #UnaVelitaPor la Colombia que todos so\u00f1amos. \u2728\n\nQue la esperanza de un mejor futuro, sea nuestra gu\u00eda para construir el pa\u00eds que todos merecemos. \n\n\u00a1Feliz d\u00eda de de las velitas para todos y todas! \ud83d\udc9a https://t.co/z3KDAqticY",
+    "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 50,
+        "quote_count": 0
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 8,
+                "end": 21,
+                "tag": "D\u00edaDeVelitas"
+            },
+            {
+                "start": 34,
+                "end": 47,
+                "tag": "UnaVelitaPor"
+            }
+        ],
+        "urls": [
+            {
+                "start": 233,
+                "end": 256,
+                "url": "https://t.co/z3KDAqticY",
+                "expanded_url": "https://twitter.com/MauroToroO/status/1468448851270983683/photo/1",
+                "display_url": "pic.twitter.com/z3KDAqticY"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 51,
+                "end": 58,
+                "probability": 0.9498,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468370001774137357,
+    "author_id": 219990061,
+    "created_at": "2021-12-08 00:01:04+00:00",
+    "text": "El hoy judicializado, quien hac\u00eda parte de la lista de los m\u00e1s buscados por las autoridades en #Huila, fue capturado por servidores de @PoliciaColombia en Ibagu\u00e9, #Tolima. https://t.co/GOkbd2YZv3",
+    "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 135,
+                "end": 151,
+                "username": "PoliciaColombia",
+                "id": "69432342"
+            }
+        ],
+        "urls": [
+            {
+                "start": 172,
+                "end": 195,
+                "url": "https://t.co/GOkbd2YZv3",
+                "expanded_url": "https://twitter.com/FiscaliaCol/status/1468370001774137357/video/1",
+                "display_url": "pic.twitter.com/GOkbd2YZv3"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 95,
+                "end": 101,
+                "tag": "Huila"
+            },
+            {
+                "start": 163,
+                "end": 170,
+                "tag": "Tolima"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 155,
+                "end": 160,
+                "probability": 0.9939,
+                "type": "Place",
+                "normalized_text": "Ibagu\u00e9"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468363191126212620,
+    "author_id": 473338133,
+    "created_at": "2021-12-07 23:34:00+00:00",
+    "text": "\u201cLa primera regla que se introduce en el C\u00f3digo General Disciplinario es la separaci\u00f3n de funciones. Un funcionario es el que instruye, llega hasta pliego de cargos o archivo y otro funcionario es el que juzga\u201d, Procuradora Margarita Cabello #Ley2094 https://t.co/PSnQJKtDSQ",
+    "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 2,
+        "like_count": 9,
+        "quote_count": 1
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 242,
+                "end": 250,
+                "tag": "Ley2094"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 212,
+                "end": 240,
+                "probability": 0.7705,
+                "type": "Person",
+                "normalized_text": "Procuradora Margarita Cabello"
+            }
+        ],
+        "urls": [
+            {
+                "start": 251,
+                "end": 274,
+                "url": "https://t.co/PSnQJKtDSQ",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468363191126212620/video/1",
+                "display_url": "pic.twitter.com/PSnQJKtDSQ"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468416075859693573,
+    "author_id": 191465222,
+    "created_at": "2021-12-08 03:04:08+00:00",
+    "text": "\u201cEn estas festividades de fin de a\u00f1o, y hoy que se celebra la Noche de #Velitas, es nuestro deber reiterar el llamado a que la p\u00f3lvora solo sea manipulada por expertos. No quememos los sue\u00f1os y el futuro de los ni\u00f1os\u201d, Defensor del Pueblo, Carlos Camargo. https://t.co/WH7NoIplCC",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 240,
+                "end": 253,
+                "probability": 0.9935,
+                "type": "Person",
+                "normalized_text": "Carlos Camargo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 256,
+                "end": 279,
+                "url": "https://t.co/WH7NoIplCC",
+                "expanded_url": "https://www.defensoria.gov.co/es/nube/comunicados/10606/",
+                "display_url": "defensoria.gov.co/es/nube/comuni\u2026",
+                "status": 200,
+                "unwound_url": "https://www.defensoria.gov.co/es/nube/comunicados/10606/"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 71,
+                "end": 79,
+                "tag": "Velitas"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468341646928531458,
+    "author_id": 242425204,
+    "created_at": "2021-12-07 22:08:23+00:00",
+    "text": "En 2021, la @CGR_Colombia ha promovido la creaci\u00f3n de 35 nuevas veedur\u00edas ciudadanas, que han realizado seguimiento a la ejecuci\u00f3n de recursos por $4 billones destinados para la construcci\u00f3n, ampliaci\u00f3n y mejoramiento de 1.206 instituciones educativas en el pa\u00eds.",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 25,
+                "username": "CGR_Colombia",
+                "id": "242425204"
             }
         ]
     },

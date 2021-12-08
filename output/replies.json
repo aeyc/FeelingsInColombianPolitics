@@ -1,9 +1,241 @@
 {
-    "id": 1467993157656879106,
-    "author_id": 1408228242297966596,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 23:03:37+00:00",
-    "text": "@Alexand27142980 @AdriSarsynski @petrogustavo Es tan inteligente que no vota por un guerrillero comunista",
+    "id": 1468521319209840643,
+    "author_id": 1420719230127902726,
+    "tweet_id": 1468326454954192896,
+    "created_at": "2021-12-08 10:02:20+00:00",
+    "text": "@sergio_fajardo M\u00e1s burocracia, que estupidez.",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "sergio_fajardo",
+                "id": "25185308"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468491915188490242,
+    "author_id": 162781923,
+    "tweet_id": 1468392850710740992,
+    "created_at": "2021-12-08 08:05:30+00:00",
+    "text": "@ingrodolfohdez @LigaGobernantes Excelente don Rodolfo. Nuestro nuevo presidente.",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 53,
+                "probability": 0.8854,
+                "type": "Person",
+                "normalized_text": "Rodolfo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "ingrodolfohdez",
+                "id": "1400099953"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "LigaGobernantes",
+                "id": "1188813119637905408"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468510841783914503,
+    "author_id": 120557693,
+    "tweet_id": 1468396730421022721,
+    "created_at": "2021-12-08 09:20:42+00:00",
+    "text": "@OIZuluaga @CeDemocratico @KevinCTriana @PaolaHolguin @JuanDaVelez @Juan_EspinalR @EDR_CD @ChriGarces @juanpablocelisv @FNAraujoR @MargaritaRepo Encienda una vela por la quemada tan hp que se va a pegar, menos mal tiene @natiibedoya para que le ponga #Caladril",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 251,
+                "end": 260,
+                "tag": "Caladril"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "OIZuluaga",
+                "id": "262814659"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "CeDemocratico",
+                "id": "1115440213"
+            },
+            {
+                "start": 26,
+                "end": 39,
+                "username": "KevinCTriana",
+                "id": "805597851774550016"
+            },
+            {
+                "start": 40,
+                "end": 53,
+                "username": "PaolaHolguin",
+                "id": "185763733"
+            },
+            {
+                "start": 54,
+                "end": 66,
+                "username": "JuanDaVelez",
+                "id": "44171543"
+            },
+            {
+                "start": 67,
+                "end": 81,
+                "username": "Juan_EspinalR",
+                "id": "256541943"
+            },
+            {
+                "start": 82,
+                "end": 89,
+                "username": "EDR_CD",
+                "id": "113138316"
+            },
+            {
+                "start": 90,
+                "end": 101,
+                "username": "ChriGarces",
+                "id": "1516609855"
+            },
+            {
+                "start": 102,
+                "end": 118,
+                "username": "juanpablocelisv",
+                "id": "73638954"
+            },
+            {
+                "start": 119,
+                "end": 129,
+                "username": "FNAraujoR",
+                "id": "134938656"
+            },
+            {
+                "start": 130,
+                "end": 144,
+                "username": "MargaritaRepo",
+                "id": "593765767"
+            },
+            {
+                "start": 220,
+                "end": 232,
+                "username": "natiibedoya",
+                "id": "159950603"
+            }
+        ]
+    },
+    "geo": {
+        "place_id": "206c436ce43a43a3"
+    },
+    "lang": "es"
+}{
+    "id": 1468529222327193603,
+    "author_id": 1287459545535721472,
+    "tweet_id": 1468409413870440456,
+    "created_at": "2021-12-08 10:33:45+00:00",
+    "text": "@PalomaValenciaL Nunca me podr\u00e9 explicar por qu\u00e9 Uribe le sugiri\u00f3 que le colocara Amapola como nombre a la ni\u00f1a, haciendo honor a su bandera del narcotr\u00e1fico! \ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 53,
+                "probability": 0.9548,
+                "type": "Person",
+                "normalized_text": "Uribe"
+            },
+            {
+                "start": 82,
+                "end": 88,
+                "probability": 0.5239,
+                "type": "Person",
+                "normalized_text": "Amapola"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "PalomaValenciaL",
+                "id": "149281495"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468477748758953996,
+    "author_id": 164056407,
+    "tweet_id": 1468422612422316035,
+    "created_at": "2021-12-08 07:09:12+00:00",
+    "text": "@davidbarguil @julianquintanat Jajajaja ser\u00e1 en sus sue\u00f1os por que ud est\u00e1 m\u00e1s quemado",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "davidbarguil",
+                "id": "148925237"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "julianquintanat",
+                "id": "3376187843"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468525720980705285,
+    "author_id": 327907513,
+    "tweet_id": 1468432148466126848,
+    "created_at": "2021-12-08 10:19:50+00:00",
+    "text": "@EnriquePenalosa Sinverg\u00fcenza https://t.co/VmM125TrO2",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -15,267 +247,130 @@
             {
                 "start": 0,
                 "end": 16,
-                "username": "Alexand27142980",
-                "id": "791778209310318592"
-            },
-            {
-                "start": 17,
-                "end": 31,
-                "username": "AdriSarsynski",
-                "id": "790307254847365120"
-            },
-            {
-                "start": 32,
-                "end": 45,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1467992971769438210,
-    "author_id": 1427826610040942592,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 23:02:53+00:00",
-    "text": "@petrogustavo Hasta lo de Luis P\u00e9rez iban lo m\u00e1s de bien. Ya no. \ud83e\udd23",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 26,
-                "end": 35,
-                "probability": 0.997,
-                "type": "Person",
-                "normalized_text": "Luis P\u00e9rez"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1467992466712412167,
-    "author_id": 1247921105765126144,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 23:00:52+00:00",
-    "text": "@petrogustavo G\u00e1stese la platica de las FARC en esta publicidad irrelevante saliendo a hacer el rid\u00edculo en diferentes plazas p\u00fablicas donde lo sacan a insultos por hamp\u00f3n. Entienda se\u00f1or q ud no es opci\u00f3n ya lleva 4 campa\u00f1as y no llegar\u00e1.",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 40,
-                "end": 43,
-                "probability": 0.9808,
-                "type": "Organization",
-                "normalized_text": "FARC"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1467992157986471938,
-    "author_id": 521924305,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 22:59:39+00:00",
-    "text": "@petrogustavo Nada, laizquierda naci\u00f3 muerta en Colombia. DECRETO: muerte a la izquierda en Colombia",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 48,
-                "end": 55,
-                "probability": 0.9951,
-                "type": "Place",
-                "normalized_text": "Colombia"
-            },
-            {
-                "start": 92,
-                "end": 99,
-                "probability": 0.9928,
-                "type": "Place",
-                "normalized_text": "Colombia"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1467992057662873609,
-    "author_id": 589474112,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 22:59:15+00:00",
-    "text": "@petrogustavo Entonces lo superaremos a usted que es pura divisi\u00f3n y odio.",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1467991946589347842,
-    "author_id": 1315458201744216064,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 22:58:48+00:00",
-    "text": "@petrogustavo Tambi\u00e9n hay m\u00e1s opciones, Francia o Camilo Romero. Eso hay que tenerlo en cuenta.",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 40,
-                "end": 46,
-                "probability": 0.8987,
-                "type": "Place",
-                "normalized_text": "Francia"
-            },
-            {
-                "start": 50,
-                "end": 62,
-                "probability": 0.9963,
-                "type": "Person",
-                "normalized_text": "Camilo Romero"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1467991736773402624,
-    "author_id": 1315458201744216064,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 22:57:58+00:00",
-    "text": "@petrogustavo Yo estaba convencido de votar por usted para las elecciones presidenciales. Con lo de Luis P\u00e9rez es la primera vez que tengo dudas sobre esa decisi\u00f3n.",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 100,
-                "end": 109,
-                "probability": 0.9978,
-                "type": "Person",
-                "normalized_text": "Luis P\u00e9rez"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1467987027350200325,
-    "author_id": 1408938534510206980,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 22:39:15+00:00",
-    "text": "@petrogustavo https://t.co/YVFoiG1Qet",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
+                "username": "EnriquePenalosa",
+                "id": "108717093"
             }
         ],
         "urls": [
             {
-                "start": 14,
-                "end": 37,
-                "url": "https://t.co/YVFoiG1Qet",
-                "expanded_url": "https://twitter.com/VictorM06173080/status/1467987027350200325/photo/1",
-                "display_url": "pic.twitter.com/YVFoiG1Qet"
+                "start": 30,
+                "end": 53,
+                "url": "https://t.co/VmM125TrO2",
+                "expanded_url": "https://twitter.com/ahuramazdacol/status/1468525720980705285/photo/1",
+                "display_url": "pic.twitter.com/VmM125TrO2"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468518144016846848,
+    "author_id": 299443012,
+    "tweet_id": 1468372357182115840,
+    "created_at": "2021-12-08 09:49:43+00:00",
+    "text": "@agaviriau Jovenes Lalo",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "agaviriau",
+                "id": "175806207"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468464764380913664,
+    "author_id": 505235712,
+    "tweet_id": 1468181102800084992,
+    "created_at": "2021-12-08 06:17:37+00:00",
+    "text": "@DeLaCalleHum Hay q convocar a la fuerza ciudadana para capturar a los pol\u00edticos c\u00f3mplices de la corrupci\u00f3n. Estos se\u00f1ores del congreso se inventan leyes q no hay q obedecer cuando atenten contra los ciudadanos. Desobediencia civil y a denunciar a los corruptos hasta exterminar  esa plaga",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "DeLaCalleHum",
+                "id": "823348278830002177"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468488004700409859,
+    "author_id": 3464534182,
+    "tweet_id": 1468408768090316803,
+    "created_at": "2021-12-08 07:49:58+00:00",
+    "text": "@juanmanuelgalan De creer en q???",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "juanmanuelgalan",
+                "id": "31162623"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468438413829459969,
+    "author_id": 159134354,
+    "tweet_id": 1468328465795538954,
+    "created_at": "2021-12-08 04:32:54+00:00",
+    "text": "@FicoGutierrez @ELTIEMPO \ud83d\udd6f\ufe0f\ud83d\udd6f\ufe0f\ud83d\udd6f\ufe0f\ud83d\udd6f\ufe0f\ud83d\udd6f\ufe0f\n\ud83d\udd6f\ufe0f                  \n\ud83d\udd6f\ufe0f                  \n\ud83d\udd6f\ufe0f\ud83d\udd6f\ufe0f\ud83d\udd6f\ufe0f\ud83d\udd6f\ufe0f\ud83d\udd6f\ufe0f\n\ud83d\udd6f\ufe0f\n\ud83d\udd6f\ufe0f\n\ud83d\udd6f\ufe0fICO",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "FicoGutierrez",
+                "id": "43395943"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "ELTIEMPO",
+                "id": "9633802"
             }
         ]
     },
     "geo": null,
     "lang": "und"
 }{
-    "id": 1467986896794042369,
-    "author_id": 1402004634127015943,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 22:38:44+00:00",
-    "text": "@petrogustavo El Pacto Hist\u00f3rico es humanidad, el Pacto Hist\u00f3rico es presente y futuro para los colombianos que no hemos sido part\u00edcipes de la belleza de \u00e9ste pa\u00eds.",
+    "id": 1468518830859341826,
+    "author_id": 1370710395338493953,
+    "tweet_id": 1468411761804070914,
+    "created_at": "2021-12-08 09:52:27+00:00",
+    "text": "@CamiloRomero Se nota de lejos que eres un hombre transparente y un gran ser humano, estimado Camilo. Caracter\u00edsticas dif\u00edcil de encontrar en un pol\u00edtico. Las mejores energ\u00edas para ti y los tuyos.",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -287,19 +382,52 @@
             {
                 "start": 0,
                 "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
+                "username": "CamiloRomero",
+                "id": "49681553"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 94,
+                "end": 99,
+                "probability": 0.9752,
+                "type": "Person",
+                "normalized_text": "Camilo"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1467984632599699460,
-    "author_id": 1057369753969455104,
-    "tweet_id": 1467940945484300295,
-    "created_at": "2021-12-06 22:29:44+00:00",
-    "text": "@petrogustavo Si las encuestas est\u00e1n a favor entonces se despierta el eterno literato amante de las letras que compone versos hasta dormido y promete un ma\u00f1ana esponjoso, dulce y sabroso.\n\nPetro al igual que el enano tiene sus dotes de culebrero.",
+    "id": 1468456488821796865,
+    "author_id": 3213249399,
+    "tweet_id": 1468393914218524674,
+    "created_at": "2021-12-08 05:44:44+00:00",
+    "text": "@JCecheverryCol Necesitamos un milagro \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "JCecheverryCol",
+                "id": "1387812343162277888"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468394282004398087,
+    "author_id": 67061592,
+    "tweet_id": 1468370568311455749,
+    "created_at": "2021-12-08 01:37:32+00:00",
+    "text": "@CristoBustos https://t.co/yoetA9OGeg",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -311,17 +439,515 @@
             {
                 "start": 0,
                 "end": 13,
-                "username": "petrogustavo",
-                "id": "49849732"
+                "username": "CristoBustos",
+                "id": "66711542"
+            }
+        ],
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/yoetA9OGeg",
+                "expanded_url": "https://twitter.com/luckygarc/status/1468394282004398087/photo/1",
+                "display_url": "pic.twitter.com/yoetA9OGeg"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "und"
+}{
+    "id": 1468461760315367431,
+    "author_id": 1367808786765918211,
+    "tweet_id": 1468326585031925761,
+    "created_at": "2021-12-08 06:05:41+00:00",
+    "text": "@angelamrobledo Uyyyyy que p\u00e9rdida no escuchar a semejante Vaga!!!",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "angelamrobledo",
+                "id": "165748292"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468441424395964416,
+    "author_id": 346063955,
+    "tweet_id": 1468324921877090304,
+    "created_at": "2021-12-08 04:44:52+00:00",
+    "text": "@JERobledo No aclare que oscurece...deje as\u00ed mejor!!!",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JERobledo",
+                "id": "268322810"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468422999644717063,
+    "author_id": 1190247486260162561,
+    "tweet_id": 1468402421055504384,
+    "created_at": "2021-12-08 03:31:39+00:00",
+    "text": "@CarlosAmayaR Ojal\u00e1 ilumine primero el suyo y no le vaya a entregar este pa\u00eds de nuevo al Uribismo",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "CarlosAmayaR",
+                "id": "154021500"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468407494707875841,
+    "author_id": 1445969617931812869,
+    "tweet_id": 1468394439781584900,
+    "created_at": "2021-12-08 02:30:03+00:00",
+    "text": "@Rodrigo_Lara_ Lindo cachorro \ud83d\udc36\ud83d\udc36\ud83d\udc36",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Rodrigo_Lara_",
+                "id": "53187962"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "pt"
+}{
+    "id": 1468456488821796865,
+    "author_id": 3213249399,
+    "tweet_id": 1468393914218524674,
+    "created_at": "2021-12-08 05:44:44+00:00",
+    "text": "@JCecheverryCol Necesitamos un milagro \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "JCecheverryCol",
+                "id": "1387812343162277888"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468431486613430279,
+    "author_id": 473499158,
+    "tweet_id": 1468414603751301120,
+    "created_at": "2021-12-08 04:05:23+00:00",
+    "text": "@MauricioCard \u00bfA qui\u00e9n le desbarataron la cama?",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "MauricioCard",
+                "id": "142849205"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468352266839236613,
+    "author_id": 140981826,
+    "tweet_id": 1468346806929182728,
+    "created_at": "2021-12-07 22:50:35+00:00",
+    "text": "@honohenriquez @victorrpolo Y otra para que se larguen los politiqueros que los tienen jodidos mas de 20 a\u00f1os como ud por ejemplo querido doctor",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "honohenriquez",
+                "id": "206486600"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "victorrpolo",
+                "id": "872699562"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468494099422580737,
+    "author_id": 410401612,
+    "tweet_id": 1468383256424890375,
+    "created_at": "2021-12-08 08:14:11+00:00",
+    "text": "@AABenedetti Gracias a los que no queremos socialismo. No se le olvide.",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "AABenedetti",
+                "id": "38670671"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468490113126703104,
+    "author_id": 984997182704152576,
+    "tweet_id": 1468415983035551758,
+    "created_at": "2021-12-08 07:58:20+00:00",
+    "text": "@AngelicaLozanoC @TrianaVJuli Lambocitos como Triana querr\u00e1s decir",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "AngelicaLozanoC",
+                "id": "37341338"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "TrianaVJuli",
+                "id": "328836090"
             }
         ],
         "annotations": [
             {
-                "start": 189,
-                "end": 193,
-                "probability": 0.5726,
+                "start": 46,
+                "end": 51,
+                "probability": 0.722,
                 "type": "Person",
-                "normalized_text": "Petro"
+                "normalized_text": "Triana"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468513905450311687,
+    "author_id": 383740974,
+    "tweet_id": 1468360267377659906,
+    "created_at": "2021-12-08 09:32:53+00:00",
+    "text": "@IvanCepedaCast Ojal\u00e1 as\u00ed sea",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IvanCepedaCast",
+                "id": "98781946"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468407185801723908,
+    "author_id": 2177302636,
+    "tweet_id": 1468403030307614722,
+    "created_at": "2021-12-08 02:28:49+00:00",
+    "text": "@FelicianoValen @MovimientoMAIS @aida_quilcue @BanolNorman @Jacanamijoy588 @ArrietaJuvenal @CRIC_Cauca @ACIN_Cauca Este se\u00f1or me representa tambi\u00e9n.",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "FelicianoValen",
+                "id": "1466003185"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "MovimientoMAIS",
+                "id": "2328646824"
+            },
+            {
+                "start": 32,
+                "end": 45,
+                "username": "aida_quilcue",
+                "id": "921918860009361408"
+            },
+            {
+                "start": 46,
+                "end": 58,
+                "username": "BanolNorman",
+                "id": "1375530217763184646"
+            },
+            {
+                "start": 59,
+                "end": 74,
+                "username": "Jacanamijoy588",
+                "id": "717021123246956545"
+            },
+            {
+                "start": 75,
+                "end": 90,
+                "username": "ArrietaJuvenal",
+                "id": "1062945685"
+            },
+            {
+                "start": 91,
+                "end": 102,
+                "username": "CRIC_Cauca",
+                "id": "458368311"
+            },
+            {
+                "start": 103,
+                "end": 114,
+                "username": "ACIN_Cauca",
+                "id": "1205954378"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468390401363034115,
+    "author_id": 1199792330615726082,
+    "tweet_id": 1468365716206362625,
+    "created_at": "2021-12-08 01:22:07+00:00",
+    "text": "@jjUscategui @bogota_cd @CeDemocratico Los Polic\u00edas somos felices viendo a esas personas de bien encender una vela, teniendo a Colombia y a su fuerza p\u00fablica en el Coraz\u00f3n.",
+    "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "jjUscategui",
+                "id": "213769894"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "bogota_cd",
+                "id": "1466788328863416328"
+            },
+            {
+                "start": 24,
+                "end": 38,
+                "username": "CeDemocratico",
+                "id": "1115440213"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 127,
+                "end": 134,
+                "probability": 0.9916,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468503717095878658,
+    "author_id": 194573737,
+    "tweet_id": 1468290804397527040,
+    "created_at": "2021-12-08 08:52:24+00:00",
+    "text": "@ReyesKuri @SoyOscarEscobar Yo nunca solicit\u00e9 ese supuesto beneficio, pues terrible tener que arrodillarse para acceder a el... pero igual tampoco vot\u00e9 o votar\u00e9 por ustedes",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "ReyesKuri",
+                "id": "59705520"
+            },
+            {
+                "start": 11,
+                "end": 27,
+                "username": "SoyOscarEscobar",
+                "id": "131074953"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468429781452607490,
+    "author_id": 148161329,
+    "tweet_id": 1468271202963955732,
+    "created_at": "2021-12-08 03:58:36+00:00",
+    "text": "@JuanitaGoe @WRadioColombia Hola Juanita, puede un congresista bloquear a ciudadanos en redes sociales? Yo creo que no, son funcionarios p\u00fablicos y deben garantizar total transparencia de todo lo que hacen y dicen. Puedes por favor exigirle que me desbloquee. https://t.co/Duadwn0n0N",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "JuanitaGoe",
+                "id": "373138480"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "WRadioColombia",
+                "id": "20560294"
+            }
+        ],
+        "urls": [
+            {
+                "start": 260,
+                "end": 283,
+                "url": "https://t.co/Duadwn0n0N",
+                "expanded_url": "https://twitter.com/haivera__/status/1468429781452607490/photo/1",
+                "display_url": "pic.twitter.com/Duadwn0n0N"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 39,
+                "probability": 0.9688,
+                "type": "Person",
+                "normalized_text": "Juanita"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468455968803536897,
+    "author_id": 195146303,
+    "tweet_id": 1468448851270983683,
+    "created_at": "2021-12-08 05:42:40+00:00",
+    "text": "@MauroToroO Espectacular ese sueter/ruana o lo que eso sea jaja\ud83d\ude0d",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "MauroToroO",
+                "id": "156695400"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468367541907165188,
+    "author_id": 1081772360926138368,
+    "tweet_id": 1468363191126212620,
+    "created_at": "2021-12-07 23:51:17+00:00",
+    "text": "@PGN_COL Pero usted a favor del clan CHAR , hace todo eso.\ud83d\ude44",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "PGN_COL",
+                "id": "473338133"
             }
         ]
     },

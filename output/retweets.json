@@ -1,8 +1,9 @@
 {
-    "id": 1467991296635817989,
-    "author_id": 1223751093810814976,
-    "created_at": "2021-12-06 22:56:13+00:00",
-    "text": "Se\u00f1ores @PartidoLiberal @CesarGaviriaT los estamos esperando para ganar en primera vuelta. https://t.co/YARy5HoLh9",
+    "id": 1468527824000757762,
+    "author_id": 558664177,
+    "tweet_id": 1468407449363361801,
+    "created_at": "2021-12-08 10:28:11+00:00",
+    "text": "De comunista a capitalista, cambio las bombas y el terror por las velitas, todo un angelito https://t.co/kdwRnAVMWD",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -12,755 +13,136 @@
     "entities": {
         "urls": [
             {
-                "start": 91,
-                "end": 114,
-                "url": "https://t.co/YARy5HoLh9",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
+                "start": 92,
+                "end": 115,
+                "url": "https://t.co/kdwRnAVMWD",
+                "expanded_url": "https://twitter.com/petrogustavo/status/1468407449363361801",
                 "display_url": "twitter.com/petrogustavo/s\u2026"
             }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468496348047622144,
+    "author_id": 2792436866,
+    "tweet_id": 1468392850710740992,
+    "created_at": "2021-12-08 08:23:07+00:00",
+    "text": "Petro presidente ya lo sabemos. https://t.co/snJkeqIvNm",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 4,
+                "probability": 0.6517,
+                "type": "Person",
+                "normalized_text": "Petro"
+            }
         ],
+        "urls": [
+            {
+                "start": 32,
+                "end": 55,
+                "url": "https://t.co/snJkeqIvNm",
+                "expanded_url": "https://twitter.com/ingrodolfohdez/status/1468392850710740992",
+                "display_url": "twitter.com/ingrodolfohdez\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468490013218381824,
+    "author_id": 932384114,
+    "tweet_id": 1468396730421022721,
+    "created_at": "2021-12-08 07:57:57+00:00",
+    "text": "Y tambi\u00e9n por los 6402. Que su partido el CD es responsable pol\u00edticamente del asesinato de esos ciudadanos. https://t.co/LRivRPPgun",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 108,
+                "end": 131,
+                "url": "https://t.co/LRivRPPgun",
+                "expanded_url": "https://twitter.com/oizuluaga/status/1468396730421022721",
+                "display_url": "twitter.com/oizuluaga/stat\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 43,
+                "probability": 0.5162,
+                "type": "Organization",
+                "normalized_text": "CD"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468456777998024704,
+    "author_id": 2425741256,
+    "tweet_id": 1468409413870440456,
+    "created_at": "2021-12-08 05:45:53+00:00",
+    "text": "Nosotros se la vamos a encomendar a @petrogustavo a partir del 2022 por que ustedes los del terrorismo vestido de @CeDemocratico con todas sus virgenes y santos, mire como volvieron a este pais del #SagradoCorazon.\nQue Horror!!! https://t.co/FZAdy2Qbv1",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
         "mentions": [
             {
-                "start": 8,
-                "end": 23,
-                "username": "PartidoLiberal",
-                "id": "189189288"
-            },
-            {
-                "start": 24,
-                "end": 38,
-                "username": "CesarGaviriaT",
-                "id": "3229103691"
-            }
-        ]
-    },
-    "geo": {
-        "place_id": "00cc64bf0c951160"
-    },
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467990587689213953,
-    "author_id": 116981657,
-    "created_at": "2021-12-06 22:53:24+00:00",
-    "text": "Cuente con mi voto!\ud83d\ude42 https://t.co/sAfJZikYO9",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 21,
-                "end": 44,
-                "url": "https://t.co/sAfJZikYO9",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": {
-        "place_id": "496f5f37fc86ed85"
-    },
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467981273369092107,
-    "author_id": 1459172039512801284,
-    "created_at": "2021-12-06 22:16:24+00:00",
-    "text": "AS\u00cd ES...\n..EL MEJOR GOBIERNO ES \u00c9SE QUE DEJA A LA GENTE MAS TIEMPO EN PAZ..\n\nJuntarse es la palabra del Mundo con TODOS y para el bien de TODOS, as\u00ed sea SIN PATRIA PERO SIN AMO. https://t.co/OoViVBWwij",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 179,
-                "end": 202,
-                "url": "https://t.co/OoViVBWwij",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467977779387973647,
-    "author_id": 68893480,
-    "created_at": "2021-12-06 22:02:30+00:00",
-    "text": "Guarden el video por si requieren escapar cruzando el Dari\u00e9n. https://t.co/65lFRGH1oo",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 54,
-                "end": 59,
-                "probability": 0.7035,
-                "type": "Place",
-                "normalized_text": "Dari\u00e9n"
-            }
-        ],
-        "urls": [
-            {
-                "start": 62,
-                "end": 85,
-                "url": "https://t.co/65lFRGH1oo",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467975920661286913,
-    "author_id": 80394013,
-    "created_at": "2021-12-06 21:55:07+00:00",
-    "text": "#ElPactoEsConmigo\n\nLa democracia es la oportunidad de tomar parte en las decisiones que me afectan https://t.co/9to12nPzGa",
-    "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 2,
-        "quote_count": 0
-    },
-    "entities": {
-        "hashtags": [
-            {
-                "start": 0,
-                "end": 17,
-                "tag": "ElPactoEsConmigo"
-            }
-        ],
-        "urls": [
-            {
-                "start": 99,
-                "end": 122,
-                "url": "https://t.co/9to12nPzGa",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467974014782128129,
-    "author_id": 1315428184977035270,
-    "created_at": "2021-12-06 21:47:33+00:00",
-    "text": "mentiroso puro bla bla. amanecer\u00e1  y veremos. https://t.co/I4tQRjQctY",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 46,
-                "end": 69,
-                "url": "https://t.co/I4tQRjQctY",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467971245388050436,
-    "author_id": 1695014342,
-    "created_at": "2021-12-06 21:36:33+00:00",
-    "text": "https://t.co/hMeCXFjJb2",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 0,
-                "end": 23,
-                "url": "https://t.co/hMeCXFjJb2",
-                "expanded_url": "https://twitter.com/i/status/1467940945484300295",
-                "display_url": "twitter.com/i/status/14679\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "und",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467970357449707525,
-    "author_id": 1365223134,
-    "created_at": "2021-12-06 21:33:01+00:00",
-    "text": "\u00bfSi entendieron tuiteros puritanos? https://t.co/biMUJYqCGK",
-    "public_metrics": {
-        "retweet_count": 3,
-        "reply_count": 0,
-        "like_count": 6,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
                 "start": 36,
-                "end": 59,
-                "url": "https://t.co/biMUJYqCGK",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
+                "end": 49,
+                "username": "petrogustavo",
+                "id": "49849732"
+            },
+            {
+                "start": 114,
+                "end": 128,
+                "username": "CeDemocratico",
+                "id": "1115440213"
             }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467962557914882057,
-    "author_id": 1731010746,
-    "created_at": "2021-12-06 21:02:01+00:00",
-    "text": "#SeremosGobierno https://t.co/ONdqhTQBYa",
-    "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 4,
-        "quote_count": 0
-    },
-    "entities": {
+        ],
         "urls": [
             {
-                "start": 17,
-                "end": 40,
-                "url": "https://t.co/ONdqhTQBYa",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
+                "start": 229,
+                "end": 252,
+                "url": "https://t.co/FZAdy2Qbv1",
+                "expanded_url": "https://twitter.com/PalomaValenciaL/status/1468409413870440456",
+                "display_url": "twitter.com/PalomaValencia\u2026"
             }
         ],
         "hashtags": [
             {
-                "start": 0,
-                "end": 16,
-                "tag": "SeremosGobierno"
+                "start": 198,
+                "end": 213,
+                "tag": "SagradoCorazon"
             }
         ]
     },
     "geo": null,
-    "lang": "und",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
+    "lang": "es"
 }{
-    "id": 1467959934507700226,
-    "author_id": 341522757,
-    "created_at": "2021-12-06 20:51:36+00:00",
-    "text": "#SeremosGobierno \n#PetroPresidente2022 en primera vuelta.\n#YoConfioEnPetro \n#ConPetroHastaElFinal https://t.co/BQ99tP1Bde",
-    "public_metrics": {
-        "retweet_count": 4,
-        "reply_count": 0,
-        "like_count": 6,
-        "quote_count": 0
-    },
-    "entities": {
-        "hashtags": [
-            {
-                "start": 0,
-                "end": 16,
-                "tag": "SeremosGobierno"
-            },
-            {
-                "start": 18,
-                "end": 38,
-                "tag": "PetroPresidente2022"
-            },
-            {
-                "start": 58,
-                "end": 74,
-                "tag": "YoConfioEnPetro"
-            },
-            {
-                "start": 76,
-                "end": 97,
-                "tag": "ConPetroHastaElFinal"
-            }
-        ],
-        "urls": [
-            {
-                "start": 98,
-                "end": 121,
-                "url": "https://t.co/BQ99tP1Bde",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467957718115835914,
-    "author_id": 1358506347881500674,
-    "created_at": "2021-12-06 20:42:47+00:00",
-    "text": "#PetroEsFarc ...\n#ElCacasNuncaSer\u00e1Presidente https://t.co/aFnJKX4sCa",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 45,
-                "end": 68,
-                "url": "https://t.co/aFnJKX4sCa",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 0,
-                "end": 12,
-                "tag": "PetroEsFarc"
-            },
-            {
-                "start": 17,
-                "end": 44,
-                "tag": "ElCacasNuncaSer\u00e1Presidente"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "und",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467954357589131269,
-    "author_id": 588504022,
-    "created_at": "2021-12-06 20:29:26+00:00",
-    "text": "PACTO ?  La misma palabra dice que no te apoyemos , por que eres lo que COLOMBIA  !!! NO NECESITA !!! https://t.co/GR1zoekNHr",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 72,
-                "end": 79,
-                "probability": 0.9734,
-                "type": "Place",
-                "normalized_text": "COLOMBIA"
-            }
-        ],
-        "urls": [
-            {
-                "start": 102,
-                "end": 125,
-                "url": "https://t.co/GR1zoekNHr",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467952329697763329,
-    "author_id": 1389402485123686402,
-    "created_at": "2021-12-06 20:21:23+00:00",
-    "text": "https://t.co/MnRwzyJS2s https://t.co/edpbloHrRm",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 0,
-                "end": 23,
-                "url": "https://t.co/MnRwzyJS2s",
-                "expanded_url": "https://twitter.com/CamilaFillipo/status/1467952329697763329/photo/1",
-                "display_url": "pic.twitter.com/MnRwzyJS2s"
-            },
-            {
-                "start": 24,
-                "end": 47,
-                "url": "https://t.co/edpbloHrRm",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "und",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467951631572602885,
-    "author_id": 352493488,
-    "created_at": "2021-12-06 20:18:36+00:00",
-    "text": "Con las mismas palabras que seduc\u00eda campesinos para volverlos sicarios. Ni\u00f1as campesinas para violarlas. Empresarios para extorcionarlos. Usted fue un bandido y morir\u00e1 como un bandido. https://t.co/FlB4Dgorwl",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 185,
-                "end": 208,
-                "url": "https://t.co/FlB4Dgorwl",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467949957370069002,
-    "author_id": 1369799854625599498,
-    "created_at": "2021-12-06 20:11:57+00:00",
-    "text": "ESO es MACHISMO https://t.co/xxMkxOwKY6",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 16,
-                "end": 39,
-                "url": "https://t.co/xxMkxOwKY6",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467949773324001284,
-    "author_id": 1121137347834281984,
-    "created_at": "2021-12-06 20:11:13+00:00",
-    "text": "Gustavo Petro Urrego el presidente que so\u00f1aron los colombianos en 1948 ser\u00e1 votado masivamente en el 2012 #PetroPresidente2022 #PetroLidera #PetroPresidentePopular https://t.co/uC8qpz60R9",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 0,
-                "end": 19,
-                "probability": 0.8702,
-                "type": "Person",
-                "normalized_text": "Gustavo Petro Urrego"
-            }
-        ],
-        "urls": [
-            {
-                "start": 164,
-                "end": 187,
-                "url": "https://t.co/uC8qpz60R9",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 106,
-                "end": 126,
-                "tag": "PetroPresidente2022"
-            },
-            {
-                "start": 127,
-                "end": 139,
-                "tag": "PetroLidera"
-            },
-            {
-                "start": 140,
-                "end": 163,
-                "tag": "PetroPresidentePopular"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467947137531101193,
-    "author_id": 1393778877147881480,
-    "created_at": "2021-12-06 20:00:45+00:00",
-    "text": "#Seremosgobierno https://t.co/IgZlidFz9n",
-    "public_metrics": {
-        "retweet_count": 2,
-        "reply_count": 0,
-        "like_count": 5,
-        "quote_count": 0
-    },
-    "entities": {
-        "hashtags": [
-            {
-                "start": 0,
-                "end": 16,
-                "tag": "Seremosgobierno"
-            }
-        ],
-        "urls": [
-            {
-                "start": 17,
-                "end": 40,
-                "url": "https://t.co/IgZlidFz9n",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "und",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467947100491206659,
-    "author_id": 1146058071699087360,
-    "created_at": "2021-12-06 20:00:36+00:00",
-    "text": "#PetroHamponElPuebloNoEsHuevon https://t.co/bpZNGcmV7M",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "hashtags": [
-            {
-                "start": 0,
-                "end": 30,
-                "tag": "PetroHamponElPuebloNoEsHuevon"
-            }
-        ],
-        "urls": [
-            {
-                "start": 31,
-                "end": 54,
-                "url": "https://t.co/bpZNGcmV7M",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "und",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467946873486987266,
-    "author_id": 1328405609734156290,
-    "created_at": "2021-12-06 19:59:42+00:00",
-    "text": "\"Somos la nueva pol\u00edtica\"\n\nBy: La campa\u00f1a que pone un v\u00eddeo de sujetos subiendo un risco entre ellos con el atardecer de fondo. https://t.co/H9g5TuC0c6",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 128,
-                "end": 151,
-                "url": "https://t.co/H9g5TuC0c6",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467946649418969089,
-    "author_id": 1253766197662941191,
-    "created_at": "2021-12-06 19:58:49+00:00",
-    "text": "Jajajajaja https://t.co/cozVzi0uso https://t.co/FbtmbqmWIN",
-    "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 2,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 11,
-                "end": 34,
-                "url": "https://t.co/cozVzi0uso",
-                "expanded_url": "https://twitter.com/korregy/status/1467946649418969089/photo/1",
-                "display_url": "pic.twitter.com/cozVzi0uso"
-            },
-            {
-                "start": 35,
-                "end": 58,
-                "url": "https://t.co/FbtmbqmWIN",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467945770875768841,
-    "author_id": 846508429569146882,
-    "created_at": "2021-12-06 19:55:19+00:00",
-    "text": "Cu\u00e1ndo est\u00e9 arriba los lanza al vacio, as\u00ed son los Dictadores! https://t.co/OhcaCZalUT",
+    "id": 1468443888528543745,
+    "author_id": 2463569693,
+    "tweet_id": 1468432148466126848,
+    "created_at": "2021-12-08 04:54:40+00:00",
+    "text": "Lleno de cemento Y Transmilenio por cierto https://t.co/gqhhcSCNtp",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -770,233 +152,133 @@
     "entities": {
         "urls": [
             {
-                "start": 63,
-                "end": 86,
-                "url": "https://t.co/OhcaCZalUT",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
+                "start": 43,
+                "end": 66,
+                "url": "https://t.co/gqhhcSCNtp",
+                "expanded_url": "https://twitter.com/EnriquePenalosa/status/1468432148466126848",
+                "display_url": "twitter.com/EnriquePenalos\u2026"
             }
         ]
     },
     "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
+    "lang": "es"
 }{
-    "id": 1467945164916334603,
-    "author_id": 1551630842,
-    "created_at": "2021-12-06 19:52:55+00:00",
-    "text": "@PactoHistorico es alimentador de ODIO \ud83d\udca9\ud83d\udca9\ud83d\udca9\ud83d\udd95\ud83d\udd95\ud83d\udd95\nSembrador de ODIO @petrogustavo\n@GustavoBolivar \nDifunde @CGurisattiNTN24 @NTN24 @VickyDavilaH https://t.co/xhJNQ7eMk4 https://t.co/9cPGEFktsN",
+    "id": 1468445610101678088,
+    "author_id": 2463569693,
+    "tweet_id": 1468372357182115840,
+    "created_at": "2021-12-08 05:01:30+00:00",
+    "text": "Los tibios s\u00ed prenden algo? https://t.co/vkW5gGI2Mu",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 28,
+                "end": 51,
+                "url": "https://t.co/vkW5gGI2Mu",
+                "expanded_url": "https://twitter.com/agaviriau/status/1468372357182115840",
+                "display_url": "twitter.com/agaviriau/stat\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468517509213167622,
+    "author_id": 990196495516356608,
+    "tweet_id": 1468408768090316803,
+    "created_at": "2021-12-08 09:47:12+00:00",
+    "text": "Mis respetos Familia Gal\u00e1n \u2764\ufe0f\u2764\ufe0f https://t.co/pgpod1vqAL",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 32,
+                "end": 55,
+                "url": "https://t.co/pgpod1vqAL",
+                "expanded_url": "https://twitter.com/juanmanuelgalan/status/1468408768090316803",
+                "display_url": "twitter.com/juanmanuelgala\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468403621255684097,
+    "author_id": 486181923,
+    "tweet_id": 1468328465795538954,
+    "created_at": "2021-12-08 02:14:39+00:00",
+    "text": "Pero en Barranquilla @zonacero del Lameculo @jorgecura1070 dice que el hablador de mond\u00e1 del clan Char @AlejandroChar  te gana. https://t.co/thXCGXXMRv",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
         "like_count": 0,
         "quote_count": 0
     },
     "entities": {
         "mentions": [
             {
-                "start": 0,
-                "end": 15,
-                "username": "PactoHistorico",
-                "id": "992392975706722304"
-            },
-            {
-                "start": 64,
-                "end": 77,
-                "username": "petrogustavo",
-                "id": "49849732"
-            },
-            {
-                "start": 78,
-                "end": 93,
-                "username": "GustavoBolivar",
-                "id": "50981729"
-            },
-            {
-                "start": 103,
-                "end": 119,
-                "username": "CGurisattiNTN24",
-                "id": "124355265"
-            },
-            {
-                "start": 120,
-                "end": 126,
-                "username": "NTN24",
-                "id": "133945128"
-            },
-            {
-                "start": 127,
-                "end": 140,
-                "username": "VickyDavilaH",
-                "id": "242730842"
-            }
-        ],
-        "urls": [
-            {
-                "start": 141,
-                "end": 164,
-                "url": "https://t.co/xhJNQ7eMk4",
-                "expanded_url": "https://twitter.com/luisafer90210/status/1467945164916334603/photo/1",
-                "display_url": "pic.twitter.com/xhJNQ7eMk4"
-            },
-            {
-                "start": 141,
-                "end": 164,
-                "url": "https://t.co/xhJNQ7eMk4",
-                "expanded_url": "https://twitter.com/luisafer90210/status/1467945164916334603/photo/1",
-                "display_url": "pic.twitter.com/xhJNQ7eMk4"
-            },
-            {
-                "start": 141,
-                "end": 164,
-                "url": "https://t.co/xhJNQ7eMk4",
-                "expanded_url": "https://twitter.com/luisafer90210/status/1467945164916334603/photo/1",
-                "display_url": "pic.twitter.com/xhJNQ7eMk4"
-            },
-            {
-                "start": 165,
-                "end": 188,
-                "url": "https://t.co/9cPGEFktsN",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467944811193847808,
-    "author_id": 370913350,
-    "created_at": "2021-12-06 19:51:30+00:00",
-    "text": "yo quiero estar en los #Neo \n#Neocampesinos\n#NeoEstudiantes\n#NeoEmpresarios https://t.co/tSbO0CF7SC",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "hashtags": [
-            {
-                "start": 23,
-                "end": 27,
-                "tag": "Neo"
-            },
-            {
-                "start": 29,
-                "end": 43,
-                "tag": "Neocampesinos"
+                "start": 21,
+                "end": 30,
+                "username": "zonacero",
+                "id": "122960146"
             },
             {
                 "start": 44,
-                "end": 59,
-                "tag": "NeoEstudiantes"
+                "end": 58,
+                "username": "jorgecura1070",
+                "id": "195395453"
             },
             {
-                "start": 60,
-                "end": 75,
-                "tag": "NeoEmpresarios"
-            }
-        ],
-        "urls": [
-            {
-                "start": 76,
-                "end": 99,
-                "url": "https://t.co/tSbO0CF7SC",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
-}{
-    "id": 1467944575557898248,
-    "author_id": 1389402485123686402,
-    "created_at": "2021-12-06 19:50:34+00:00",
-    "text": "Hoy @petrogustavo es el personaje que m\u00e1s divide a Colombia. Generador de odios y promotor de resentimientos. El futuro que el pa\u00eds se merece se dar\u00e1 cuando se retire de la pol\u00edtica y se radique en Cuba o Venezuela. Baboso! https://t.co/edpbloHrRm",
-    "public_metrics": {
-        "retweet_count": 2,
-        "reply_count": 2,
-        "like_count": 6,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 4,
-                "end": 17,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ],
-        "urls": [
-            {
-                "start": 224,
-                "end": 247,
-                "url": "https://t.co/edpbloHrRm",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
+                "start": 103,
+                "end": 117,
+                "username": "AlejandroChar",
+                "id": "118563867"
             }
         ],
         "annotations": [
             {
-                "start": 51,
-                "end": 58,
-                "probability": 0.9946,
+                "start": 8,
+                "end": 19,
+                "probability": 0.9759,
                 "type": "Place",
-                "normalized_text": "Colombia"
+                "normalized_text": "Barranquilla"
             },
             {
-                "start": 198,
-                "end": 201,
-                "probability": 0.9916,
-                "type": "Place",
-                "normalized_text": "Cuba"
-            },
+                "start": 35,
+                "end": 42,
+                "probability": 0.4771,
+                "type": "Person",
+                "normalized_text": "Lameculo"
+            }
+        ],
+        "urls": [
             {
-                "start": 205,
-                "end": 213,
-                "probability": 0.9877,
-                "type": "Place",
-                "normalized_text": "Venezuela"
+                "start": 128,
+                "end": 151,
+                "url": "https://t.co/thXCGXXMRv",
+                "expanded_url": "https://twitter.com/FicoGutierrez/status/1468328465795538954",
+                "display_url": "twitter.com/FicoGutierrez/\u2026"
             }
         ]
     },
     "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
+    "lang": "es"
 }{
-    "id": 1467943795580981248,
-    "author_id": 1412929027770302466,
-    "created_at": "2021-12-06 19:47:28+00:00",
-    "text": "Con la que sale esta pecueca asesino violador narcoterrorista y narcotraficante indultado de petro el futuro de petro lo construir\u00e1 con la puta madre de ese hijueputa https://t.co/Kr33F5jsLm",
+    "id": 1468431603064004608,
+    "author_id": 209247992,
+    "tweet_id": 1468411761804070914,
+    "created_at": "2021-12-08 04:05:50+00:00",
+    "text": "Elpre si https://t.co/fl4eEEsPtx",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -1006,21 +288,363 @@
     "entities": {
         "urls": [
             {
-                "start": 167,
-                "end": 190,
-                "url": "https://t.co/Kr33F5jsLm",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1467940945484300295",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
+                "start": 9,
+                "end": 32,
+                "url": "https://t.co/fl4eEEsPtx",
+                "expanded_url": "https://twitter.com/camiloromero/status/1468411761804070914",
+                "display_url": "twitter.com/camiloromero/s\u2026"
             }
         ]
     },
     "geo": null,
-    "lang": "es",
-    "tweet_id": 1467940945484300295,
-    "referenced_tweets": [
-        {
-            "type": "quoted",
-            "id": 1467940945484300295
-        }
-    ]
+    "lang": "ht"
+}{
+    "id": 1468407887240122370,
+    "author_id": 1445969617931812869,
+    "tweet_id": 1468393914218524674,
+    "created_at": "2021-12-08 02:31:36+00:00",
+    "text": "\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f https://t.co/B8hfl5UxE4",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 32,
+                "url": "https://t.co/B8hfl5UxE4",
+                "expanded_url": "https://twitter.com/jcecheverrycol/status/1468393914218524674",
+                "display_url": "twitter.com/jcecheverrycol\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "und"
+}{
+    "id": 1468375751984652291,
+    "author_id": 156657366,
+    "tweet_id": 1468370568311455749,
+    "created_at": "2021-12-08 00:23:55+00:00",
+    "text": "Prender\u00e9 #UnaVelaPor la paz y  conf\u00edo en que llegara completamente cuando dejen de intentar hacer trizas los acuerdos y se dediquen es a cumplirlos #SoyCristo https://t.co/BPCO6OyUIs",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 159,
+                "end": 182,
+                "url": "https://t.co/BPCO6OyUIs",
+                "expanded_url": "https://twitter.com/cristobustos/status/1468370568311455749",
+                "display_url": "twitter.com/cristobustos/s\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag": "UnaVelaPor"
+            },
+            {
+                "start": 148,
+                "end": 158,
+                "tag": "SoyCristo"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468329123269513223,
+    "author_id": 205503324,
+    "tweet_id": 1468326585031925761,
+    "created_at": "2021-12-07 21:18:37+00:00",
+    "text": "Bueno esperar\u00e9 para leerlo y adem\u00e1s tenerlo firmado . Importante leerlo https://t.co/vtnMTNIYRN",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 72,
+                "end": 95,
+                "url": "https://t.co/vtnMTNIYRN",
+                "expanded_url": "https://twitter.com/angelamrobledo/status/1468326585031925761",
+                "display_url": "twitter.com/angelamrobledo\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468357883272351747,
+    "author_id": 321225852,
+    "tweet_id": 1468324921877090304,
+    "created_at": "2021-12-07 23:12:54+00:00",
+    "text": "S\u00ed que le sali\u00f3 mal esto. Ahh tiempos aquellos donde Robledo era un pol\u00edtico de verdad. https://t.co/MQdFWceCFR",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 59,
+                "probability": 0.9728,
+                "type": "Person",
+                "normalized_text": "Robledo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/MQdFWceCFR",
+                "expanded_url": "https://twitter.com/JERobledo/status/1468324921877090304",
+                "display_url": "twitter.com/JERobledo/stat\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468395051973758976,
+    "author_id": 1317098718,
+    "tweet_id": 1468394439781584900,
+    "created_at": "2021-12-08 01:40:36+00:00",
+    "text": "Esa foto fue en El Choc\u00f3? https://t.co/epvzZwcwLC",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 26,
+                "end": 49,
+                "url": "https://t.co/epvzZwcwLC",
+                "expanded_url": "https://twitter.com/Rodrigo_Lara_/status/1468394439781584900",
+                "display_url": "twitter.com/Rodrigo_Lara_/\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 23,
+                "probability": 0.9003,
+                "type": "Place",
+                "normalized_text": "El Choc\u00f3"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468407887240122370,
+    "author_id": 1445969617931812869,
+    "tweet_id": 1468393914218524674,
+    "created_at": "2021-12-08 02:31:36+00:00",
+    "text": "\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f https://t.co/B8hfl5UxE4",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 32,
+                "url": "https://t.co/B8hfl5UxE4",
+                "expanded_url": "https://twitter.com/jcecheverrycol/status/1468393914218524674",
+                "display_url": "twitter.com/jcecheverrycol\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "und"
+}{
+    "id": 1468348907163983875,
+    "author_id": 1409866159319666709,
+    "tweet_id": 1468346806929182728,
+    "created_at": "2021-12-07 22:37:14+00:00",
+    "text": "como debe ser senador, gracias https://t.co/Ea02aVquG6",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/Ea02aVquG6",
+                "expanded_url": "https://twitter.com/honohenriquez/status/1468346806929182728",
+                "display_url": "twitter.com/honohenriquez/\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468390556338376707,
+    "author_id": 223172344,
+    "tweet_id": 1468383256424890375,
+    "created_at": "2021-12-08 01:22:44+00:00",
+    "text": "La esperanza de Colombia @petrogustavo https://t.co/Q0WZOuxd7d",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 39,
+                "end": 62,
+                "url": "https://t.co/Q0WZOuxd7d",
+                "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375",
+                "display_url": "twitter.com/AABenedetti/st\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 23,
+                "probability": 0.9532,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 25,
+                "end": 38,
+                "username": "petrogustavo",
+                "id": "49849732"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468430749913305089,
+    "author_id": 768225337444601856,
+    "tweet_id": 1468360267377659906,
+    "created_at": "2021-12-08 04:02:27+00:00",
+    "text": "Duque un hablador que viaja al exterior a cobrar r\u00e9ditos y premios de gobiernos anteriores y a comprometerse con cosas que no quiere hacer. https://t.co/7MKKvNVcvB",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 4,
+                "probability": 0.8631,
+                "type": "Person",
+                "normalized_text": "Duque"
+            }
+        ],
+        "urls": [
+            {
+                "start": 140,
+                "end": 163,
+                "url": "https://t.co/7MKKvNVcvB",
+                "expanded_url": "https://twitter.com/IvanCepedaCast/status/1468360267377659906",
+                "display_url": "twitter.com/IvanCepedaCast\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468489686293303298,
+    "author_id": 1445121709653348352,
+    "tweet_id": 1468404739494891521,
+    "created_at": "2021-12-08 07:56:39+00:00",
+    "text": "Un escritor de novelas, luchando por escribir las riendas del pa\u00eds, quiz\u00e1s avance con el intento de legalizar lo no legalizado.... https://t.co/CcXTZmT7Ko",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 131,
+                "end": 154,
+                "url": "https://t.co/CcXTZmT7Ko",
+                "expanded_url": "https://twitter.com/GustavoBolivar/status/1468404739494891521",
+                "display_url": "twitter.com/GustavoBolivar\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468375516600274944,
+    "author_id": 114707574,
+    "tweet_id": 1468363191126212620,
+    "created_at": "2021-12-08 00:22:58+00:00",
+    "text": "\u201cLa primera regla que se introduce en el C\u00f3digo General Disciplinario es la separaci\u00f3n de funciones. Un funcionario es el que instruye, llega hasta pliego de cargos o archivo y otro funcionario es el que juzga\u201d, Procuradora Margarita Cabello #Ley2094 https://t.co/BUbXyBxwid",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 212,
+                "end": 240,
+                "probability": 0.7705,
+                "type": "Person",
+                "normalized_text": "Procuradora Margarita Cabello"
+            }
+        ],
+        "urls": [
+            {
+                "start": 251,
+                "end": 274,
+                "url": "https://t.co/BUbXyBxwid",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468363191126212620",
+                "display_url": "twitter.com/PGN_COL/status\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 242,
+                "end": 250,
+                "tag": "Ley2094"
+            }
+        ]
+    },
+    "geo": {
+        "place_id": "010fd77520d2d48a"
+    },
+    "lang": "es"
 }
