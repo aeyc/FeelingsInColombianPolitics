@@ -51,7 +51,7 @@ def get_retweets(profile, tweet_id):
 
     url = "https://twitter.com/" + profile + "/status/" + str(tweet_id)
 
-    for retweet in tw.Paginator(client.search_recent_tweets,query='url: "{}"'.format(url)  + " -is:reply -is:retweet is:quote", tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"]).flatten(RESULTS_LIMIT):
+    for retweet in tw.Paginator(client.search_recent_tweets,query='url: "{}"'.format(url)  + " -is:reply -is:retweet is:quote", tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"]).flatten():
         parsed = {}
         parsed['id'] = retweet.id
         parsed['author_id'] = retweet.author_id
@@ -81,7 +81,7 @@ def get_replies(tweet_id):
 
     rpl_count = 0
 
-    for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang","referenced_tweets"]).flatten(RESULTS_LIMIT):
+    for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang","referenced_tweets"]).flatten():
         refs = []
         answer_to_tweet = False
 
@@ -173,7 +173,7 @@ if __name__ == "__main__":
 
         logging.info("Collecting tweets of " + profile + "...")
 
-        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"], exclude=["retweets", "replies"],start_time=fromDate.isoformat()).flatten(RESULTS_LIMIT):
+        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"], exclude=["retweets", "replies"],start_time=fromDate.isoformat()).flatten():
             for keyword in keywords:
                 if f' {keyword.casefold()} ' in f' {tweet.text.casefold()} ':
                     parsed = {}

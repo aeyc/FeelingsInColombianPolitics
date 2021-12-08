@@ -1,326 +1,366 @@
 {
-    "id": 1468326454954192896,
-    "author_id": 25185308,
-    "created_at": "2021-12-07 21:08:01+00:00",
-    "text": "A los ataques respondemos con propuestas porque Colombia va a cambiar. Y las mujeres ser\u00e1n protagonistas de ese cambio. Hoy presentamos el Ministerio de las Mujeres. Bienvenidos sus aportes y comentarios. https://t.co/n8lavC7QJv",
+    "id": 1468575723640307716,
+    "author_id": 262814659,
+    "created_at": "2021-12-08 13:38:31+00:00",
+    "text": "El proceso en el que estamos es escuchar a los colombianos, as\u00ed podremos entender sus preocupaciones en materia de seguridad, empleo, salud y oportunidades.\n\n#SoyTodoO\u00eddos https://t.co/nmiVGm1ieH",
     "public_metrics": {
-        "retweet_count": 70,
-        "reply_count": 60,
-        "like_count": 175,
-        "quote_count": 15
+        "retweet_count": 16,
+        "reply_count": 7,
+        "like_count": 22,
+        "quote_count": 3
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 158,
+                "end": 171,
+                "tag": "SoyTodoO\u00eddos"
+            }
+        ],
+        "urls": [
+            {
+                "start": 172,
+                "end": 195,
+                "url": "https://t.co/nmiVGm1ieH",
+                "expanded_url": "https://twitter.com/OIZuluaga/status/1468575723640307716/photo/1",
+                "display_url": "pic.twitter.com/nmiVGm1ieH"
+            }
+        ]
+    },
+    "geo": {
+        "place_id": "0161be1b3f98d6c3"
+    },
+    "lang": "es"
+}{
+    "id": 1468269315417952265,
+    "author_id": 350862112,
+    "created_at": "2021-12-07 17:20:58+00:00",
+    "text": "El temido alias \u2018Roma\u00f1a\u2019 habr\u00eda muerto en Venezuela, form\u00f3 parte del proceso de paz de La Habana, pero desert\u00f3, se rearm\u00f3 y regres\u00f3 a la clandestinidad.\n\nhttps://t.co/Lgl1Djk62X",
+    "public_metrics": {
+        "retweet_count": 366,
+        "reply_count": 178,
+        "like_count": 838,
+        "quote_count": 36
     },
     "entities": {
         "urls": [
             {
-                "start": 205,
-                "end": 228,
-                "url": "https://t.co/n8lavC7QJv",
-                "expanded_url": "https://twitter.com/sergio_fajardo/status/1468326454954192896/video/1",
-                "display_url": "pic.twitter.com/n8lavC7QJv"
+                "start": 154,
+                "end": 177,
+                "url": "https://t.co/Lgl1Djk62X",
+                "expanded_url": "https://www.semana.com/nacion/articulo/atencion-el-temido-alias-romana-tambien-murio-en-venezuela/202152/?utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1638892742-1",
+                "display_url": "semana.com/nacion/articul\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468231050342055947/aevf5d9a?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 646
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468231050342055947/aevf5d9a?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Urgente: El temido alias Roma\u00f1a tambi\u00e9n muri\u00f3 en Venezuela",
+                "description": "Roma\u00f1a hizo parte del proceso de paz de La Habana, pero desert\u00f3, se rearm\u00f3 y regres\u00f3 a la clandestinidad.",
+                "unwound_url": "https://www.semana.com/nacion/articulo/atencion-el-temido-alias-romana-tambien-murio-en-venezuela/202152/?utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1638892742-1"
             }
         ],
         "annotations": [
             {
-                "start": 48,
-                "end": 55,
-                "probability": 0.9793,
+                "start": 42,
+                "end": 50,
+                "probability": 0.9976,
                 "type": "Place",
-                "normalized_text": "Colombia"
+                "normalized_text": "Venezuela"
             },
             {
-                "start": 139,
-                "end": 163,
-                "probability": 0.5242,
-                "type": "Organization",
-                "normalized_text": "Ministerio de las Mujeres"
+                "start": 87,
+                "end": 95,
+                "probability": 0.7077,
+                "type": "Place",
+                "normalized_text": "La Habana"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468411761804070914,
-    "author_id": 49681553,
-    "created_at": "2021-12-08 02:47:00+00:00",
-    "text": "\u00a1Qu\u00e9 alegr\u00eda compartir en familia el #DiaDeVelitas!\n\nEncendemos nuestras luces con Guada y Sim\u00f3n para darle la bienvenida a esta \u00e9poca que es motivo siempre para encontrarnos y compartir.\n\n\u00a1Feliz comienzo de navidad! https://t.co/sogXoHvSvo",
+    "id": 1468573381759012864,
+    "author_id": 100006904,
+    "created_at": "2021-12-08 13:29:13+00:00",
+    "text": "La violencia en Cali sin control, hurtos homicidios en crecimiento y al alcalde Jorge Iv\u00e1n Ospina, solo le interesa crear una empresa de econom\u00eda mixta para hacer negocios con sus amigos.\nAlcalde \n! Cali Se Respeta ! https://t.co/OtXnsp9qnQ",
     "public_metrics": {
-        "retweet_count": 58,
-        "reply_count": 14,
-        "like_count": 795,
-        "quote_count": 2
+        "retweet_count": 5,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0
     },
     "entities": {
         "urls": [
             {
                 "start": 217,
                 "end": 240,
-                "url": "https://t.co/sogXoHvSvo",
-                "expanded_url": "https://twitter.com/CamiloRomero/status/1468411761804070914/photo/1",
-                "display_url": "pic.twitter.com/sogXoHvSvo"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 37,
-                "end": 50,
-                "tag": "DiaDeVelitas"
+                "url": "https://t.co/OtXnsp9qnQ",
+                "expanded_url": "https://twitter.com/blupacifico/status/1468569012971921409",
+                "display_url": "twitter.com/blupacifico/st\u2026"
             }
         ],
         "annotations": [
             {
-                "start": 83,
-                "end": 87,
-                "probability": 0.8977,
-                "type": "Person",
-                "normalized_text": "Guada"
+                "start": 16,
+                "end": 19,
+                "probability": 0.9916,
+                "type": "Place",
+                "normalized_text": "Cali"
             },
             {
-                "start": 91,
-                "end": 95,
-                "probability": 0.7412,
+                "start": 80,
+                "end": 96,
+                "probability": 0.9845,
                 "type": "Person",
-                "normalized_text": "Sim\u00f3n"
+                "normalized_text": "Jorge Iv\u00e1n Ospina"
+            },
+            {
+                "start": 199,
+                "end": 202,
+                "probability": 0.6789,
+                "type": "Place",
+                "normalized_text": "Cali"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468370568311455749,
-    "author_id": 66711542,
-    "created_at": "2021-12-08 00:03:19+00:00",
-    "text": "Hoy vuelvo a encender #UnaVelaPor\ud83d\udd6f la paz, por el cumplimiento de los Acuerdos \ud83d\udd4a\ufe0f, por las v\u00edctimas y la reconciliaci\u00f3n. Devolv\u00e1mosle la esperanza a nuestro pa\u00eds. \ud83c\udde8\ud83c\uddf4 #SoyCristo https://t.co/WxqMXiTgz2",
-    "public_metrics": {
-        "retweet_count": 6,
-        "reply_count": 4,
-        "like_count": 45,
-        "quote_count": 1
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 177,
-                "end": 200,
-                "url": "https://t.co/WxqMXiTgz2",
-                "expanded_url": "https://twitter.com/CristoBustos/status/1468370568311455749/photo/1",
-                "display_url": "pic.twitter.com/WxqMXiTgz2"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 22,
-                "end": 33,
-                "tag": "UnaVelaPor"
-            },
-            {
-                "start": 166,
-                "end": 176,
-                "tag": "SoyCristo"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468552970811887621,
+    "id": 1468562460001067012,
     "author_id": 100006904,
-    "created_at": "2021-12-08 12:08:07+00:00",
-    "text": "La izquierda y el centro gobiernan Alemania.\nSe cierra la era Merkel: Olaf Scholz es elegido canciller https://t.co/QxXvYdpWvL v\u00eda @WradioColombia",
+    "created_at": "2021-12-08 12:45:49+00:00",
+    "text": "No descansaremos hasta que los responsables de los asesinatos de los j\u00f3venes en Colombia vayan a la c\u00e1rcel La lucha por justicia para las v\u00edctimas de la violencia policial en Cali, Colombia https://t.co/GRwb142FDZ",
     "public_metrics": {
-        "retweet_count": 2,
+        "retweet_count": 13,
         "reply_count": 0,
-        "like_count": 3,
+        "like_count": 26,
         "quote_count": 0
     },
     "entities": {
         "urls": [
             {
-                "start": 103,
-                "end": 126,
-                "url": "https://t.co/QxXvYdpWvL",
-                "expanded_url": "https://www.wradio.com.co/2021/12/08/alemania-cierra-la-era-merkel-olaf-scholz-es-elegido-canciller/",
-                "display_url": "wradio.com.co/2021/12/08/ale\u2026",
-                "images": [
-                    {
-                        "url": "https://pbs.twimg.com/news_img/1468547550345146369/5kt_goI3?format=jpg&name=orig",
-                        "width": 1024,
-                        "height": 683
-                    },
-                    {
-                        "url": "https://pbs.twimg.com/news_img/1468547550345146369/5kt_goI3?format=jpg&name=150x150",
-                        "width": 150,
-                        "height": 150
-                    }
-                ],
-                "status": 200,
-                "title": "Alemania cierra la era Merkel: Olaf Scholz es elegido canciller",
-                "description": "Esto significa el regreso del centro-izquierda al poder.",
-                "unwound_url": "https://www.wradio.com.co/2021/12/08/alemania-cierra-la-era-merkel-olaf-scholz-es-elegido-canciller/"
-            }
-        ],
-        "mentions": [
-            {
-                "start": 131,
-                "end": 146,
-                "username": "WRadioColombia",
-                "id": "20560294"
+                "start": 190,
+                "end": 213,
+                "url": "https://t.co/GRwb142FDZ",
+                "expanded_url": "https://www.wola.org/es/events/la-lucha-por-justicia-para-las-victimas-de-la-violencia-policial-en-cali-colombia/",
+                "display_url": "wola.org/es/events/la-l\u2026"
             }
         ],
         "annotations": [
             {
-                "start": 35,
-                "end": 42,
-                "probability": 0.8228,
+                "start": 80,
+                "end": 87,
+                "probability": 0.998,
                 "type": "Place",
-                "normalized_text": "Alemania"
+                "normalized_text": "Colombia"
             },
             {
-                "start": 62,
-                "end": 67,
-                "probability": 0.8597,
-                "type": "Person",
-                "normalized_text": "Merkel"
+                "start": 175,
+                "end": 178,
+                "probability": 0.9919,
+                "type": "Place",
+                "normalized_text": "Cali"
             },
             {
-                "start": 70,
-                "end": 80,
-                "probability": 0.9902,
-                "type": "Person",
-                "normalized_text": "Olaf Scholz"
+                "start": 181,
+                "end": 188,
+                "probability": 0.9223,
+                "type": "Place",
+                "normalized_text": "Colombia"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468326585031925761,
-    "author_id": 165748292,
-    "created_at": "2021-12-07 21:08:32+00:00",
-    "text": "El 9 de diciembre ser\u00e0 la cicloruta  nocturna, esa noche la ciudad es prioritariamente para ciclistas y peatones,ser\u00e1 misi\u00f3n imposible llegar al centro de Bogot\u00e1.\nAcordamos vernos el a\u00f1o entrante.\nGracias a muchas personas quienes hab\u00edan confirmado! https://t.co/r2xpBSnCCG",
+    "id": 1468552411031785472,
+    "author_id": 100006904,
+    "created_at": "2021-12-08 12:05:53+00:00",
+    "text": "! DUQUE UNA VERG\u00dcENZA !\nColombia \u00fanico pa\u00eds OCDE donde el desempleo sube. https://t.co/5WPN0RXdo2 v\u00eda @EFEnoticias",
     "public_metrics": {
-        "retweet_count": 6,
-        "reply_count": 13,
-        "like_count": 40,
-        "quote_count": 1
+        "retweet_count": 10,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0
     },
     "entities": {
+        "mentions": [
+            {
+                "start": 102,
+                "end": 114,
+                "username": "EFEnoticias",
+                "id": "105082141"
+            }
+        ],
+        "urls": [
+            {
+                "start": 74,
+                "end": 97,
+                "url": "https://t.co/5WPN0RXdo2",
+                "expanded_url": "https://www.efe.com/efe/espana/economia/el-paro-siguio-bajando-en-la-ocde-octubre-con-colombia-a-contracorriente/10003-4693258",
+                "display_url": "efe.com/efe/espana/eco\u2026"
+            }
+        ],
         "annotations": [
             {
-                "start": 155,
-                "end": 160,
-                "probability": 0.9134,
+                "start": 24,
+                "end": 31,
+                "probability": 0.9577,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468275887992881152,
+    "author_id": 933739074401251328,
+    "created_at": "2021-12-07 17:47:05+00:00",
+    "text": "Necesitamos justicia distributiva en t\u00e9rminos de quitar las exenciones tributarias a los grandes capitales, como en el caso de las multinacionales mineras. Los impuestos que pagan no se corresponden con los pasivos ambientales que generan.\n\n#AFranciaLeDigo",
+    "public_metrics": {
+        "retweet_count": 304,
+        "reply_count": 14,
+        "like_count": 1049,
+        "quote_count": 10
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 241,
+                "end": 256,
+                "tag": "AFranciaLeDigo"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468273262950068228,
+    "author_id": 933739074401251328,
+    "created_at": "2021-12-07 17:36:39+00:00",
+    "text": "Es necesario garantizar el acceso a la educaci\u00f3n. Y eso va m\u00e1s all\u00e1 de la gratuidad. Necesitamos un sistema de educaci\u00f3n integral que permita que las juventudes empobrecidas puedan permanecer en el sistema educativo, a todos los niveles. \n\n#AFranciaLeDigo",
+    "public_metrics": {
+        "retweet_count": 346,
+        "reply_count": 24,
+        "like_count": 1538,
+        "quote_count": 11
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 240,
+                "end": 255,
+                "tag": "AFranciaLeDigo"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468550802419732494,
+    "author_id": 268322810,
+    "created_at": "2021-12-08 11:59:30+00:00",
+    "text": "Excelente idea.\nAcad\u00e9micos de primer nivel  invitan a a la conocida lider estudiantil @JenniferPedraz a presentarse como candidata a la C\u00e1mara de Representantes por Bogot\u00e1.\nEs seguro que como Representante har\u00e1 una gran defensa de la educaci\u00f3n y la universidad p\u00fablica. https://t.co/wfsiVRJ3ul",
+    "public_metrics": {
+        "retweet_count": 26,
+        "reply_count": 15,
+        "like_count": 82,
+        "quote_count": 5
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 86,
+                "end": 101,
+                "username": "JenniferPedraz",
+                "id": "89572355"
+            }
+        ],
+        "urls": [
+            {
+                "start": 270,
+                "end": 293,
+                "url": "https://t.co/wfsiVRJ3ul",
+                "expanded_url": "https://twitter.com/juliandezubiria/status/1468390931640557568",
+                "display_url": "twitter.com/juliandezubiri\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 136,
+                "end": 159,
+                "probability": 0.3567,
+                "type": "Organization",
+                "normalized_text": "C\u00e1mara de Representantes"
+            },
+            {
+                "start": 165,
+                "end": 170,
+                "probability": 0.6208,
                 "type": "Place",
                 "normalized_text": "Bogot\u00e1"
             }
-        ],
-        "urls": [
-            {
-                "start": 250,
-                "end": 273,
-                "url": "https://t.co/r2xpBSnCCG",
-                "expanded_url": "https://twitter.com/angelamrobledo/status/1468326585031925761/photo/1",
-                "display_url": "pic.twitter.com/r2xpBSnCCG"
-            }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468550935488118791,
-    "author_id": 53187962,
-    "created_at": "2021-12-08 12:00:02+00:00",
-    "text": "\u00bfCu\u00e1l es el panorama electoral a seis meses de las elecciones?\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\n\u00bfUstedes creen que deben seguir ganando las mismas propuestas y l\u00edneas de gobierno, o creen que es momento de un cambio? \u00a1Los leo en los comentarios!\n#RodrigoLaraPresidente #GobiernoSerio https://t.co/WmDfgsWr81",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 2,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 257,
-                "end": 280,
-                "url": "https://t.co/WmDfgsWr81",
-                "expanded_url": "https://twitter.com/Rodrigo_Lara_/status/1468550935488118791/video/1",
-                "display_url": "pic.twitter.com/WmDfgsWr81"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 219,
-                "end": 241,
-                "tag": "RodrigoLaraPresidente"
-            },
-            {
-                "start": 242,
-                "end": 256,
-                "tag": "GobiernoSerio"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468354642316828675,
+    "id": 1468304125377060868,
     "author_id": 1729302205,
-    "created_at": "2021-12-07 23:00:02+00:00",
-    "text": "Llegan las fiestas decembrinas y con ellas el compromiso de todos. Hago un llamado para que en esta navidad y a\u00f1o nuevo digamos NO a la p\u00f3lvora. Seamos responsables con nuestros ni\u00f1os, adultos mayores y animales, quienes son los que sufren los estragos de estos explosivos. https://t.co/iMUNncG2Kd",
+    "created_at": "2021-12-07 19:39:17+00:00",
+    "text": "Hoy es una fecha especial para renovar la fe en nuestros corazones, encender la magia de la felicidad y esperanza, y agradecer por todos los logros alcanzados durante este a\u00f1o. Disfrutemos de este #D\u00edaDeLasVelitas en familia, con paz y tranquilidad, evitando el uso de la p\u00f3lvora. https://t.co/dACktFYH1v",
     "public_metrics": {
-        "retweet_count": 8,
-        "reply_count": 0,
-        "like_count": 16,
+        "retweet_count": 17,
+        "reply_count": 5,
+        "like_count": 35,
         "quote_count": 0
     },
     "entities": {
         "urls": [
             {
-                "start": 274,
-                "end": 297,
-                "url": "https://t.co/iMUNncG2Kd",
-                "expanded_url": "https://twitter.com/DilianFrancisca/status/1468354642316828675/photo/1",
-                "display_url": "pic.twitter.com/iMUNncG2Kd"
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/dACktFYH1v",
+                "expanded_url": "https://twitter.com/DilianFrancisca/status/1468304125377060868/video/1",
+                "display_url": "pic.twitter.com/dACktFYH1v"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 197,
+                "end": 213,
+                "tag": "D\u00edaDeLasVelitas"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468541596178206723,
+    "id": 1468571979284373513,
     "author_id": 110590953,
-    "created_at": "2021-12-08 11:22:55+00:00",
-    "text": "Sale costoso burlarse de las v\u00edctimas y de la justicia y seguir delinquiendo pensando neciamente que abra alg\u00fan refugio seguro para tanta maldad como el r\u00e9gimen del dictador \u2066@NicolasMaduro\u2069.\n#MiCausaEsLaJusticia\n#MiCausaEsColombia  https://t.co/K0nQNXE244",
+    "created_at": "2021-12-08 13:23:39+00:00",
+    "text": "Sale costoso burlarse de las v\u00edctimas y de la justicia y seguir delinquiendo pensando neciamente que habr\u00e1 alg\u00fan refugio seguro para tanta maldad como el r\u00e9gimen del dictador @NicolasMaduro.\n#MiCausaEsLaJusticia\n#MiCausaEsColombia https://t.co/K0nQNXE244",
     "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 1,
-        "like_count": 7,
+        "retweet_count": 4,
+        "reply_count": 3,
+        "like_count": 20,
         "quote_count": 0
     },
     "entities": {
-        "mentions": [
-            {
-                "start": 175,
-                "end": 189,
-                "username": "NicolasMaduro",
-                "id": "1252764865"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 192,
-                "end": 212,
-                "tag": "MiCausaEsLaJusticia"
-            },
-            {
-                "start": 213,
-                "end": 231,
-                "tag": "MiCausaEsColombia"
-            }
-        ],
         "urls": [
             {
-                "start": 233,
-                "end": 256,
+                "start": 231,
+                "end": 254,
                 "url": "https://t.co/K0nQNXE244",
                 "expanded_url": "https://www.semana.com/nacion/articulo/por-que-el-paisa-jesus-santrich-y-romana-murieron-en-venezuela-en-circunstancias-similares/202115/",
                 "display_url": "semana.com/nacion/articul\u2026",
@@ -341,105 +381,166 @@
                 "description": "Los exjefes de las Farc desertaron del proceso de paz y se refugiaron en la frontera con Venezuela, en especial en el estado de Apure. Aprovechaban la complicidad del r\u00e9gimen de Nicol\u00e1s Maduro para delinquir y resguardarse al otro lado de la frontera. Murieron traicionados.",
                 "unwound_url": "https://www.semana.com/nacion/articulo/por-que-el-paisa-jesus-santrich-y-romana-murieron-en-venezuela-en-circunstancias-similares/202115/"
             }
+        ],
+        "hashtags": [
+            {
+                "start": 191,
+                "end": 211,
+                "tag": "MiCausaEsLaJusticia"
+            },
+            {
+                "start": 212,
+                "end": 230,
+                "tag": "MiCausaEsColombia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 175,
+                "end": 189,
+                "username": "NicolasMaduro",
+                "id": "1252764865"
+            }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468390879706730496,
-    "author_id": 1345927232,
-    "created_at": "2021-12-08 01:24:01+00:00",
-    "text": "Bonita noche de las velitas les desea de coraz\u00f3n el @soyconservador https://t.co/sYp7Ih1kat",
+    "id": 1468220140592508935,
+    "author_id": 110590953,
+    "created_at": "2021-12-07 14:05:34+00:00",
+    "text": "Tenemos que llegar a ser el pa\u00eds de las oportunidades. Problemas de fondo en #Colombia han sido por causa de la falta de presencia del Estado con toda su oferta institucional. El narcotr\u00e1fico lo combatimos con m\u00e1s educaci\u00f3n, cultura y emprendimiento.\n\n#MiCausaEsColombia https://t.co/ePbxguX6kH",
     "public_metrics": {
-        "retweet_count": 1,
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 271,
+                "end": 294,
+                "url": "https://t.co/ePbxguX6kH",
+                "expanded_url": "https://twitter.com/JohnMiltonR_/status/1468220140592508935/video/1",
+                "display_url": "pic.twitter.com/ePbxguX6kH"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 86,
+                "tag": "Colombia"
+            },
+            {
+                "start": 252,
+                "end": 270,
+                "tag": "MiCausaEsColombia"
+            }
+        ]
+    },
+    "geo": {
+        "place_id": "00a0366f1f6cd7ff"
+    },
+    "lang": "es"
+}{
+    "id": 1468222379553918981,
+    "author_id": 1345927232,
+    "created_at": "2021-12-07 14:14:28+00:00",
+    "text": "Que la divina providencia gu\u00ede luz divina paz y amor a nuestra patria crucificada de esperanzas! \u2066@soyconservador\u2069 https://t.co/QFYhzvnCtN",
+    "public_metrics": {
+        "retweet_count": 0,
         "reply_count": 0,
-        "like_count": 5,
+        "like_count": 3,
         "quote_count": 0
     },
     "entities": {
         "mentions": [
             {
-                "start": 52,
-                "end": 67,
+                "start": 98,
+                "end": 113,
                 "username": "soyconservador",
                 "id": "285180126"
             }
         ],
         "urls": [
             {
-                "start": 68,
-                "end": 91,
-                "url": "https://t.co/sYp7Ih1kat",
-                "expanded_url": "https://twitter.com/UbeimarDelgadoB/status/1468390879706730496/photo/1",
-                "display_url": "pic.twitter.com/sYp7Ih1kat"
-            },
-            {
-                "start": 68,
-                "end": 91,
-                "url": "https://t.co/sYp7Ih1kat",
-                "expanded_url": "https://twitter.com/UbeimarDelgadoB/status/1468390879706730496/photo/1",
-                "display_url": "pic.twitter.com/sYp7Ih1kat"
+                "start": 115,
+                "end": 138,
+                "url": "https://t.co/QFYhzvnCtN",
+                "expanded_url": "https://twitter.com/UbeimarDelgadoB/status/1468222379553918981/photo/1",
+                "display_url": "pic.twitter.com/QFYhzvnCtN"
             }
         ]
     },
-    "geo": {
-        "place_id": "0083e91b64f919f4"
-    },
+    "geo": null,
     "lang": "es"
 }{
-    "id": 1468346806929182728,
+    "id": 1468228719219286021,
     "author_id": 206486600,
-    "created_at": "2021-12-07 22:28:53+00:00",
-    "text": "#UnaVelaPor todas las familias de Santa Marta, el Magdalena y Colombia, para que estas fiestas de Navidad y Fin de a\u00f1o, sean momentos de uni\u00f3n y bienestar. \n\nCelebremos sin p\u00f3lvora y siempre atentos a nuestros ni\u00f1os. \n\nFeliz #NocheDeLasVelitas https://t.co/eyYl7OX9jN",
+    "created_at": "2021-12-07 14:39:39+00:00",
+    "text": "Hoy amanecieron los corruptos pensando que la justicia no les llegar\u00e1 nunca; pero tarde que temprano ella tocar\u00e1 sus puertas; m\u00e1s, cuando se creen con el derecho de disponer de la vida de otros.  \n\nPuede que haya tardado d\u00e9cadas, pero les llegar\u00e1. https://t.co/nqPRCVOTzG",
     "public_metrics": {
-        "retweet_count": 10,
-        "reply_count": 4,
-        "like_count": 20,
-        "quote_count": 2
+        "retweet_count": 79,
+        "reply_count": 57,
+        "like_count": 117,
+        "quote_count": 35
     },
     "entities": {
-        "hashtags": [
+        "urls": [
             {
-                "start": 0,
-                "end": 11,
-                "tag": "UnaVelaPor"
+                "start": 248,
+                "end": 271,
+                "url": "https://t.co/nqPRCVOTzG",
+                "expanded_url": "https://twitter.com/honohenriquez/status/1468228719219286021/photo/1",
+                "display_url": "pic.twitter.com/nqPRCVOTzG"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468319785725345799,
+    "author_id": 83861270,
+    "created_at": "2021-12-07 20:41:31+00:00",
+    "text": "La gratuidad en Educaci\u00f3n Superior P\u00fablica ya es una realidad. Como ponente de la #LeyDeInversi\u00f3nSocial en Senado, este fue un compromiso que asumimos con los estudiantes de Colombia y lo defendimos. La apuesta es la educaci\u00f3n, hoy m\u00e1s de 695 mil j\u00f3venes ven su sue\u00f1o cumplirse. https://t.co/px0gKKDjRB",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 41,
+                "probability": 0.5156,
+                "type": "Organization",
+                "normalized_text": "Educaci\u00f3n Superior P\u00fablica"
             },
             {
-                "start": 225,
-                "end": 243,
-                "tag": "NocheDeLasVelitas"
+                "start": 174,
+                "end": 181,
+                "probability": 0.9581,
+                "type": "Place",
+                "normalized_text": "Colombia"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 82,
+                "end": 103,
+                "tag": "LeyDeInversi\u00f3nSocial"
             }
         ],
         "urls": [
             {
-                "start": 244,
-                "end": 267,
-                "url": "https://t.co/eyYl7OX9jN",
-                "expanded_url": "https://twitter.com/honohenriquez/status/1468346806929182728/video/1",
-                "display_url": "pic.twitter.com/eyYl7OX9jN"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 34,
-                "end": 44,
-                "probability": 0.9562,
-                "type": "Place",
-                "normalized_text": "Santa Marta"
-            },
-            {
-                "start": 50,
-                "end": 58,
-                "probability": 0.6477,
-                "type": "Place",
-                "normalized_text": "Magdalena"
-            },
-            {
-                "start": 62,
-                "end": 69,
-                "probability": 0.9342,
-                "type": "Place",
-                "normalized_text": "Colombia"
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/px0gKKDjRB",
+                "expanded_url": "https://twitter.com/eltiempo/status/1468270174864388108",
+                "display_url": "twitter.com/eltiempo/statu\u2026"
             }
         ]
     },
@@ -451,12 +552,21 @@
     "created_at": "2021-12-08 00:53:44+00:00",
     "text": "Desde Barranquilla, #UnaVelitaPorElCambio \ud83d\udd6f\nUn Pueblo en Paz es el verdadero Pacto. https://t.co/g4PzivzznL",
     "public_metrics": {
-        "retweet_count": 152,
-        "reply_count": 52,
-        "like_count": 529,
-        "quote_count": 5
+        "retweet_count": 175,
+        "reply_count": 80,
+        "like_count": 631,
+        "quote_count": 9
     },
     "entities": {
+        "urls": [
+            {
+                "start": 84,
+                "end": 107,
+                "url": "https://t.co/g4PzivzznL",
+                "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375/video/1",
+                "display_url": "pic.twitter.com/g4PzivzznL"
+            }
+        ],
         "annotations": [
             {
                 "start": 6,
@@ -472,113 +582,119 @@
                 "end": 41,
                 "tag": "UnaVelitaPorElCambio"
             }
-        ],
-        "urls": [
-            {
-                "start": 84,
-                "end": 107,
-                "url": "https://t.co/g4PzivzznL",
-                "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375/video/1",
-                "display_url": "pic.twitter.com/g4PzivzznL"
-            }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468415983035551758,
-    "author_id": 37341338,
-    "created_at": "2021-12-08 03:03:46+00:00",
-    "text": "\u00bfC\u00f3mo no confiar en el futuro y los jovenes, si hay seres maravillosos como @TrianaVJuli en el mundo? \u2764\ufe0f https://t.co/OtFW6HFTiA",
+    "id": 1468378504827965446,
+    "author_id": 38670671,
+    "created_at": "2021-12-08 00:34:51+00:00",
+    "text": "Hoy junto a mi familia encendemos #UnaVelitaPorElCambio. El pacto es con Colombia, con su pueblo, con la paz y con el planeta. \u00a1Un feliz #D\u00edaDeVelitas para todos! https://t.co/Vr94MJZDLs",
     "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 9,
-        "like_count": 51,
-        "quote_count": 0
+        "retweet_count": 193,
+        "reply_count": 230,
+        "like_count": 1323,
+        "quote_count": 16
     },
     "entities": {
         "urls": [
             {
-                "start": 105,
-                "end": 128,
-                "url": "https://t.co/OtFW6HFTiA",
-                "expanded_url": "https://twitter.com/trianavjuli/status/1468409505843191817",
-                "display_url": "twitter.com/trianavjuli/st\u2026"
+                "start": 163,
+                "end": 186,
+                "url": "https://t.co/Vr94MJZDLs",
+                "expanded_url": "https://twitter.com/AABenedetti/status/1468378504827965446/photo/1",
+                "display_url": "pic.twitter.com/Vr94MJZDLs"
             }
         ],
-        "mentions": [
+        "annotations": [
             {
-                "start": 76,
-                "end": 88,
-                "username": "TrianaVJuli",
-                "id": "328836090"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468404739494891521,
-    "author_id": 50981729,
-    "created_at": "2021-12-08 02:19:06+00:00",
-    "text": "#UnaVelitaPorElCambio por la Paz, por El Progreso de todos, por el Pacto Hist\u00f3rico https://t.co/1f9jUnHTLF",
-    "public_metrics": {
-        "retweet_count": 498,
-        "reply_count": 157,
-        "like_count": 2331,
-        "quote_count": 20
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 83,
-                "end": 106,
-                "url": "https://t.co/1f9jUnHTLF",
-                "expanded_url": "https://twitter.com/GustavoBolivar/status/1468404739494891521/photo/1",
-                "display_url": "pic.twitter.com/1f9jUnHTLF"
-            },
-            {
-                "start": 83,
-                "end": 106,
-                "url": "https://t.co/1f9jUnHTLF",
-                "expanded_url": "https://twitter.com/GustavoBolivar/status/1468404739494891521/photo/1",
-                "display_url": "pic.twitter.com/1f9jUnHTLF"
+                "start": 73,
+                "end": 80,
+                "probability": 0.9838,
+                "type": "Place",
+                "normalized_text": "Colombia"
             }
         ],
         "hashtags": [
             {
-                "start": 0,
-                "end": 21,
+                "start": 34,
+                "end": 55,
                 "tag": "UnaVelitaPorElCambio"
+            },
+            {
+                "start": 137,
+                "end": 150,
+                "tag": "D\u00edaDeVelitas"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468541596178206723,
-    "author_id": 110590953,
-    "created_at": "2021-12-08 11:22:55+00:00",
-    "text": "Sale costoso burlarse de las v\u00edctimas y de la justicia y seguir delinquiendo pensando neciamente que abra alg\u00fan refugio seguro para tanta maldad como el r\u00e9gimen del dictador \u2066@NicolasMaduro\u2069.\n#MiCausaEsLaJusticia\n#MiCausaEsColombia  https://t.co/K0nQNXE244",
+    "id": 1468312372611887104,
+    "author_id": 50981729,
+    "created_at": "2021-12-07 20:12:04+00:00",
+    "text": "Un buen abogado manda un derecho de petici\u00f3n a la secretar\u00eda del Senado y pregunta c\u00f3mo vote y si me declar\u00e9 impedido. Pero se basan en un tuit, perdiendo todo el rigor y congestionando la justicia con suposiciones. Por eso pierde el 90% de los casos. El odio no es una prueba dr.",
     "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 1,
-        "like_count": 7,
+        "retweet_count": 654,
+        "reply_count": 46,
+        "like_count": 2656,
+        "quote_count": 11
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 65,
+                "end": 70,
+                "probability": 0.7087,
+                "type": "Organization",
+                "normalized_text": "Senado"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468575519104974848,
+    "author_id": 2202387091,
+    "created_at": "2021-12-08 13:37:43+00:00",
+    "text": "No sea tan irresponsable MEDIMAS, con la salud no se juega.En Boyac\u00e1,  una joven madre de 30 a\u00f1os requiere unos ex\u00e1menes para una operaci\u00f3n de c\u00e1ncer.  La fecha  para operar es el 11 de diciembre y hasta hoy Uds no dan las \u00f3rdenes para los ex\u00e1menes que orden\u00f3 el cirujano.",
+    "public_metrics": {
+        "retweet_count": 53,
+        "reply_count": 4,
+        "like_count": 77,
+        "quote_count": 1
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 62,
+                "end": 67,
+                "probability": 0.972,
+                "type": "Place",
+                "normalized_text": "Boyac\u00e1"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468571979284373513,
+    "author_id": 110590953,
+    "created_at": "2021-12-08 13:23:39+00:00",
+    "text": "Sale costoso burlarse de las v\u00edctimas y de la justicia y seguir delinquiendo pensando neciamente que habr\u00e1 alg\u00fan refugio seguro para tanta maldad como el r\u00e9gimen del dictador @NicolasMaduro.\n#MiCausaEsLaJusticia\n#MiCausaEsColombia https://t.co/K0nQNXE244",
+    "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 3,
+        "like_count": 21,
         "quote_count": 0
     },
     "entities": {
-        "mentions": [
-            {
-                "start": 175,
-                "end": 189,
-                "username": "NicolasMaduro",
-                "id": "1252764865"
-            }
-        ],
         "urls": [
             {
-                "start": 233,
-                "end": 256,
+                "start": 231,
+                "end": 254,
                 "url": "https://t.co/K0nQNXE244",
                 "expanded_url": "https://www.semana.com/nacion/articulo/por-que-el-paisa-jesus-santrich-y-romana-murieron-en-venezuela-en-circunstancias-similares/202115/",
                 "display_url": "semana.com/nacion/articul\u2026",
@@ -602,304 +718,257 @@
         ],
         "hashtags": [
             {
-                "start": 192,
-                "end": 212,
+                "start": 191,
+                "end": 211,
                 "tag": "MiCausaEsLaJusticia"
             },
             {
-                "start": 213,
-                "end": 231,
+                "start": 212,
+                "end": 230,
+                "tag": "MiCausaEsColombia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 175,
+                "end": 189,
+                "username": "NicolasMaduro",
+                "id": "1252764865"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468220140592508935,
+    "author_id": 110590953,
+    "created_at": "2021-12-07 14:05:34+00:00",
+    "text": "Tenemos que llegar a ser el pa\u00eds de las oportunidades. Problemas de fondo en #Colombia han sido por causa de la falta de presencia del Estado con toda su oferta institucional. El narcotr\u00e1fico lo combatimos con m\u00e1s educaci\u00f3n, cultura y emprendimiento.\n\n#MiCausaEsColombia https://t.co/ePbxguX6kH",
+    "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 271,
+                "end": 294,
+                "url": "https://t.co/ePbxguX6kH",
+                "expanded_url": "https://twitter.com/JohnMiltonR_/status/1468220140592508935/video/1",
+                "display_url": "pic.twitter.com/ePbxguX6kH"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 86,
+                "tag": "Colombia"
+            },
+            {
+                "start": 252,
+                "end": 270,
                 "tag": "MiCausaEsColombia"
             }
         ]
     },
-    "geo": null,
+    "geo": {
+        "place_id": "00a0366f1f6cd7ff"
+    },
     "lang": "es"
 }{
-    "id": 1468552828801237005,
-    "author_id": 213769894,
-    "created_at": "2021-12-08 12:07:33+00:00",
-    "text": "Los invitamos a sintonizar la frecuencia radial 9.30 AM, Todelar. #Ahora estamos dando nuestra opini\u00f3n sobre diferentes temas y el panorama de las elecciones del a\u00f1o entrante junto al Sargento Mayor (R) @AugustolopezC. https://t.co/TAffQQubuP",
+    "id": 1468534540088053766,
+    "author_id": 1466003185,
+    "created_at": "2021-12-08 10:54:53+00:00",
+    "text": "El precandidato presidencial por el Pacto Hist\u00f3rico habl\u00f3 sobre sus principales propuestas. Educaci\u00f3n sexual, profesionalizaci\u00f3n de la Polic\u00eda y su posici\u00f3n frente a la eutanasia o el aborto fueron los temas centrales de esta conversaci\u00f3n.\nhttps://t.co/CA05n8q8tS",
     "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 203,
-                "end": 217,
-                "username": "AugustolopezC",
-                "id": "913457870947143680"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 184,
-                "end": 197,
-                "probability": 0.3173,
-                "type": "Place",
-                "normalized_text": "Sargento Mayor"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 66,
-                "end": 72,
-                "tag": "Ahora"
-            }
-        ],
-        "urls": [
-            {
-                "start": 219,
-                "end": 242,
-                "url": "https://t.co/TAffQQubuP",
-                "expanded_url": "https://twitter.com/jjUscategui/status/1468552828801237005/photo/1",
-                "display_url": "pic.twitter.com/TAffQQubuP"
-            },
-            {
-                "start": 219,
-                "end": 242,
-                "url": "https://t.co/TAffQQubuP",
-                "expanded_url": "https://twitter.com/jjUscategui/status/1468552828801237005/photo/1",
-                "display_url": "pic.twitter.com/TAffQQubuP"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468290804397527040,
-    "author_id": 59705520,
-    "created_at": "2021-12-07 18:46:21+00:00",
-    "text": "Hace 17 a\u00f1os logr\u00e9 que los palmiranos tuvieran tarifa diferencial en las casetas de peaje CIAT y Estambul. Hoy insisto, de la mano del Alcalde @SoyOscarEscobar, en que el tr\u00e1mite para acceder a esta tarifa sea \u00e1gil, simple y eficiente. #SinTramititis https://t.co/4nfIxPCZk0",
-    "public_metrics": {
-        "retweet_count": 4,
-        "reply_count": 3,
-        "like_count": 48,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 143,
-                "end": 159,
-                "username": "SoyOscarEscobar",
-                "id": "131074953"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 97,
-                "end": 104,
-                "probability": 0.9599,
-                "type": "Place",
-                "normalized_text": "Estambul"
-            }
-        ],
-        "urls": [
-            {
-                "start": 251,
-                "end": 274,
-                "url": "https://t.co/4nfIxPCZk0",
-                "expanded_url": "https://twitter.com/soyoscarescobar/status/1468041352848023556",
-                "display_url": "twitter.com/soyoscarescoba\u2026"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 236,
-                "end": 250,
-                "tag": "SinTramititis"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468271202963955732,
-    "author_id": 373138480,
-    "created_at": "2021-12-07 17:28:28+00:00",
-    "text": "#PorSiTeLoPerdiste\ud83d\udcfb | Estuve esta ma\u00f1ana en @WRadioColombia hablando sobre el art\u00edculo en el proyecto anticorrupci\u00f3n que pretende perseguir al periodismo y a la oposici\u00f3n.\n\nVamos a dar la pelea para eliminarlo en la conciliaci\u00f3n. Si no, procederemos ante la Corte Constitucional. https://t.co/88CJXekEYg",
-    "public_metrics": {
-        "retweet_count": 16,
-        "reply_count": 2,
-        "like_count": 56,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 44,
-                "end": 59,
-                "username": "WRadioColombia",
-                "id": "20560294"
-            }
-        ],
-        "urls": [
-            {
-                "start": 280,
-                "end": 303,
-                "url": "https://t.co/88CJXekEYg",
-                "expanded_url": "https://twitter.com/JuanitaGoe/status/1468271202963955732/video/1",
-                "display_url": "pic.twitter.com/88CJXekEYg"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 0,
-                "end": 18,
-                "tag": "PorSiTeLoPerdiste"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468448851270983683,
-    "author_id": 156695400,
-    "created_at": "2021-12-08 05:14:23+00:00",
-    "text": "En este #D\u00edaDeVelitas, encendemos #UnaVelitaPor la Colombia que todos so\u00f1amos. \u2728\n\nQue la esperanza de un mejor futuro, sea nuestra gu\u00eda para construir el pa\u00eds que todos merecemos. \n\n\u00a1Feliz d\u00eda de de las velitas para todos y todas! \ud83d\udc9a https://t.co/z3KDAqticY",
-    "public_metrics": {
-        "retweet_count": 2,
-        "reply_count": 3,
-        "like_count": 77,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 51,
-                "end": 58,
-                "probability": 0.9498,
-                "type": "Place",
-                "normalized_text": "Colombia"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 8,
-                "end": 21,
-                "tag": "D\u00edaDeVelitas"
-            },
-            {
-                "start": 34,
-                "end": 47,
-                "tag": "UnaVelitaPor"
-            }
-        ],
-        "urls": [
-            {
-                "start": 233,
-                "end": 256,
-                "url": "https://t.co/z3KDAqticY",
-                "expanded_url": "https://twitter.com/MauroToroO/status/1468448851270983683/photo/1",
-                "display_url": "pic.twitter.com/z3KDAqticY"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468370001774137357,
-    "author_id": 219990061,
-    "created_at": "2021-12-08 00:01:04+00:00",
-    "text": "El hoy judicializado, quien hac\u00eda parte de la lista de los m\u00e1s buscados por las autoridades en #Huila, fue capturado por servidores de @PoliciaColombia en Ibagu\u00e9, #Tolima. https://t.co/GOkbd2YZv3",
-    "public_metrics": {
-        "retweet_count": 1,
+        "retweet_count": 31,
         "reply_count": 1,
-        "like_count": 8,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 172,
-                "end": 195,
-                "url": "https://t.co/GOkbd2YZv3",
-                "expanded_url": "https://twitter.com/FiscaliaCol/status/1468370001774137357/video/1",
-                "display_url": "pic.twitter.com/GOkbd2YZv3"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 95,
-                "end": 101,
-                "tag": "Huila"
-            },
-            {
-                "start": 163,
-                "end": 170,
-                "tag": "Tolima"
-            }
-        ],
-        "mentions": [
-            {
-                "start": 135,
-                "end": 151,
-                "username": "PoliciaColombia",
-                "id": "69432342"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 155,
-                "end": 160,
-                "probability": 0.9939,
-                "type": "Place",
-                "normalized_text": "Ibagu\u00e9"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468363191126212620,
-    "author_id": 473338133,
-    "created_at": "2021-12-07 23:34:00+00:00",
-    "text": "\u201cLa primera regla que se introduce en el C\u00f3digo General Disciplinario es la separaci\u00f3n de funciones. Un funcionario es el que instruye, llega hasta pliego de cargos o archivo y otro funcionario es el que juzga\u201d, Procuradora Margarita Cabello #Ley2094 https://t.co/PSnQJKtDSQ",
-    "public_metrics": {
-        "retweet_count": 4,
-        "reply_count": 2,
-        "like_count": 9,
+        "like_count": 70,
         "quote_count": 1
     },
     "entities": {
         "annotations": [
             {
-                "start": 212,
-                "end": 240,
-                "probability": 0.7705,
-                "type": "Person",
-                "normalized_text": "Procuradora Margarita Cabello"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 242,
-                "end": 250,
-                "tag": "Ley2094"
+                "start": 36,
+                "end": 50,
+                "probability": 0.7683,
+                "type": "Organization",
+                "normalized_text": "Pacto Hist\u00f3rico"
             }
         ],
         "urls": [
             {
-                "start": 251,
-                "end": 274,
-                "url": "https://t.co/PSnQJKtDSQ",
-                "expanded_url": "https://twitter.com/PGN_COL/status/1468363191126212620/video/1",
-                "display_url": "pic.twitter.com/PSnQJKtDSQ"
+                "start": 240,
+                "end": 263,
+                "url": "https://t.co/CA05n8q8tS",
+                "expanded_url": "https://www.elespectador.com/politica/de-frente-con-gustavo-petro-propuestas-elecciones-2022//?utm_source=interno&utm_medium=boton&utm_campaign=share_notas&utm_content=boton_twitter_share_notas",
+                "display_url": "elespectador.com/politica/de-fr\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468232848150777869/dEo_pIyO?format=jpg&name=orig",
+                        "width": 657,
+                        "height": 438
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468232848150777869/dEo_pIyO?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "De frente con Gustavo Petro, propuestas elecciones 2022",
+                "description": "El precandidato presidencial por el Pacto Hist\u00f3rico habl\u00f3 con El Espectador sobre sus principales propuestas.",
+                "unwound_url": "https://www.elespectador.com/politica/de-frente-con-gustavo-petro-propuestas-elecciones-2022/?utm_source=interno&utm_medium=boton&utm_campaign=share_notas&utm_content=boton_twitter_share_notas"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468416075859693573,
-    "author_id": 191465222,
-    "created_at": "2021-12-08 03:04:08+00:00",
-    "text": "\u201cEn estas festividades de fin de a\u00f1o, y hoy que se celebra la Noche de #Velitas, es nuestro deber reiterar el llamado a que la p\u00f3lvora solo sea manipulada por expertos. No quememos los sue\u00f1os y el futuro de los ni\u00f1os\u201d, Defensor del Pueblo, Carlos Camargo. https://t.co/WH7NoIplCC",
+    "id": 1468250706100596744,
+    "author_id": 1466003185,
+    "created_at": "2021-12-07 16:07:01+00:00",
+    "text": "Inscripci\u00f3n de los candidatos del @MovimientoMAIS por la Circunscripci\u00f3n Especial Ind\u00edgena al Congreso de la Rep\u00fablica.\n\nPor la defensa de la vida, la madre tierra, la paz y la democracia. \n\n\u00a1Mais compromiso de pa\u00eds! \n#CongresoEspecialInd\u00edgena https://t.co/6dQXSPnLZf",
+    "public_metrics": {
+        "retweet_count": 22,
+        "reply_count": 2,
+        "like_count": 65,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 117,
+                "probability": 0.253,
+                "type": "Other",
+                "normalized_text": "Circunscripci\u00f3n Especial Ind\u00edgena al Congreso de la Rep\u00fablica"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 34,
+                "end": 49,
+                "username": "MovimientoMAIS",
+                "id": "2328646824"
+            }
+        ],
+        "urls": [
+            {
+                "start": 244,
+                "end": 267,
+                "url": "https://t.co/6dQXSPnLZf",
+                "expanded_url": "https://twitter.com/FelicianoValen/status/1468250706100596744/video/1",
+                "display_url": "pic.twitter.com/6dQXSPnLZf"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 218,
+                "end": 243,
+                "tag": "CongresoEspecialInd\u00edgena"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468257765869064194,
+    "author_id": 373138480,
+    "created_at": "2021-12-07 16:35:04+00:00",
+    "text": "El proyecto de ley de #SeguridadCiudadana del Gobierno, tramitado a las patadas, no mejora la seguridad, es una muestra de populismo punitivo, criminaliza la protesta social y genera un riesgo inmenso de aumento de abusos policiales y justicia por mano propia.\n\nMi intervenci\u00f3n\ud83d\udc47\ud83c\udffd https://t.co/5bHDeHV41S",
+    "public_metrics": {
+        "retweet_count": 27,
+        "reply_count": 7,
+        "like_count": 66,
+        "quote_count": 2
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/5bHDeHV41S",
+                "expanded_url": "https://twitter.com/JuanitaGoe/status/1468257765869064194/video/1",
+                "display_url": "pic.twitter.com/5bHDeHV41S"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 22,
+                "end": 41,
+                "tag": "SeguridadCiudadana"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468308215800684550,
+    "author_id": 219990061,
+    "created_at": "2021-12-07 19:55:33+00:00",
+    "text": "Contundencia de argumentos de #Fiscal\u00eda permiti\u00f3 que juez impusiera medida de aseguramiento en c\u00e1rcel a cinco presuntos integrantes de grupo delictivo se\u00f1alado de distribuir estupefacientes en Pore, Hato Corozal y Paz de Ariporo, #Casanare.\n\nInformaci\u00f3n: https://t.co/iH1uiefxZz https://t.co/ZT8ldh8wce",
+    "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 255,
+                "end": 278,
+                "url": "https://t.co/iH1uiefxZz",
+                "expanded_url": "https://bit.ly/3lHaoxr",
+                "display_url": "bit.ly/3lHaoxr"
+            },
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/ZT8ldh8wce",
+                "expanded_url": "https://twitter.com/FiscaliaCol/status/1468308215800684550/photo/1",
+                "display_url": "pic.twitter.com/ZT8ldh8wce"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 193,
+                "end": 196,
+                "probability": 0.6824,
+                "type": "Place",
+                "normalized_text": "Pore"
+            },
+            {
+                "start": 199,
+                "end": 227,
+                "probability": 0.2644,
+                "type": "Place",
+                "normalized_text": "Hato Corozal y Paz de Ariporo"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 30,
+                "end": 39,
+                "tag": "Fiscal\u00eda"
+            },
+            {
+                "start": 230,
+                "end": 239,
+                "tag": "Casanare"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468334547716739077,
+    "author_id": 473338133,
+    "created_at": "2021-12-07 21:40:11+00:00",
+    "text": "La Procuradora y @ginariano de la @OissSec suscribieron un memorando de entendimiento que contribuir\u00e1 a la misionalidad preventiva del Ministerio P\u00fablico, con acciones conjuntas, capacitaciones, proyectos de mejora a la gesti\u00f3n de los sistemas de Seguridad y Protecci\u00f3n Social",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -909,39 +978,137 @@
     "entities": {
         "annotations": [
             {
-                "start": 240,
-                "end": 253,
-                "probability": 0.9935,
-                "type": "Person",
-                "normalized_text": "Carlos Camargo"
+                "start": 135,
+                "end": 152,
+                "probability": 0.8645,
+                "type": "Organization",
+                "normalized_text": "Ministerio P\u00fablico"
             }
         ],
-        "hashtags": [
+        "mentions": [
             {
-                "start": 71,
-                "end": 79,
-                "tag": "Velitas"
-            }
-        ],
-        "urls": [
+                "start": 17,
+                "end": 27,
+                "username": "ginariano",
+                "id": "413536351"
+            },
             {
-                "start": 256,
-                "end": 279,
-                "url": "https://t.co/WH7NoIplCC",
-                "expanded_url": "https://www.defensoria.gov.co/es/nube/comunicados/10606/",
-                "display_url": "defensoria.gov.co/es/nube/comuni\u2026",
-                "status": 200,
-                "unwound_url": "https://www.defensoria.gov.co/es/nube/comunicados/10606/"
+                "start": 34,
+                "end": 42,
+                "username": "OissSec",
+                "id": "718032769771810818"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468341646928531458,
-    "author_id": 242425204,
-    "created_at": "2021-12-07 22:08:23+00:00",
-    "text": "En 2021, la @CGR_Colombia ha promovido la creaci\u00f3n de 35 nuevas veedur\u00edas ciudadanas, que han realizado seguimiento a la ejecuci\u00f3n de recursos por $4 billones destinados para la construcci\u00f3n, ampliaci\u00f3n y mejoramiento de 1.206 instituciones educativas en el pa\u00eds.",
+    "id": 1468334545539842050,
+    "author_id": 473338133,
+    "created_at": "2021-12-07 21:40:10+00:00",
+    "text": "\u201cCuando llegu\u00e9 a la Procuradur\u00eda me encontr\u00e9 con que este convenio multilateral podr\u00eda archivarse, de inmediato comenzamos a impulsarlo para que a esos 5 millones de trabajadores que est\u00e1n fuera del pa\u00eds, les sume el tiempo de su seguridad social\u201d, Procuradora Margarita Cabello https://t.co/W39MNtsl5n",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0
+    },
+    "entities": {
+        "annotations": [
+            {
+                "start": 20,
+                "end": 31,
+                "probability": 0.6613,
+                "type": "Organization",
+                "normalized_text": "Procuradur\u00eda"
+            },
+            {
+                "start": 249,
+                "end": 277,
+                "probability": 0.6532,
+                "type": "Person",
+                "normalized_text": "Procuradora Margarita Cabello"
+            }
+        ],
+        "urls": [
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/W39MNtsl5n",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468334545539842050/photo/1",
+                "display_url": "pic.twitter.com/W39MNtsl5n"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468334541358120966,
+    "author_id": 473338133,
+    "created_at": "2021-12-07 21:40:09+00:00",
+    "text": "\ud83d\udcdd#Noticia | Procuradur\u00eda y @OissSec articulan esfuerzos para proteger los derechos e intereses de la seguridad social de los colombianos \ud83c\udde8\ud83c\uddf4.\n\nToda la informaci\u00f3n disponible AQU\u00cd \u27a1\ufe0fhttps://t.co/qScQ7VgbaS https://t.co/JdkzMFzvmU",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 1,
+                "end": 9,
+                "tag": "Noticia"
+            }
+        ],
+        "urls": [
+            {
+                "start": 180,
+                "end": 203,
+                "url": "https://t.co/qScQ7VgbaS",
+                "expanded_url": "https://bit.ly/seguridadsocialcolombianos",
+                "display_url": "bit.ly/seguridadsocia\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468334545942589452/Pk8NIYSH?format=jpg&name=orig",
+                        "width": 2048,
+                        "height": 760
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468334545942589452/Pk8NIYSH?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Procuraduria General de la Nacion",
+                "description": "Portal de la PGN",
+                "unwound_url": "https://www.procuraduria.gov.co/portal/PROCURADURIA-ORGANIZACION-IBEROAMERICANA-SEGURIDAD-SOCIAL-PROTEGER-DERECHOS-SEGURIDAD-SOCIAL-COLOMBIANOS.news"
+            },
+            {
+                "start": 204,
+                "end": 227,
+                "url": "https://t.co/JdkzMFzvmU",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468334541358120966/photo/1",
+                "display_url": "pic.twitter.com/JdkzMFzvmU"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 27,
+                "end": 35,
+                "username": "OissSec",
+                "id": "718032769771810818"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468332488560820225,
+    "author_id": 473338133,
+    "created_at": "2021-12-07 21:32:00+00:00",
+    "text": "En panel \ud83d\udde3\ufe0f\"Retos Subnacionales para Justicia Restaurativa\" de @Uni_Tolima, procuradores delegados ante @JEP_Colombia, Seguimiento al Acuerdo de Paz, y  Regional Tolima, dieron a conocer el rol del Ministerio P\u00fablico\ud83c\udfe2en Sistema Integral para la Paz\ud83d\udd4a\ufe0f y acompa\u00f1amiento a v\u00edctimas https://t.co/YDIYMlcFH9",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -949,12 +1116,205 @@
         "quote_count": 0
     },
     "entities": {
+        "annotations": [
+            {
+                "start": 154,
+                "end": 168,
+                "probability": 0.6369,
+                "type": "Place",
+                "normalized_text": "Regional Tolima"
+            },
+            {
+                "start": 199,
+                "end": 216,
+                "probability": 0.5573,
+                "type": "Organization",
+                "normalized_text": "Ministerio P\u00fablico"
+            },
+            {
+                "start": 247,
+                "end": 252,
+                "probability": 0.4048,
+                "type": "Place",
+                "normalized_text": "Paz\ud83d\udd4a\ufe0f"
+            }
+        ],
+        "urls": [
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/YDIYMlcFH9",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468332488560820225/photo/1",
+                "display_url": "pic.twitter.com/YDIYMlcFH9"
+            },
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/YDIYMlcFH9",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468332488560820225/photo/1",
+                "display_url": "pic.twitter.com/YDIYMlcFH9"
+            }
+        ],
         "mentions": [
             {
-                "start": 12,
-                "end": 25,
-                "username": "CGR_Colombia",
-                "id": "242425204"
+                "start": 63,
+                "end": 74,
+                "username": "Uni_Tolima",
+                "id": "191216746"
+            },
+            {
+                "start": 104,
+                "end": 117,
+                "username": "JEP_Colombia",
+                "id": "847591188332990466"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468318318503333893,
+    "author_id": 473338133,
+    "created_at": "2021-12-07 20:35:41+00:00",
+    "text": "#EnLosMedios En entrevista con @nuevodiaibague, la procuradora Margarita Cabello expuso el presunto caso de corrupci\u00f3n de construcciones ilegales \ud83c\udfd7\ufe0f en el #Tolima y las principales investigaciones \ud83d\udd0e  en curso en el departamento.\n\n\ud83d\udd17 Art\u00edculo completo AQU\u00cd https://t.co/ziqN4Mssvs https://t.co/KPrwumtHNA",
+    "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+    },
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 12,
+                "tag": "EnLosMedios"
+            },
+            {
+                "start": 155,
+                "end": 162,
+                "tag": "Tolima"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 79,
+                "probability": 0.9798,
+                "type": "Person",
+                "normalized_text": "Margarita Cabello"
+            }
+        ],
+        "urls": [
+            {
+                "start": 255,
+                "end": 278,
+                "url": "https://t.co/ziqN4Mssvs",
+                "expanded_url": "https://bit.ly/NuevoD\u00edaPGN",
+                "display_url": "bit.ly/NuevoD\u00edaPGN",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468316889650659332/jQ29SVR1?format=jpg&name=orig",
+                        "width": 800,
+                        "height": 400
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468316889650659332/jQ29SVR1?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "\u201cHay grandes mafias interviniendo en la toma de tierras\u201d: Procuradora | El Nuevo D\u00eda",
+                "description": "En exclusiva con El Nuevo D\u00eda, la procuradora General, Margarita Cabello, habl\u00f3 del presunto caso de corrupci\u00f3n de construcciones ilegales en el Tolima y coment\u00f3 cu\u00e1les son las obras y los procesos del departamento en los que tiene puesta la lupa.",
+                "unwound_url": "http://www.elnuevodia.com.co/nuevodia/politica/478716-hay-grandes-mafias-interviniendo-en-la-toma-de-tierras-procuradora"
+            },
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/KPrwumtHNA",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468318318503333893/photo/1",
+                "display_url": "pic.twitter.com/KPrwumtHNA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 31,
+                "end": 46,
+                "username": "nuevodiaibague",
+                "id": "61925350"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468309891378987015,
+    "author_id": 473338133,
+    "created_at": "2021-12-07 20:02:12+00:00",
+    "text": "El encuentro presidido por ministros, @GobChoco, alcaldes y directivos del dpto, despej\u00f3 inquietudes de autoridades locales y poblaci\u00f3n. Adem\u00e1s, se acord\u00f3 realizar 4\ufe0f\u20e3 mesas t\u00e9cnicas antes del 2\ufe0f\u20e31\ufe0f\u20e3 de diciembre sobre: trabajo, educaci\u00f3n, seguridad, transporte e Infraestructura https://t.co/AqOvn5bMzI",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/AqOvn5bMzI",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468309891378987015/photo/1",
+                "display_url": "pic.twitter.com/AqOvn5bMzI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 38,
+                "end": 47,
+                "username": "GobChoco",
+                "id": "228180082"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468272845683757058,
+    "author_id": 473338133,
+    "created_at": "2021-12-07 17:35:00+00:00",
+    "text": "\u00a1En la Procuradur\u00eda trabajamos para consolidar la paz \ud83d\udd4a\ufe0f en los territorios! La Regional Guaviare realiz\u00f3 el 1\ufe0f\u20e3er Encuentro Institucional de Reincorporaci\u00f3n, donde present\u00f3 lineamientos para el acceso a la oferta social del Estado \ud83c\udde8\ud83c\uddf4 de la poblaci\u00f3n en proceso de reincorporaci\u00f3n. https://t.co/dmebRvvI75",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 282,
+                "end": 305,
+                "url": "https://t.co/dmebRvvI75",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468272845683757058/video/1",
+                "display_url": "pic.twitter.com/dmebRvvI75"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 81,
+                "end": 97,
+                "probability": 0.408,
+                "type": "Organization",
+                "normalized_text": "Regional Guaviare"
+            },
+            {
+                "start": 110,
+                "end": 157,
+                "probability": 0.6655,
+                "type": "Organization",
+                "normalized_text": "1\ufe0f\u20e3er Encuentro Institucional de Reincorporaci\u00f3n"
             }
         ]
     },
