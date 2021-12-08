@@ -129,6 +129,15 @@ def get_replies(tweet_id):
 #
 def flatten_entities(lst):
     for i in lst:
+        i['retweet_count'] = i['public_metrics']['retweet_count']
+        i['reply_count'] = i['public_metrics']['reply_count']
+        i['like_count'] = i['public_metrics']['like_count']
+        i['quote_count'] = i['public_metrics']['quote_count']
+        if 'hashtags' in list(i['entities'].keys()):
+            i['hashtags'] = i['entities']['hashtags']
+        else:
+            i['hashtags'] =[]
+            
         del i['public_metrics']
         del i['entities']
     return lst
