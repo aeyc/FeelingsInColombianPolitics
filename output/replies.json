@@ -74,6 +74,14 @@
         "quote_count": 0
     },
     "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "CristoBustos",
+                "id": "66711542"
+            }
+        ],
         "urls": [
             {
                 "start": 14,
@@ -81,14 +89,6 @@
                 "url": "https://t.co/yoetA9OGeg",
                 "expanded_url": "https://twitter.com/luckygarc/status/1468394282004398087/photo/1",
                 "display_url": "pic.twitter.com/yoetA9OGeg"
-            }
-        ],
-        "mentions": [
-            {
-                "start": 0,
-                "end": 13,
-                "username": "CristoBustos",
-                "id": "66711542"
             }
         ]
     },
@@ -119,6 +119,30 @@
     "geo": null,
     "lang": "es"
 }{
+    "id": 1468554256508723201,
+    "author_id": 394730277,
+    "tweet_id": 1468550935488118791,
+    "created_at": "2021-12-08 12:13:13+00:00",
+    "text": "@Rodrigo_Lara_ Lo q la gente quiere no son subsidios, no es limosna institucionalizada. Lo q quiere son las herramientas para crear, para producir, para creer q es posible realizar sue\u00f1os y luchar por eso, para ser aut\u00f3nomo y forjarse una vida aut\u00e9ntica...\u00bfqu\u00e9 les ofrece usted?",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Rodrigo_Lara_",
+                "id": "53187962"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
     "id": 1468544572351561732,
     "author_id": 1428065381701365768,
     "tweet_id": 1468541596178206723,
@@ -131,15 +155,6 @@
         "quote_count": 0
     },
     "entities": {
-        "annotations": [
-            {
-                "start": 298,
-                "end": 306,
-                "probability": 0.9707,
-                "type": "Place",
-                "normalized_text": "Venezuela"
-            }
-        ],
         "mentions": [
             {
                 "start": 0,
@@ -153,29 +168,14 @@
                 "username": "NicolasMaduro",
                 "id": "1252764865"
             }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468431486613430279,
-    "author_id": 473499158,
-    "tweet_id": 1468414603751301120,
-    "created_at": "2021-12-08 04:05:23+00:00",
-    "text": "@MauricioCard \u00bfA qui\u00e9n le desbarataron la cama?",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
+        ],
+        "annotations": [
             {
-                "start": 0,
-                "end": 13,
-                "username": "MauricioCard",
-                "id": "142849205"
+                "start": 298,
+                "end": 306,
+                "probability": 0.9707,
+                "type": "Place",
+                "normalized_text": "Venezuela"
             }
         ]
     },
@@ -212,11 +212,11 @@
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468540722584473602,
-    "author_id": 1436487908161212417,
+    "id": 1468554671111479297,
+    "author_id": 257491978,
     "tweet_id": 1468383256424890375,
-    "created_at": "2021-12-08 11:19:27+00:00",
-    "text": "@AABenedetti voy a votar por petro.pero aveces est\u00e1 gentuza como Roy y Benedetti me hacen pensar en que depronto el cambio no es ahora ni ser\u00e1..bueno petro m\u00ed presidente.pero que berraco tan fan\u00e1tico este Man,yo la gente as\u00ed de fan\u00e1tica les tengo miedo.falta que cree una iglesia con p\ud83e\udd23\ud83e\udd23",
+    "created_at": "2021-12-08 12:14:52+00:00",
+    "text": "@AABenedetti @petrogustavo sigue feliz con @AABenedetti ya que es el hombre caim\u00e1n, una foto de los dos divirti\u00e9ndose https://t.co/FDUP72MfgN",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -224,28 +224,40 @@
         "quote_count": 0
     },
     "entities": {
-        "annotations": [
-            {
-                "start": 65,
-                "end": 67,
-                "probability": 0.998,
-                "type": "Person",
-                "normalized_text": "Roy"
-            },
-            {
-                "start": 71,
-                "end": 79,
-                "probability": 0.9866,
-                "type": "Person",
-                "normalized_text": "Benedetti"
-            }
-        ],
         "mentions": [
             {
                 "start": 0,
                 "end": 12,
                 "username": "AABenedetti",
                 "id": "38670671"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "petrogustavo",
+                "id": "49849732"
+            },
+            {
+                "start": 43,
+                "end": 55,
+                "username": "AABenedetti",
+                "id": "38670671"
+            }
+        ],
+        "urls": [
+            {
+                "start": 118,
+                "end": 141,
+                "url": "https://t.co/FDUP72MfgN",
+                "expanded_url": "https://twitter.com/EnriqueDelgadoP/status/1468554671111479297/photo/1",
+                "display_url": "pic.twitter.com/FDUP72MfgN"
+            },
+            {
+                "start": 118,
+                "end": 141,
+                "url": "https://t.co/FDUP72MfgN",
+                "expanded_url": "https://twitter.com/EnriqueDelgadoP/status/1468554671111479297/photo/1",
+                "display_url": "pic.twitter.com/FDUP72MfgN"
             }
         ]
     },
@@ -291,30 +303,6 @@
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468544022851600387,
-    "author_id": 1347990347595575296,
-    "tweet_id": 1468404739494891521,
-    "created_at": "2021-12-08 11:32:33+00:00",
-    "text": "@GustavoBolivar Por P de pobreza",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 0,
-                "end": 15,
-                "username": "GustavoBolivar",
-                "id": "50981729"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
     "id": 1468544572351561732,
     "author_id": 1428065381701365768,
     "tweet_id": 1468541596178206723,
@@ -348,51 +336,6 @@
                 "probability": 0.9707,
                 "type": "Place",
                 "normalized_text": "Venezuela"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468390401363034115,
-    "author_id": 1199792330615726082,
-    "tweet_id": 1468365716206362625,
-    "created_at": "2021-12-08 01:22:07+00:00",
-    "text": "@jjUscategui @bogota_cd @CeDemocratico Los Polic\u00edas somos felices viendo a esas personas de bien encender una vela, teniendo a Colombia y a su fuerza p\u00fablica en el Coraz\u00f3n.",
-    "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 127,
-                "end": 134,
-                "probability": 0.9916,
-                "type": "Place",
-                "normalized_text": "Colombia"
-            }
-        ],
-        "mentions": [
-            {
-                "start": 0,
-                "end": 12,
-                "username": "jjUscategui",
-                "id": "213769894"
-            },
-            {
-                "start": 13,
-                "end": 23,
-                "username": "bogota_cd",
-                "id": "1466788328863416328"
-            },
-            {
-                "start": 24,
-                "end": 38,
-                "username": "CeDemocratico",
-                "id": "1115440213"
             }
         ]
     },
@@ -455,15 +398,6 @@
                 "id": "20560294"
             }
         ],
-        "urls": [
-            {
-                "start": 260,
-                "end": 283,
-                "url": "https://t.co/Duadwn0n0N",
-                "expanded_url": "https://twitter.com/haivera__/status/1468429781452607490/photo/1",
-                "display_url": "pic.twitter.com/Duadwn0n0N"
-            }
-        ],
         "annotations": [
             {
                 "start": 33,
@@ -471,6 +405,15 @@
                 "probability": 0.9688,
                 "type": "Person",
                 "normalized_text": "Juanita"
+            }
+        ],
+        "urls": [
+            {
+                "start": 260,
+                "end": 283,
+                "url": "https://t.co/Duadwn0n0N",
+                "expanded_url": "https://twitter.com/haivera__/status/1468429781452607490/photo/1",
+                "display_url": "pic.twitter.com/Duadwn0n0N"
             }
         ]
     },

@@ -1,4 +1,43 @@
 {
+    "id": 1468395721585938432,
+    "author_id": 193698971,
+    "tweet_id": 1468326454954192896,
+    "created_at": "2021-12-08 01:43:16+00:00",
+    "text": "Es un honor, orgullo y motivaci\u00f3n, hacer parte del equipo de mujeres @Compromisarias. Colaborar y trabajar con lideresas admirables, incansables y dedicadas a darlo todo por un pa\u00eds para todas y todos. Soy mujer, madre, hermana, hija, amiga, colega y creo en @sergio_fajardo 2022! https://t.co/MwkraJzYsN",
+    "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/MwkraJzYsN",
+                "expanded_url": "https://twitter.com/sergio_fajardo/status/1468326454954192896",
+                "display_url": "twitter.com/sergio_fajardo\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 69,
+                "end": 84,
+                "username": "Compromisarias",
+                "id": "896494477174595586"
+            },
+            {
+                "start": 259,
+                "end": 274,
+                "username": "sergio_fajardo",
+                "id": "25185308"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
     "id": 1468431603064004608,
     "author_id": 209247992,
     "tweet_id": 1468411761804070914,
@@ -111,53 +150,11 @@
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468390556338376707,
-    "author_id": 223172344,
+    "id": 1468551521860206597,
+    "author_id": 232046767,
     "tweet_id": 1468383256424890375,
-    "created_at": "2021-12-08 01:22:44+00:00",
-    "text": "La esperanza de Colombia @petrogustavo https://t.co/Q0WZOuxd7d",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 25,
-                "end": 38,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 16,
-                "end": 23,
-                "probability": 0.9532,
-                "type": "Place",
-                "normalized_text": "Colombia"
-            }
-        ],
-        "urls": [
-            {
-                "start": 39,
-                "end": 62,
-                "url": "https://t.co/Q0WZOuxd7d",
-                "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375",
-                "display_url": "twitter.com/AABenedetti/st\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468489686293303298,
-    "author_id": 1445121709653348352,
-    "tweet_id": 1468404739494891521,
-    "created_at": "2021-12-08 07:56:39+00:00",
-    "text": "Un escritor de novelas, luchando por escribir las riendas del pa\u00eds, quiz\u00e1s avance con el intento de legalizar lo no legalizado.... https://t.co/CcXTZmT7Ko",
+    "created_at": "2021-12-08 12:02:21+00:00",
+    "text": "\ud83d\udc00\ud83d\udc00\ud83d\udc00\ud83d\udc00\ud83d\ude02 https://t.co/ag22PtDG5Y",
     "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
@@ -167,11 +164,36 @@
     "entities": {
         "urls": [
             {
-                "start": 131,
-                "end": 154,
-                "url": "https://t.co/CcXTZmT7Ko",
-                "expanded_url": "https://twitter.com/GustavoBolivar/status/1468404739494891521",
-                "display_url": "twitter.com/GustavoBolivar\u2026"
+                "start": 6,
+                "end": 29,
+                "url": "https://t.co/ag22PtDG5Y",
+                "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375",
+                "display_url": "twitter.com/AABenedetti/st\u2026"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "und"
+}{
+    "id": 1468551939545878532,
+    "author_id": 1144002845487894528,
+    "tweet_id": 1468404739494891521,
+    "created_at": "2021-12-08 12:04:01+00:00",
+    "text": "P de P\u00edcaros https://t.co/VKcBYfyMnr",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 13,
+                "end": 36,
+                "url": "https://t.co/VKcBYfyMnr",
+                "expanded_url": "https://twitter.com/gustavobolivar/status/1468404739494891521",
+                "display_url": "twitter.com/gustavobolivar\u2026"
             }
         ]
     },
@@ -199,6 +221,13 @@
                 "display_url": "twitter.com/PGN_COL/status\u2026"
             }
         ],
+        "hashtags": [
+            {
+                "start": 242,
+                "end": 250,
+                "tag": "Ley2094"
+            }
+        ],
         "annotations": [
             {
                 "start": 212,
@@ -206,13 +235,6 @@
                 "probability": 0.7705,
                 "type": "Person",
                 "normalized_text": "Procuradora Margarita Cabello"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 242,
-                "end": 250,
-                "tag": "Ley2094"
             }
         ]
     },

@@ -4,9 +4,9 @@
     "created_at": "2021-12-07 21:08:01+00:00",
     "text": "A los ataques respondemos con propuestas porque Colombia va a cambiar. Y las mujeres ser\u00e1n protagonistas de ese cambio. Hoy presentamos el Ministerio de las Mujeres. Bienvenidos sus aportes y comentarios. https://t.co/n8lavC7QJv",
     "public_metrics": {
-        "retweet_count": 67,
+        "retweet_count": 70,
         "reply_count": 60,
-        "like_count": 171,
+        "like_count": 175,
         "quote_count": 15
     },
     "entities": {
@@ -44,12 +44,28 @@
     "created_at": "2021-12-08 02:47:00+00:00",
     "text": "\u00a1Qu\u00e9 alegr\u00eda compartir en familia el #DiaDeVelitas!\n\nEncendemos nuestras luces con Guada y Sim\u00f3n para darle la bienvenida a esta \u00e9poca que es motivo siempre para encontrarnos y compartir.\n\n\u00a1Feliz comienzo de navidad! https://t.co/sogXoHvSvo",
     "public_metrics": {
-        "retweet_count": 55,
+        "retweet_count": 58,
         "reply_count": 14,
-        "like_count": 757,
+        "like_count": 795,
         "quote_count": 2
     },
     "entities": {
+        "urls": [
+            {
+                "start": 217,
+                "end": 240,
+                "url": "https://t.co/sogXoHvSvo",
+                "expanded_url": "https://twitter.com/CamiloRomero/status/1468411761804070914/photo/1",
+                "display_url": "pic.twitter.com/sogXoHvSvo"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 37,
+                "end": 50,
+                "tag": "DiaDeVelitas"
+            }
+        ],
         "annotations": [
             {
                 "start": 83,
@@ -64,22 +80,6 @@
                 "probability": 0.7412,
                 "type": "Person",
                 "normalized_text": "Sim\u00f3n"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 37,
-                "end": 50,
-                "tag": "DiaDeVelitas"
-            }
-        ],
-        "urls": [
-            {
-                "start": 217,
-                "end": 240,
-                "url": "https://t.co/sogXoHvSvo",
-                "expanded_url": "https://twitter.com/CamiloRomero/status/1468411761804070914/photo/1",
-                "display_url": "pic.twitter.com/sogXoHvSvo"
             }
         ]
     },
@@ -122,6 +122,77 @@
     "geo": null,
     "lang": "es"
 }{
+    "id": 1468552970811887621,
+    "author_id": 100006904,
+    "created_at": "2021-12-08 12:08:07+00:00",
+    "text": "La izquierda y el centro gobiernan Alemania.\nSe cierra la era Merkel: Olaf Scholz es elegido canciller https://t.co/QxXvYdpWvL v\u00eda @WradioColombia",
+    "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
+            {
+                "start": 103,
+                "end": 126,
+                "url": "https://t.co/QxXvYdpWvL",
+                "expanded_url": "https://www.wradio.com.co/2021/12/08/alemania-cierra-la-era-merkel-olaf-scholz-es-elegido-canciller/",
+                "display_url": "wradio.com.co/2021/12/08/ale\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468547550345146369/5kt_goI3?format=jpg&name=orig",
+                        "width": 1024,
+                        "height": 683
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468547550345146369/5kt_goI3?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Alemania cierra la era Merkel: Olaf Scholz es elegido canciller",
+                "description": "Esto significa el regreso del centro-izquierda al poder.",
+                "unwound_url": "https://www.wradio.com.co/2021/12/08/alemania-cierra-la-era-merkel-olaf-scholz-es-elegido-canciller/"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 131,
+                "end": 146,
+                "username": "WRadioColombia",
+                "id": "20560294"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 42,
+                "probability": 0.8228,
+                "type": "Place",
+                "normalized_text": "Alemania"
+            },
+            {
+                "start": 62,
+                "end": 67,
+                "probability": 0.8597,
+                "type": "Person",
+                "normalized_text": "Merkel"
+            },
+            {
+                "start": 70,
+                "end": 80,
+                "probability": 0.9902,
+                "type": "Person",
+                "normalized_text": "Olaf Scholz"
+            }
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
     "id": 1468326585031925761,
     "author_id": 165748292,
     "created_at": "2021-12-07 21:08:32+00:00",
@@ -129,10 +200,19 @@
     "public_metrics": {
         "retweet_count": 6,
         "reply_count": 13,
-        "like_count": 39,
+        "like_count": 40,
         "quote_count": 1
     },
     "entities": {
+        "annotations": [
+            {
+                "start": 155,
+                "end": 160,
+                "probability": 0.9134,
+                "type": "Place",
+                "normalized_text": "Bogot\u00e1"
+            }
+        ],
         "urls": [
             {
                 "start": 250,
@@ -141,14 +221,41 @@
                 "expanded_url": "https://twitter.com/angelamrobledo/status/1468326585031925761/photo/1",
                 "display_url": "pic.twitter.com/r2xpBSnCCG"
             }
-        ],
-        "annotations": [
+        ]
+    },
+    "geo": null,
+    "lang": "es"
+}{
+    "id": 1468550935488118791,
+    "author_id": 53187962,
+    "created_at": "2021-12-08 12:00:02+00:00",
+    "text": "\u00bfCu\u00e1l es el panorama electoral a seis meses de las elecciones?\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\n\u00bfUstedes creen que deben seguir ganando las mismas propuestas y l\u00edneas de gobierno, o creen que es momento de un cambio? \u00a1Los leo en los comentarios!\n#RodrigoLaraPresidente #GobiernoSerio https://t.co/WmDfgsWr81",
+    "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+    },
+    "entities": {
+        "urls": [
             {
-                "start": 155,
-                "end": 160,
-                "probability": 0.9134,
-                "type": "Place",
-                "normalized_text": "Bogot\u00e1"
+                "start": 257,
+                "end": 280,
+                "url": "https://t.co/WmDfgsWr81",
+                "expanded_url": "https://twitter.com/Rodrigo_Lara_/status/1468550935488118791/video/1",
+                "display_url": "pic.twitter.com/WmDfgsWr81"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 219,
+                "end": 241,
+                "tag": "RodrigoLaraPresidente"
+            },
+            {
+                "start": 242,
+                "end": 256,
+                "tag": "GobiernoSerio"
             }
         ]
     },
@@ -186,10 +293,18 @@
     "public_metrics": {
         "retweet_count": 1,
         "reply_count": 1,
-        "like_count": 4,
+        "like_count": 7,
         "quote_count": 0
     },
     "entities": {
+        "mentions": [
+            {
+                "start": 175,
+                "end": 189,
+                "username": "NicolasMaduro",
+                "id": "1252764865"
+            }
+        ],
         "hashtags": [
             {
                 "start": 192,
@@ -225,14 +340,6 @@
                 "title": "\u00bfPor qu\u00e9 El Paisa, Jes\u00fas Santrich y Roma\u00f1a murieron en Venezuela en circunstancias similares?",
                 "description": "Los exjefes de las Farc desertaron del proceso de paz y se refugiaron en la frontera con Venezuela, en especial en el estado de Apure. Aprovechaban la complicidad del r\u00e9gimen de Nicol\u00e1s Maduro para delinquir y resguardarse al otro lado de la frontera. Murieron traicionados.",
                 "unwound_url": "https://www.semana.com/nacion/articulo/por-que-el-paisa-jesus-santrich-y-romana-murieron-en-venezuela-en-circunstancias-similares/202115/"
-            }
-        ],
-        "mentions": [
-            {
-                "start": 175,
-                "end": 189,
-                "username": "NicolasMaduro",
-                "id": "1252764865"
             }
         ]
     },
@@ -280,30 +387,6 @@
     },
     "lang": "es"
 }{
-    "id": 1468414603751301120,
-    "author_id": 142849205,
-    "created_at": "2021-12-08 02:58:18+00:00",
-    "text": "Conversando a la luz y el calor de las velitas. https://t.co/NuBtEWT4BE",
-    "public_metrics": {
-        "retweet_count": 2,
-        "reply_count": 2,
-        "like_count": 18,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 48,
-                "end": 71,
-                "url": "https://t.co/NuBtEWT4BE",
-                "expanded_url": "https://twitter.com/MauricioCard/status/1468414603751301120/photo/1",
-                "display_url": "pic.twitter.com/NuBtEWT4BE"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
     "id": 1468346806929182728,
     "author_id": 206486600,
     "created_at": "2021-12-07 22:28:53+00:00",
@@ -311,10 +394,22 @@
     "public_metrics": {
         "retweet_count": 10,
         "reply_count": 4,
-        "like_count": 19,
+        "like_count": 20,
         "quote_count": 2
     },
     "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 11,
+                "tag": "UnaVelaPor"
+            },
+            {
+                "start": 225,
+                "end": 243,
+                "tag": "NocheDeLasVelitas"
+            }
+        ],
         "urls": [
             {
                 "start": 244,
@@ -346,18 +441,6 @@
                 "type": "Place",
                 "normalized_text": "Colombia"
             }
-        ],
-        "hashtags": [
-            {
-                "start": 0,
-                "end": 11,
-                "tag": "UnaVelaPor"
-            },
-            {
-                "start": 225,
-                "end": 243,
-                "tag": "NocheDeLasVelitas"
-            }
         ]
     },
     "geo": null,
@@ -368,10 +451,10 @@
     "created_at": "2021-12-08 00:53:44+00:00",
     "text": "Desde Barranquilla, #UnaVelitaPorElCambio \ud83d\udd6f\nUn Pueblo en Paz es el verdadero Pacto. https://t.co/g4PzivzznL",
     "public_metrics": {
-        "retweet_count": 145,
-        "reply_count": 45,
-        "like_count": 508,
-        "quote_count": 4
+        "retweet_count": 152,
+        "reply_count": 52,
+        "like_count": 529,
+        "quote_count": 5
     },
     "entities": {
         "annotations": [
@@ -383,6 +466,13 @@
                 "normalized_text": "Barranquilla"
             }
         ],
+        "hashtags": [
+            {
+                "start": 20,
+                "end": 41,
+                "tag": "UnaVelitaPorElCambio"
+            }
+        ],
         "urls": [
             {
                 "start": 84,
@@ -390,13 +480,6 @@
                 "url": "https://t.co/g4PzivzznL",
                 "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375/video/1",
                 "display_url": "pic.twitter.com/g4PzivzznL"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 20,
-                "end": 41,
-                "tag": "UnaVelitaPorElCambio"
             }
         ]
     },
@@ -410,18 +493,10 @@
     "public_metrics": {
         "retweet_count": 1,
         "reply_count": 9,
-        "like_count": 48,
+        "like_count": 51,
         "quote_count": 0
     },
     "entities": {
-        "mentions": [
-            {
-                "start": 76,
-                "end": 88,
-                "username": "TrianaVJuli",
-                "id": "328836090"
-            }
-        ],
         "urls": [
             {
                 "start": 105,
@@ -429,6 +504,14 @@
                 "url": "https://t.co/OtFW6HFTiA",
                 "expanded_url": "https://twitter.com/trianavjuli/status/1468409505843191817",
                 "display_url": "twitter.com/trianavjuli/st\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 76,
+                "end": 88,
+                "username": "TrianaVJuli",
+                "id": "328836090"
             }
         ]
     },
@@ -440,19 +523,12 @@
     "created_at": "2021-12-08 02:19:06+00:00",
     "text": "#UnaVelitaPorElCambio por la Paz, por El Progreso de todos, por el Pacto Hist\u00f3rico https://t.co/1f9jUnHTLF",
     "public_metrics": {
-        "retweet_count": 466,
-        "reply_count": 147,
-        "like_count": 2188,
-        "quote_count": 18
+        "retweet_count": 498,
+        "reply_count": 157,
+        "like_count": 2331,
+        "quote_count": 20
     },
     "entities": {
-        "hashtags": [
-            {
-                "start": 0,
-                "end": 21,
-                "tag": "UnaVelitaPorElCambio"
-            }
-        ],
         "urls": [
             {
                 "start": 83,
@@ -467,6 +543,13 @@
                 "url": "https://t.co/1f9jUnHTLF",
                 "expanded_url": "https://twitter.com/GustavoBolivar/status/1468404739494891521/photo/1",
                 "display_url": "pic.twitter.com/1f9jUnHTLF"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 21,
+                "tag": "UnaVelitaPorElCambio"
             }
         ]
     },
@@ -480,20 +563,16 @@
     "public_metrics": {
         "retweet_count": 1,
         "reply_count": 1,
-        "like_count": 4,
+        "like_count": 7,
         "quote_count": 0
     },
     "entities": {
-        "hashtags": [
+        "mentions": [
             {
-                "start": 192,
-                "end": 212,
-                "tag": "MiCausaEsLaJusticia"
-            },
-            {
-                "start": 213,
-                "end": 231,
-                "tag": "MiCausaEsColombia"
+                "start": 175,
+                "end": 189,
+                "username": "NicolasMaduro",
+                "id": "1252764865"
             }
         ],
         "urls": [
@@ -521,66 +600,71 @@
                 "unwound_url": "https://www.semana.com/nacion/articulo/por-que-el-paisa-jesus-santrich-y-romana-murieron-en-venezuela-en-circunstancias-similares/202115/"
             }
         ],
-        "mentions": [
+        "hashtags": [
             {
-                "start": 175,
-                "end": 189,
-                "username": "NicolasMaduro",
-                "id": "1252764865"
+                "start": 192,
+                "end": 212,
+                "tag": "MiCausaEsLaJusticia"
+            },
+            {
+                "start": 213,
+                "end": 231,
+                "tag": "MiCausaEsColombia"
             }
         ]
     },
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468365716206362625,
+    "id": 1468552828801237005,
     "author_id": 213769894,
-    "created_at": "2021-12-07 23:44:02+00:00",
-    "text": "Nos encontramos en la localidad de Kennedy en el sector de Casablanca, festejando el d\u00eda de las velitas y esta \u00e9poca navide\u00f1a que comienza.  \n\nDios bendiga sus hogares y familias \ud83d\ude4f\ud83c\udffc. https://t.co/AZOC8oGWVY",
+    "created_at": "2021-12-08 12:07:33+00:00",
+    "text": "Los invitamos a sintonizar la frecuencia radial 9.30 AM, Todelar. #Ahora estamos dando nuestra opini\u00f3n sobre diferentes temas y el panorama de las elecciones del a\u00f1o entrante junto al Sargento Mayor (R) @AugustolopezC. https://t.co/TAffQQubuP",
     "public_metrics": {
-        "retweet_count": 18,
-        "reply_count": 1,
-        "like_count": 78,
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
         "quote_count": 0
     },
     "entities": {
-        "urls": [
+        "mentions": [
             {
-                "start": 183,
-                "end": 206,
-                "url": "https://t.co/AZOC8oGWVY",
-                "expanded_url": "https://twitter.com/jjUscategui/status/1468365716206362625/photo/1",
-                "display_url": "pic.twitter.com/AZOC8oGWVY"
-            },
-            {
-                "start": 183,
-                "end": 206,
-                "url": "https://t.co/AZOC8oGWVY",
-                "expanded_url": "https://twitter.com/jjUscategui/status/1468365716206362625/photo/1",
-                "display_url": "pic.twitter.com/AZOC8oGWVY"
-            },
-            {
-                "start": 183,
-                "end": 206,
-                "url": "https://t.co/AZOC8oGWVY",
-                "expanded_url": "https://twitter.com/jjUscategui/status/1468365716206362625/photo/1",
-                "display_url": "pic.twitter.com/AZOC8oGWVY"
+                "start": 203,
+                "end": 217,
+                "username": "AugustolopezC",
+                "id": "913457870947143680"
             }
         ],
         "annotations": [
             {
-                "start": 35,
-                "end": 41,
-                "probability": 0.8461,
+                "start": 184,
+                "end": 197,
+                "probability": 0.3173,
                 "type": "Place",
-                "normalized_text": "Kennedy"
+                "normalized_text": "Sargento Mayor"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 66,
+                "end": 72,
+                "tag": "Ahora"
+            }
+        ],
+        "urls": [
+            {
+                "start": 219,
+                "end": 242,
+                "url": "https://t.co/TAffQQubuP",
+                "expanded_url": "https://twitter.com/jjUscategui/status/1468552828801237005/photo/1",
+                "display_url": "pic.twitter.com/TAffQQubuP"
             },
             {
-                "start": 59,
-                "end": 68,
-                "probability": 0.6112,
-                "type": "Place",
-                "normalized_text": "Casablanca"
+                "start": 219,
+                "end": 242,
+                "url": "https://t.co/TAffQQubuP",
+                "expanded_url": "https://twitter.com/jjUscategui/status/1468552828801237005/photo/1",
+                "display_url": "pic.twitter.com/TAffQQubuP"
             }
         ]
     },
@@ -594,7 +678,7 @@
     "public_metrics": {
         "retweet_count": 4,
         "reply_count": 3,
-        "like_count": 47,
+        "like_count": 48,
         "quote_count": 0
     },
     "entities": {
@@ -604,13 +688,6 @@
                 "end": 159,
                 "username": "SoyOscarEscobar",
                 "id": "131074953"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 236,
-                "end": 250,
-                "tag": "SinTramititis"
             }
         ],
         "annotations": [
@@ -630,6 +707,13 @@
                 "expanded_url": "https://twitter.com/soyoscarescobar/status/1468041352848023556",
                 "display_url": "twitter.com/soyoscarescoba\u2026"
             }
+        ],
+        "hashtags": [
+            {
+                "start": 236,
+                "end": 250,
+                "tag": "SinTramititis"
+            }
         ]
     },
     "geo": null,
@@ -642,10 +726,18 @@
     "public_metrics": {
         "retweet_count": 16,
         "reply_count": 2,
-        "like_count": 55,
+        "like_count": 56,
         "quote_count": 0
     },
     "entities": {
+        "mentions": [
+            {
+                "start": 44,
+                "end": 59,
+                "username": "WRadioColombia",
+                "id": "20560294"
+            }
+        ],
         "urls": [
             {
                 "start": 280,
@@ -661,14 +753,6 @@
                 "end": 18,
                 "tag": "PorSiTeLoPerdiste"
             }
-        ],
-        "mentions": [
-            {
-                "start": 44,
-                "end": 59,
-                "username": "WRadioColombia",
-                "id": "20560294"
-            }
         ]
     },
     "geo": null,
@@ -679,19 +763,19 @@
     "created_at": "2021-12-08 05:14:23+00:00",
     "text": "En este #D\u00edaDeVelitas, encendemos #UnaVelitaPor la Colombia que todos so\u00f1amos. \u2728\n\nQue la esperanza de un mejor futuro, sea nuestra gu\u00eda para construir el pa\u00eds que todos merecemos. \n\n\u00a1Feliz d\u00eda de de las velitas para todos y todas! \ud83d\udc9a https://t.co/z3KDAqticY",
     "public_metrics": {
-        "retweet_count": 1,
-        "reply_count": 2,
-        "like_count": 60,
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 77,
         "quote_count": 0
     },
     "entities": {
-        "urls": [
+        "annotations": [
             {
-                "start": 233,
-                "end": 256,
-                "url": "https://t.co/z3KDAqticY",
-                "expanded_url": "https://twitter.com/MauroToroO/status/1468448851270983683/photo/1",
-                "display_url": "pic.twitter.com/z3KDAqticY"
+                "start": 51,
+                "end": 58,
+                "probability": 0.9498,
+                "type": "Place",
+                "normalized_text": "Colombia"
             }
         ],
         "hashtags": [
@@ -706,13 +790,13 @@
                 "tag": "UnaVelitaPor"
             }
         ],
-        "annotations": [
+        "urls": [
             {
-                "start": 51,
-                "end": 58,
-                "probability": 0.9498,
-                "type": "Place",
-                "normalized_text": "Colombia"
+                "start": 233,
+                "end": 256,
+                "url": "https://t.co/z3KDAqticY",
+                "expanded_url": "https://twitter.com/MauroToroO/status/1468448851270983683/photo/1",
+                "display_url": "pic.twitter.com/z3KDAqticY"
             }
         ]
     },
@@ -783,13 +867,13 @@
         "quote_count": 1
     },
     "entities": {
-        "urls": [
+        "annotations": [
             {
-                "start": 251,
-                "end": 274,
-                "url": "https://t.co/PSnQJKtDSQ",
-                "expanded_url": "https://twitter.com/PGN_COL/status/1468363191126212620/video/1",
-                "display_url": "pic.twitter.com/PSnQJKtDSQ"
+                "start": 212,
+                "end": 240,
+                "probability": 0.7705,
+                "type": "Person",
+                "normalized_text": "Procuradora Margarita Cabello"
             }
         ],
         "hashtags": [
@@ -799,13 +883,13 @@
                 "tag": "Ley2094"
             }
         ],
-        "annotations": [
+        "urls": [
             {
-                "start": 212,
-                "end": 240,
-                "probability": 0.7705,
-                "type": "Person",
-                "normalized_text": "Procuradora Margarita Cabello"
+                "start": 251,
+                "end": 274,
+                "url": "https://t.co/PSnQJKtDSQ",
+                "expanded_url": "https://twitter.com/PGN_COL/status/1468363191126212620/video/1",
+                "display_url": "pic.twitter.com/PSnQJKtDSQ"
             }
         ]
     },

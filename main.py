@@ -51,31 +51,20 @@ def get_retweets(profile, tweet_id):
 
     url = "https://twitter.com/" + profile + "/status/" + str(tweet_id)
 
-    for retweet in tw.Paginator(client.search_recent_tweets,query='url: "{}"'.format(url)  + " is:quote", tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang","referenced_tweets"]).flatten(RESULTS_LIMIT):
-        belongs_to_tweet = False
-        refs = []
-        for el in retweet.referenced_tweets:
-            if el.id == tweet_id:
-                belongs_to_tweet = True
-            rt = {}
-            rt['type'] = el.type
-            rt['id'] = el.id
-            refs.append(rt)
-
-        if(belongs_to_tweet):
-            parsed = {}
-            parsed['id'] = retweet.id
-            parsed['author_id'] = retweet.author_id
-            parsed['tweet_id'] = tweet.id
-            parsed['created_at'] = str(retweet.created_at)
-            parsed['text'] = retweet.text
-            parsed['public_metrics'] = retweet.public_metrics
-            parsed['entities'] = retweet.entities
-            parsed['geo'] = retweet.geo
-            parsed['lang'] = retweet.lang
-            #TODO Send parsed dict to mongo db (retweet)
-            file_retweets.write(json.dumps(parsed, indent=4))
-            rtw_count += 1
+    for retweet in tw.Paginator(client.search_recent_tweets,query='url: "{}"'.format(url)  + " -is:reply -is:retweet is:quote", tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"]).flatten(RESULTS_LIMIT):
+        parsed = {}
+        parsed['id'] = retweet.id
+        parsed['author_id'] = retweet.author_id
+        parsed['tweet_id'] = tweet.id
+        parsed['created_at'] = str(retweet.created_at)
+        parsed['text'] = retweet.text
+        parsed['public_metrics'] = retweet.public_metrics
+        parsed['entities'] = retweet.entities
+        parsed['geo'] = retweet.geo
+        parsed['lang'] = retweet.lang
+        #TODO Send parsed dict to mongo db (retweet)
+        file_retweets.write(json.dumps(parsed, indent=4))
+        rtw_count += 1
     
     logging.info("[*] Retweets collected: " + str(rtw_count))
 
