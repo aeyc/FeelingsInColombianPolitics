@@ -1,279 +1,4 @@
 {
-    "id": 1468527824000757762,
-    "author_id": 558664177,
-    "tweet_id": 1468407449363361801,
-    "created_at": "2021-12-08 10:28:11+00:00",
-    "text": "De comunista a capitalista, cambio las bombas y el terror por las velitas, todo un angelito https://t.co/kdwRnAVMWD",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 92,
-                "end": 115,
-                "url": "https://t.co/kdwRnAVMWD",
-                "expanded_url": "https://twitter.com/petrogustavo/status/1468407449363361801",
-                "display_url": "twitter.com/petrogustavo/s\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468496348047622144,
-    "author_id": 2792436866,
-    "tweet_id": 1468392850710740992,
-    "created_at": "2021-12-08 08:23:07+00:00",
-    "text": "Petro presidente ya lo sabemos. https://t.co/snJkeqIvNm",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 0,
-                "end": 4,
-                "probability": 0.6517,
-                "type": "Person",
-                "normalized_text": "Petro"
-            }
-        ],
-        "urls": [
-            {
-                "start": 32,
-                "end": 55,
-                "url": "https://t.co/snJkeqIvNm",
-                "expanded_url": "https://twitter.com/ingrodolfohdez/status/1468392850710740992",
-                "display_url": "twitter.com/ingrodolfohdez\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468490013218381824,
-    "author_id": 932384114,
-    "tweet_id": 1468396730421022721,
-    "created_at": "2021-12-08 07:57:57+00:00",
-    "text": "Y tambi\u00e9n por los 6402. Que su partido el CD es responsable pol\u00edticamente del asesinato de esos ciudadanos. https://t.co/LRivRPPgun",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 108,
-                "end": 131,
-                "url": "https://t.co/LRivRPPgun",
-                "expanded_url": "https://twitter.com/oizuluaga/status/1468396730421022721",
-                "display_url": "twitter.com/oizuluaga/stat\u2026"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 42,
-                "end": 43,
-                "probability": 0.5162,
-                "type": "Organization",
-                "normalized_text": "CD"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468456777998024704,
-    "author_id": 2425741256,
-    "tweet_id": 1468409413870440456,
-    "created_at": "2021-12-08 05:45:53+00:00",
-    "text": "Nosotros se la vamos a encomendar a @petrogustavo a partir del 2022 por que ustedes los del terrorismo vestido de @CeDemocratico con todas sus virgenes y santos, mire como volvieron a este pais del #SagradoCorazon.\nQue Horror!!! https://t.co/FZAdy2Qbv1",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 36,
-                "end": 49,
-                "username": "petrogustavo",
-                "id": "49849732"
-            },
-            {
-                "start": 114,
-                "end": 128,
-                "username": "CeDemocratico",
-                "id": "1115440213"
-            }
-        ],
-        "urls": [
-            {
-                "start": 229,
-                "end": 252,
-                "url": "https://t.co/FZAdy2Qbv1",
-                "expanded_url": "https://twitter.com/PalomaValenciaL/status/1468409413870440456",
-                "display_url": "twitter.com/PalomaValencia\u2026"
-            }
-        ],
-        "hashtags": [
-            {
-                "start": 198,
-                "end": 213,
-                "tag": "SagradoCorazon"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468443888528543745,
-    "author_id": 2463569693,
-    "tweet_id": 1468432148466126848,
-    "created_at": "2021-12-08 04:54:40+00:00",
-    "text": "Lleno de cemento Y Transmilenio por cierto https://t.co/gqhhcSCNtp",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 43,
-                "end": 66,
-                "url": "https://t.co/gqhhcSCNtp",
-                "expanded_url": "https://twitter.com/EnriquePenalosa/status/1468432148466126848",
-                "display_url": "twitter.com/EnriquePenalos\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468445610101678088,
-    "author_id": 2463569693,
-    "tweet_id": 1468372357182115840,
-    "created_at": "2021-12-08 05:01:30+00:00",
-    "text": "Los tibios s\u00ed prenden algo? https://t.co/vkW5gGI2Mu",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 28,
-                "end": 51,
-                "url": "https://t.co/vkW5gGI2Mu",
-                "expanded_url": "https://twitter.com/agaviriau/status/1468372357182115840",
-                "display_url": "twitter.com/agaviriau/stat\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468517509213167622,
-    "author_id": 990196495516356608,
-    "tweet_id": 1468408768090316803,
-    "created_at": "2021-12-08 09:47:12+00:00",
-    "text": "Mis respetos Familia Gal\u00e1n \u2764\ufe0f\u2764\ufe0f https://t.co/pgpod1vqAL",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 32,
-                "end": 55,
-                "url": "https://t.co/pgpod1vqAL",
-                "expanded_url": "https://twitter.com/juanmanuelgalan/status/1468408768090316803",
-                "display_url": "twitter.com/juanmanuelgala\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468403621255684097,
-    "author_id": 486181923,
-    "tweet_id": 1468328465795538954,
-    "created_at": "2021-12-08 02:14:39+00:00",
-    "text": "Pero en Barranquilla @zonacero del Lameculo @jorgecura1070 dice que el hablador de mond\u00e1 del clan Char @AlejandroChar  te gana. https://t.co/thXCGXXMRv",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "mentions": [
-            {
-                "start": 21,
-                "end": 30,
-                "username": "zonacero",
-                "id": "122960146"
-            },
-            {
-                "start": 44,
-                "end": 58,
-                "username": "jorgecura1070",
-                "id": "195395453"
-            },
-            {
-                "start": 103,
-                "end": 117,
-                "username": "AlejandroChar",
-                "id": "118563867"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 8,
-                "end": 19,
-                "probability": 0.9759,
-                "type": "Place",
-                "normalized_text": "Barranquilla"
-            },
-            {
-                "start": 35,
-                "end": 42,
-                "probability": 0.4771,
-                "type": "Person",
-                "normalized_text": "Lameculo"
-            }
-        ],
-        "urls": [
-            {
-                "start": 128,
-                "end": 151,
-                "url": "https://t.co/thXCGXXMRv",
-                "expanded_url": "https://twitter.com/FicoGutierrez/status/1468328465795538954",
-                "display_url": "twitter.com/FicoGutierrez/\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
     "id": 1468431603064004608,
     "author_id": 209247992,
     "tweet_id": 1468411761804070914,
@@ -298,31 +23,6 @@
     },
     "geo": null,
     "lang": "ht"
-}{
-    "id": 1468407887240122370,
-    "author_id": 1445969617931812869,
-    "tweet_id": 1468393914218524674,
-    "created_at": "2021-12-08 02:31:36+00:00",
-    "text": "\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f https://t.co/B8hfl5UxE4",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 9,
-                "end": 32,
-                "url": "https://t.co/B8hfl5UxE4",
-                "expanded_url": "https://twitter.com/jcecheverrycol/status/1468393914218524674",
-                "display_url": "twitter.com/jcecheverrycol\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "und"
 }{
     "id": 1468375751984652291,
     "author_id": 156657366,
@@ -386,99 +86,6 @@
     "geo": null,
     "lang": "es"
 }{
-    "id": 1468357883272351747,
-    "author_id": 321225852,
-    "tweet_id": 1468324921877090304,
-    "created_at": "2021-12-07 23:12:54+00:00",
-    "text": "S\u00ed que le sali\u00f3 mal esto. Ahh tiempos aquellos donde Robledo era un pol\u00edtico de verdad. https://t.co/MQdFWceCFR",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 53,
-                "end": 59,
-                "probability": 0.9728,
-                "type": "Person",
-                "normalized_text": "Robledo"
-            }
-        ],
-        "urls": [
-            {
-                "start": 88,
-                "end": 111,
-                "url": "https://t.co/MQdFWceCFR",
-                "expanded_url": "https://twitter.com/JERobledo/status/1468324921877090304",
-                "display_url": "twitter.com/JERobledo/stat\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468395051973758976,
-    "author_id": 1317098718,
-    "tweet_id": 1468394439781584900,
-    "created_at": "2021-12-08 01:40:36+00:00",
-    "text": "Esa foto fue en El Choc\u00f3? https://t.co/epvzZwcwLC",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 26,
-                "end": 49,
-                "url": "https://t.co/epvzZwcwLC",
-                "expanded_url": "https://twitter.com/Rodrigo_Lara_/status/1468394439781584900",
-                "display_url": "twitter.com/Rodrigo_Lara_/\u2026"
-            }
-        ],
-        "annotations": [
-            {
-                "start": 16,
-                "end": 23,
-                "probability": 0.9003,
-                "type": "Place",
-                "normalized_text": "El Choc\u00f3"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468407887240122370,
-    "author_id": 1445969617931812869,
-    "tweet_id": 1468393914218524674,
-    "created_at": "2021-12-08 02:31:36+00:00",
-    "text": "\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f https://t.co/B8hfl5UxE4",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "urls": [
-            {
-                "start": 9,
-                "end": 32,
-                "url": "https://t.co/B8hfl5UxE4",
-                "expanded_url": "https://twitter.com/jcecheverrycol/status/1468393914218524674",
-                "display_url": "twitter.com/jcecheverrycol\u2026"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "und"
-}{
     "id": 1468348907163983875,
     "author_id": 1409866159319666709,
     "tweet_id": 1468346806929182728,
@@ -516,13 +123,12 @@
         "quote_count": 0
     },
     "entities": {
-        "urls": [
+        "mentions": [
             {
-                "start": 39,
-                "end": 62,
-                "url": "https://t.co/Q0WZOuxd7d",
-                "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375",
-                "display_url": "twitter.com/AABenedetti/st\u2026"
+                "start": 25,
+                "end": 38,
+                "username": "petrogustavo",
+                "id": "49849732"
             }
         ],
         "annotations": [
@@ -534,46 +140,13 @@
                 "normalized_text": "Colombia"
             }
         ],
-        "mentions": [
-            {
-                "start": 25,
-                "end": 38,
-                "username": "petrogustavo",
-                "id": "49849732"
-            }
-        ]
-    },
-    "geo": null,
-    "lang": "es"
-}{
-    "id": 1468430749913305089,
-    "author_id": 768225337444601856,
-    "tweet_id": 1468360267377659906,
-    "created_at": "2021-12-08 04:02:27+00:00",
-    "text": "Duque un hablador que viaja al exterior a cobrar r\u00e9ditos y premios de gobiernos anteriores y a comprometerse con cosas que no quiere hacer. https://t.co/7MKKvNVcvB",
-    "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-    },
-    "entities": {
-        "annotations": [
-            {
-                "start": 0,
-                "end": 4,
-                "probability": 0.8631,
-                "type": "Person",
-                "normalized_text": "Duque"
-            }
-        ],
         "urls": [
             {
-                "start": 140,
-                "end": 163,
-                "url": "https://t.co/7MKKvNVcvB",
-                "expanded_url": "https://twitter.com/IvanCepedaCast/status/1468360267377659906",
-                "display_url": "twitter.com/IvanCepedaCast\u2026"
+                "start": 39,
+                "end": 62,
+                "url": "https://t.co/Q0WZOuxd7d",
+                "expanded_url": "https://twitter.com/AABenedetti/status/1468383256424890375",
+                "display_url": "twitter.com/AABenedetti/st\u2026"
             }
         ]
     },
@@ -617,15 +190,6 @@
         "quote_count": 0
     },
     "entities": {
-        "annotations": [
-            {
-                "start": 212,
-                "end": 240,
-                "probability": 0.7705,
-                "type": "Person",
-                "normalized_text": "Procuradora Margarita Cabello"
-            }
-        ],
         "urls": [
             {
                 "start": 251,
@@ -633,6 +197,15 @@
                 "url": "https://t.co/BUbXyBxwid",
                 "expanded_url": "https://twitter.com/PGN_COL/status/1468363191126212620",
                 "display_url": "twitter.com/PGN_COL/status\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 212,
+                "end": 240,
+                "probability": 0.7705,
+                "type": "Person",
+                "normalized_text": "Procuradora Margarita Cabello"
             }
         ],
         "hashtags": [

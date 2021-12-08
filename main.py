@@ -186,7 +186,7 @@ if __name__ == "__main__":
 
         for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"], exclude=["retweets", "replies"],start_time=fromDate.isoformat()).flatten(RESULTS_LIMIT):
             for keyword in keywords:
-                if keyword.casefold() in tweet.text.casefold():
+                if f' {keyword.casefold()} ' in f' {tweet.text.casefold()} ':
                     parsed = {}
                     parsed['id'] = tweet.id
                     parsed['author_id'] = tweet.author_id
