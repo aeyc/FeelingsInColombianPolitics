@@ -9,12 +9,18 @@ import pandas as pd
 import logging
 from rich.console import Console
 from rich.table import Column, Table
+from pymongo import MongoClient
+
+#Lists to be used in database
+retweets_l = []
+replies_l = []
+tweets_l = []
 
 #
 #   Limit parameters for testing (if you are not using an academic account)
 #
 
-RESULTS_LIMIT = 1
+RESULTS_LIMIT = 10
 
 #
 #   Method for establish a connection whit Twitter API
@@ -50,8 +56,9 @@ def get_retweets(profile, tweet_id):
     rtw_count = 0
 
     url = "https://twitter.com/" + profile + "/status/" + str(tweet_id)
-
-    for retweet in tw.Paginator(client.search_recent_tweets,query='url: "{}"'.format(url)  + " -is:reply -is:retweet is:quote", tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"]).flatten():
+    df = pd.DataFrame()
+    
+    for retweet in tw.Paginator(client.search_recent_tweets,query='url: "{}"'.format(url)  + " -is:reply -is:retweet is:quote", tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"]).flatten(RESULTS_LIMIT):
         parsed = {}
         parsed['id'] = retweet.id
         parsed['author_id'] = retweet.author_id
@@ -62,10 +69,10 @@ def get_retweets(profile, tweet_id):
         parsed['entities'] = retweet.entities
         parsed['geo'] = retweet.geo
         parsed['lang'] = retweet.lang
-        #TODO Send parsed dict to mongo db (retweet)
         file_retweets.write(json.dumps(parsed, indent=4))
         rtw_count += 1
-    
+        
+        retweets_l.append(parsed)
     logging.info("[*] Retweets collected: " + str(rtw_count))
 
     return rtw_count
@@ -81,7 +88,7 @@ def get_replies(tweet_id):
 
     rpl_count = 0
 
-    for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang","referenced_tweets"]).flatten():
+    for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang","referenced_tweets"]).flatten(RESULTS_LIMIT):
         refs = []
         answer_to_tweet = False
 
@@ -106,13 +113,73 @@ def get_replies(tweet_id):
             parsed['entities'] = reply.entities
             parsed['geo'] = reply.geo
             parsed['lang'] = reply.lang
-            #TODO Send parsed dict to mongo db (reply)
+            replies_l.append(parsed)
             file_replies.write(json.dumps(parsed, indent=4))
             rpl_count += 1
 
     logging.info("[*] Replies collected: " + str(rpl_count))
 
     return rpl_count
+
+#
+# Method to use flaaten json object gathered from the api
+# Currently it drops the dictionary entities in one dictionary entity
+#
+def flatten_entities(lst):
+    for i in lst:
+        i['retweet_count'] = i['public_metrics']['retweet_count']
+        i['reply_count'] = i['public_metrics']['reply_count']
+        i['like_count'] = i['public_metrics']['like_count']
+        i['quote_count'] = i['public_metrics']['quote_count']
+        if i['entities'] is not None:
+            if 'hashtags' in list(i['entities'].keys()):
+                i['hashtags'] = i['entities']['hashtags']
+            else:
+                i['hashtags'] =[]
+            
+        del i['public_metrics']
+        del i['entities']
+    return lst
+
+
+def insertDB(replies_df,retweets_df, tweets_df):
+
+    cluster = MongoClient("mongodb+srv://colombia:"+os.getenv("MONGODB_PSW")+"@colombia1.vp4wl.mongodb.net/myFirstDatabase=true&w=majority")
+
+    try: 
+        #modify the <password> part
+        db = cluster["RepliesDB"] #put your db name
+        collection = db["RepliesC"] #put your collection name
+        records = json.loads(replies_df.T.to_json()).values()
+        collection.insert_many(records)
+        logging.info("Replies Inserted")
+        print("Replies Inserted")
+    except Exception as e:
+        logging.info(e)
+        print(e)
+    try: 
+        db = cluster["RetweetsDB"]
+        collection = db["RetweetsC"]
+        records = json.loads(retweets_df.T.to_json()).values()
+        collection.insert_many(records)
+        logging.info("Retweets Inserted")
+        print("Retweets Inserted")
+        
+    except Exception as e:   
+        logging.info(e)
+        print(e)
+    try: 
+        db = cluster["TweetsDB"]
+        collection = db["TweetsC"]
+        records = json.loads(tweets_df.T.to_json()).values()
+        collection.insert_many(records)
+        logging.info("Tweets Inserted")
+        print("Tweets Inserted")
+        
+    except Exception as e:   
+        logging.info(e)
+        print(e)        
+
 
 if __name__ == "__main__":
 
@@ -173,7 +240,7 @@ if __name__ == "__main__":
 
         logging.info("Collecting tweets of " + profile + "...")
 
-        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"], exclude=["retweets", "replies"],start_time=fromDate.isoformat()).flatten():
+        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"], exclude=["retweets", "replies"],start_time=fromDate.isoformat()).flatten(RESULTS_LIMIT):
             for keyword in keywords:
                 if f' {keyword.casefold()} ' in f' {tweet.text.casefold()} ':
                     parsed = {}
@@ -185,9 +252,9 @@ if __name__ == "__main__":
                     parsed['entities'] = tweet.entities
                     parsed['geo'] = tweet.geo
                     parsed['lang'] = tweet.lang
+                    
                     file_tweets.write(json.dumps(parsed, indent=4))
-                    #TODO Send parsed dict to mongo db (tweet)
-
+                    tweets_l.append(parsed)
                     logging.info("[*] Tweet " + str(tweet.id) +  " collected")
 
                     replies_cnt = get_replies(tweet.id)
@@ -244,3 +311,13 @@ if __name__ == "__main__":
     file_tweets.close()
     file_replies.close()
     file_retweets.close()
+            
+    replies_l = flatten_entities(replies_l)
+    retweets_l = flatten_entities(retweets_l)
+    tweets_l = flatten_entities(tweets_l)
+    
+    replies_df = pd.DataFrame(replies_l)
+    retweets_df = pd.DataFrame(retweets_l)
+    tweets_df = pd.DataFrame(tweets_l)
+    
+    insertDB(replies_df,retweets_df, tweets_df)
