@@ -202,7 +202,7 @@ if __name__ == "__main__":
 
     logger = logging.getLogger('spam_application')
 
-    logging.basicConfig(filename='.appdata/app.log', level=logging.INFO, filemode='w', format="[" + str(datetime.datetime.now(timezone.utc).replace(microsecond=0)) + "] "+'%(name)s - %(levelname)s - %(message)s')
+    logging.basicConfig(filename='.appdata/app.log', level=logging.INFO, filemode='w', format= '%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
     file_state = open(".appdata/state.json", "w")
     file_tweets = open("output/tweets.json", "w")
