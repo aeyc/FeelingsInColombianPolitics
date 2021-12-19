@@ -10,6 +10,7 @@ import logging
 from rich.console import Console
 from rich.table import Column, Table
 from pymongo import MongoClient
+import sys
 
 #Lists to be used in database
 retweets_l = []
@@ -20,7 +21,7 @@ tweets_l = []
 #   Limit parameters for testing (if you are not using an academic account)
 #
 
-RESULTS_LIMIT = 10
+RESULTS_LIMIT = 1
 
 #
 #   Method for establish a connection whit Twitter API
@@ -56,9 +57,14 @@ def get_retweets(profile, tweet_id):
     rtw_count = 0
 
     url = "https://twitter.com/" + profile + "/status/" + str(tweet_id)
-    df = pd.DataFrame()
+    read_count = 0
+    max_results = 200
     
-    for retweet in tw.Paginator(client.search_recent_tweets,query='url: "{}"'.format(url)  + " -is:reply -is:retweet is:quote", tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"]).flatten():
+    for retweet in tw.Paginator(client.search_all_tweets,max_results=max_results,query='url: "{}"'.format(url)  + " -is:reply -is:retweet is:quote", tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"]).flatten():
+        if(read_count > max_results-2):
+            time.sleep(1)
+            read_count = 0
+
         parsed = {}
         parsed['id'] = retweet.id
         parsed['author_id'] = retweet.author_id
@@ -73,6 +79,9 @@ def get_retweets(profile, tweet_id):
         rtw_count += 1
         
         retweets_l.append(parsed)
+
+        read_count += 1
+
     logging.info("[*] Retweets collected: " + str(rtw_count))
 
     return rtw_count
@@ -88,7 +97,15 @@ def get_replies(tweet_id):
 
     rpl_count = 0
 
-    for reply in tw.Paginator(client.search_recent_tweets,query="conversation_id:{}".format(tweet_id),tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang","referenced_tweets"]).flatten():
+    read_count = 0
+
+    max_results = 200
+
+    for reply in tw.Paginator(client.search_all_tweets,max_results = max_results,query="conversation_id:{}".format(tweet_id),tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang","referenced_tweets"]).flatten():
+
+        if(read_count > max_results-2):
+            time.sleep(1)
+            read_count = 0
         refs = []
         answer_to_tweet = False
 
@@ -116,6 +133,8 @@ def get_replies(tweet_id):
             replies_l.append(parsed)
             file_replies.write(json.dumps(parsed, indent=4))
             rpl_count += 1
+        
+        read_count += 1
 
     logging.info("[*] Replies collected: " + str(rpl_count))
 
@@ -204,7 +223,6 @@ if __name__ == "__main__":
 
     logging.basicConfig(filename='.appdata/app.log', level=logging.INFO, filemode='w', format= '%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
-    file_state = open(".appdata/state.json", "w")
     file_tweets = open("output/tweets.json", "w")
     file_replies = open("output/replies.json", "w")
     file_retweets = open("output/retweets.json", "w")
@@ -215,16 +233,32 @@ if __name__ == "__main__":
 
     total_rtw_count = 0
 
+
+
     client = connection_to_api() # API authentication
     
     profiles, keywords = load_filters() # Loading of profiles screen names and the keywords
 
     fromDate = datetime.datetime.now(timezone.utc).replace(microsecond=0) - datetime.timedelta(1)
+    endDate = datetime.datetime.now(timezone.utc).replace(microsecond=0)
+
+    if(len(sys.argv)>1):
+        if(sys.argv[1] == "-l"):
+            with open(".appdata/state.json") as f:
+                state = json.load(f)
+                fromDate = datetime.datetime.strptime(state['last_run'][0:19], '%Y-%m-%d %H:%M:%S')
+        if(sys.argv[1] == "-d"):
+            with open("filters/dates.txt") as f:
+                fromDate = datetime.datetime.strptime(f.readline()[0:19], '%Y-%m-%d %H:%M:%S')
+                endDate = datetime.datetime.strptime(f.readline()[0:19], '%Y-%m-%d %H:%M:%S')
+                endDate = endDate.replace(tzinfo=timezone.utc)
+        fromDate = fromDate.replace(tzinfo=timezone.utc)
 
     logging.info("Starting Tweets collector script")
     logging.info("Profiles loaded: " + str(len(profiles)))
     logging.info("Keywords loaded: " + str(len(keywords)))
     logging.info("Start date: " + fromDate.isoformat())
+    logging.info("End date: " + endDate.isoformat())
 
     #
     #   Algorithm
@@ -240,7 +274,7 @@ if __name__ == "__main__":
 
         logging.info("Collecting tweets of " + profile + "...")
 
-        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"], exclude=["retweets", "replies"],start_time=fromDate.isoformat()).flatten():
+        for tweet in tw.Paginator(client.get_users_tweets,id = user_id, tweet_fields=["author_id","created_at","public_metrics","entities","geo","lang"], exclude=["retweets", "replies"],start_time=fromDate.isoformat(), end_time = endDate.isoformat()).flatten():
             for keyword in keywords:
                 if f' {keyword.casefold()} ' in f' {tweet.text.casefold()} ':
                     parsed = {}
@@ -257,7 +291,11 @@ if __name__ == "__main__":
                     tweets_l.append(parsed)
                     logging.info("[*] Tweet " + str(tweet.id) +  " collected")
 
+                    time.sleep(1)
+
                     replies_cnt = get_replies(tweet.id)
+
+                    time.sleep(1)
 
                     retweets_cnt = get_retweets(profile,tweet.id)
 
@@ -299,6 +337,9 @@ if __name__ == "__main__":
     print("Replies collected: ",total_rpl_count)
     print("Execution time: " + str(exec_time))
     print("\n")
+
+    file_state = open(".appdata/state.json", "w")
+
     state = {}
     state['last_run'] = str(datetime.datetime.now(timezone.utc).replace(microsecond=0))
     state['total_tweets_collected'] = total_tw_count
@@ -321,4 +362,5 @@ if __name__ == "__main__":
     tweets_df = pd.DataFrame(tweets_l)
     
     #Uncomment if and only if you want to push into the DB
+    #Do not push into the official db
     #insertDB(replies_df,retweets_df, tweets_df)
