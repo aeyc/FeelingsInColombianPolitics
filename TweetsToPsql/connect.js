@@ -4,8 +4,7 @@ console.log(creds)
 
 // const { MongoClient } = require('mongodb')
 const { Pool, Client } = require('pg')
-const mongoose = require('mongoose')
-const uri = "mongodb+srv://colombia:colombia2021@colombia1.vp4wl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+// const mongoose = require('mongoose')
 
 // mongoose.connect(uri)
 /*
