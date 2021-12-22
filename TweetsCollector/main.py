@@ -11,6 +11,7 @@ from rich.console import Console
 from rich.table import Column, Table
 from pymongo import MongoClient
 import sys
+import subprocess
 
 #Lists to be used in database
 retweets_l = []
@@ -30,6 +31,32 @@ def connection_to_api():
     client = tw.Client(bearer_token=os.getenv("BEARER_TOKEN"), wait_on_rate_limit=True)
     return client
 
+
+#
+#   Method for formatting in json format
+#
+def format(file):
+
+    f = open(file)
+
+    f_new = open("output/formatted.json","w")
+    
+    f_new.write("[\n")
+
+    for line in f:
+        if line == "}{\n":
+            new_line = "},\n{\n"
+            f_new.write(new_line)
+        else:
+            f_new.write(line)
+
+    f_new.write("\n]")
+
+    f.close()
+    f_new.close()
+
+    os.remove(file)
+    os.rename("output/formatted.json", file)
 
 #
 #   Load profiles screen name from profiles.txt and keywords from keywords.txt
@@ -352,6 +379,12 @@ if __name__ == "__main__":
     file_tweets.close()
     file_replies.close()
     file_retweets.close()
+
+    format("output/tweets.json")
+    format("output/replies.json")
+    format("output/retweets.json")
+
+    """
             
     replies_l = flatten_entities(replies_l)
     retweets_l = flatten_entities(retweets_l)
@@ -361,6 +394,14 @@ if __name__ == "__main__":
     retweets_df = pd.DataFrame(retweets_l)
     tweets_df = pd.DataFrame(tweets_l)
     
-    #Uncomment if and only if you want to push into the DB
-    #Do not push into the official db
-    #insertDB(replies_df,retweets_df, tweets_df)
+    insertDB(replies_df,retweets_df, tweets_df)
+    
+    """
+
+    outputs = ["output/replies.json", " output/tweets.json", "output/retweets.json"]
+
+    for output in outputs:
+        bashCommand = "node ../TweetsToPsql/insert.js " + output
+        process = subprocess.Popen(bashCommand.split(), stdout=subprocess.PIPE)
+        output, error = process.communicate()
+        print(output)
