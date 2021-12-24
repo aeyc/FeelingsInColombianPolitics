@@ -54,7 +54,8 @@ async function insertTweets(src) {
             await insertMention(id, userId, username, isReply)
         }
     }
-    console.log('cest fini')
+    console.log('script finished')
+    client.end()
 }
 
 function insertHashtag(tag) {
