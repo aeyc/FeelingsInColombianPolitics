@@ -1,20 +1,10 @@
-const env = 'prod' // change to prod
+const env = 'dev' // change to prod
 const creds = require('./env')[env]
 console.log(creds)
 
 // const { MongoClient } = require('mongodb')
 const { Pool, Client } = require('pg')
 // const mongoose = require('mongoose')
-
-// mongoose.connect(uri)
-/*
-const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
-client.connect(err => {
-  const collection = client.db("test").collection("devices");
-  // perform actions on the collection object
-  client.close();
-});
-*/
 
 // POSTGRESQL connection
 
