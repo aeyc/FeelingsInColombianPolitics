@@ -1,4 +1,5 @@
 TweetsToPsql/node_modules
+*/node_modules
 TweetsToPsql/env.js
 TweetsToPsql/models
 
