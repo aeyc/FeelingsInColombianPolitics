@@ -31,11 +31,8 @@ Luis_Perez_G
 DilianFrancisca
 CeballosM_UEC
 JohnMiltonR_
-JCecheverryCol
 UbeimarDelgadoB
 MauricioCard
-AlirioBarreraR
-RafaNietoLoaiza
 AlvaroUribeVel
 honohenriquez
 ArturoCharC
@@ -50,7 +47,6 @@ IvanCepedaCast
 CatatumbComunes
 GustavoBolivar
 AidaAvellaE
-JohnMiltonR_
 FelicianoValen
 jjUscategui
 JuanKarloslos
