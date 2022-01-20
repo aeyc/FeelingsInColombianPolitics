@@ -1,6 +1,6 @@
 const env = 'dev' // change to prod
 const creds = require('./env')[env]
-console.log(creds)
+// console.log(creds)
 
 // const { MongoClient } = require('mongodb')
 const { Pool, Client } = require('pg')
@@ -26,6 +26,7 @@ const client = new Client({
 
 client.connect()
 
+/*
 client.query('SELECT NOW()', (res, err) => {
   if (err) {
     console.log(err)
@@ -33,5 +34,6 @@ client.query('SELECT NOW()', (res, err) => {
   console.log('OK')
   return res
 })
+*/
 
 module.exports.connection = client
